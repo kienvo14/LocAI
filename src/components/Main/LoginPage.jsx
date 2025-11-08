@@ -5,7 +5,6 @@ import LongFooter from "../House-detail/LongFooter";
 import Header from "../Header/Header";
 import person from "../../asset/Icons_svg/Person.svg";
 import google from "../../asset/Icons_svg/Google.svg";
-import MobileFooter from "../Footer/MobileFooter";
 import { loginWithEmail, signInWithGoogle } from "../../api/apiAuthentication";
 
 // Custom hook for authentication logic
@@ -202,9 +201,7 @@ const LoginPage = () => {
         </div>
       </div>
 
-      <div className="w-full 1xz:hidden">
-        <MobileFooter />
-      </div>
+      
       <div className="w-full 1xz:block hidden">
         <LongFooter />
       </div>

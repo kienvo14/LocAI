@@ -1,5 +1,4 @@
 import React from "react";
-import MobileFooter from "../Footer/MobileFooter";
 import Header from "../Header/Header";
 import profilePageData from "../../utils/profilePageData";
 import LongFooter from "../House-detail/LongFooter";
@@ -80,7 +79,6 @@ const Profile = () => {
       <MobileProfilePage />
       <DesktopProfile userData={userData} />
       <LongFooter />
-      <MobileFooter />
     </div>
   );
 };

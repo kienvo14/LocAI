@@ -6,7 +6,6 @@ import { useSelector } from "react-redux";
 
 import { useQuery } from "@tanstack/react-query";
 import { getPayments, getWishList } from "../../api/apiRooms";
-import MobileFooter from "../../components/Footer/MobileFooter";
 import monthSvg from "../../asset/Icons_svg/month.svg";
 import person from "../../asset/Icons_svg/Person.svg";
 import LoadingOverlay from "../../utils/LoadingOverlay";
@@ -228,7 +227,7 @@ const Trips = () => {
           </div>
         )}
       </div>
-      {userData && <MobileFooter></MobileFooter>}
+  
       <LongFooter></LongFooter>
     </div>
   );

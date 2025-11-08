@@ -2,8 +2,6 @@ import React from "react";
 import { Link } from "react-router-dom";
 import { useDispatch } from "react-redux";
 import star from "../../asset/Icons_svg/star.svg";
-
-import MobileFooter from "../../components/Footer/MobileFooter";
 import LongFooter from "../House-detail/LongFooter";
 import Header from "../Header/Header";
 import {
@@ -175,7 +173,7 @@ const WishlistPage = ({ userData, isLoading, wishList, favListings, svg }) => {
           <LongFooter />
         </div>
       )}
-      <MobileFooter />
+    
     </div>
   );
 };

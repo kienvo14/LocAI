@@ -8,7 +8,6 @@ import Header from "../Header/Header";
 import Options from "./Options";
 import House from "./House";
 import Footer from "../Footer/Footer";
-import MobileFooter from "../Footer/MobileFooter";
 import { getAllRows } from "../../api/apiRooms";
 
 import "../../input.css";
@@ -63,13 +62,12 @@ const Home = () => {
         <House />
       </div>
 
-      {userData && (
-        <div className="w-full hidden 1smd:flex-center bg-white border-t border-grey-light-50 fixed bottom-0 h-10">
-          <Footer />
-        </div>
-      )}
+      <div>FOOTER TEST</div>
+      <div className="w-full 1smd:flex-center bg-white border-t border-grey-light-50">
+        <Footer />
+      </div>
 
-      <MobileFooter />
+     
       <SpeedInsights />
     </div>
   );
