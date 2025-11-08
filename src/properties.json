@@ -1,262 +1,101 @@
 [
     {
-      "id": "457580484",
-      "img": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-      "price": 1440,
-      "bedrooms": 2,
-      "address": "2475 Sheridan Dr #2481-09, Tonawanda, NY 14150",
-      "pets": false,
-      "link": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-      "distanceToSchool": 0
-    },
-    {
-      "id": "351355966",
-      "img": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-      "price": 1295,
-      "bedrooms": 1,
-      "address": "427 Emerson Dr #221, Buffalo, NY 14226",
-      "pets": false,
-      "link": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-      "distanceToSchool": 0
-    },
-    {
-        "id": "457580484",
-        "img": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "price": 1440,
-        "bedrooms": 2,
-        "address": "2475 Sheridan Dr #2481-09, Tonawanda, NY 14150",
-        "pets": false,
-        "link": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "distanceToSchool": 0
-      },
-      {
-        "id": "351355966",
-        "img": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "price": 1295,
-        "bedrooms": 1,
-        "address": "427 Emerson Dr #221, Buffalo, NY 14226",
-        "pets": false,
-        "link": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "distanceToSchool": 0
-      },
-      {
-        "id": "457580484",
-        "img": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "price": 1440,
-        "bedrooms": 2,
-        "address": "2475 Sheridan Dr #2481-09, Tonawanda, NY 14150",
-        "pets": false,
-        "link": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "distanceToSchool": 0
-      },
-      {
-        "id": "351355966",
-        "img": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "price": 1295,
-        "bedrooms": 1,
-        "address": "427 Emerson Dr #221, Buffalo, NY 14226",
-        "pets": false,
-        "link": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "distanceToSchool": 0
-      },
-      {
-        "id": "457580484",
-        "img": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "price": 1440,
-        "bedrooms": 2,
-        "address": "2475 Sheridan Dr #2481-09, Tonawanda, NY 14150",
-        "pets": false,
-        "link": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "distanceToSchool": 0
-      },
-      {
-        "id": "351355966",
-        "img": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "price": 1295,
-        "bedrooms": 1,
-        "address": "427 Emerson Dr #221, Buffalo, NY 14226",
-        "pets": false,
-        "link": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "distanceToSchool": 0
-      },
-      {
-        "id": "457580484",
-        "img": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "price": 1440,
-        "bedrooms": 2,
-        "address": "2475 Sheridan Dr #2481-09, Tonawanda, NY 14150",
-        "pets": false,
-        "link": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "distanceToSchool": 0
-      },
-      {
-        "id": "351355966",
-        "img": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "price": 1295,
-        "bedrooms": 1,
-        "address": "427 Emerson Dr #221, Buffalo, NY 14226",
-        "pets": false,
-        "link": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "distanceToSchool": 0
-      },
-      {
-        "id": "457580484",
-        "img": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "price": 1440,
-        "bedrooms": 2,
-        "address": "2475 Sheridan Dr #2481-09, Tonawanda, NY 14150",
-        "pets": false,
-        "link": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "distanceToSchool": 0
-      },
-      {
-        "id": "351355966",
-        "img": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "price": 1295,
-        "bedrooms": 1,
-        "address": "427 Emerson Dr #221, Buffalo, NY 14226",
-        "pets": false,
-        "link": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "distanceToSchool": 0
-      },
-      {
-        "id": "457580484",
-        "img": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "price": 1440,
-        "bedrooms": 2,
-        "address": "2475 Sheridan Dr #2481-09, Tonawanda, NY 14150",
-        "pets": false,
-        "link": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "distanceToSchool": 0
-      },
-      {
-        "id": "351355966",
-        "img": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "price": 1295,
-        "bedrooms": 1,
-        "address": "427 Emerson Dr #221, Buffalo, NY 14226",
-        "pets": false,
-        "link": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "distanceToSchool": 0
-      },
-      {
-        "id": "457580484",
-        "img": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "price": 1440,
-        "bedrooms": 2,
-        "address": "2475 Sheridan Dr #2481-09, Tonawanda, NY 14150",
-        "pets": false,
-        "link": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "distanceToSchool": 0
-      },
-      {
-        "id": "351355966",
-        "img": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "price": 1295,
-        "bedrooms": 1,
-        "address": "427 Emerson Dr #221, Buffalo, NY 14226",
-        "pets": false,
-        "link": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "distanceToSchool": 0
-      },
-      {
-        "id": "457580484",
-        "img": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "price": 1440,
-        "bedrooms": 2,
-        "address": "2475 Sheridan Dr #2481-09, Tonawanda, NY 14150",
-        "pets": false,
-        "link": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "distanceToSchool": 0
-      },
-      {
-        "id": "351355966",
-        "img": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "price": 1295,
-        "bedrooms": 1,
-        "address": "427 Emerson Dr #221, Buffalo, NY 14226",
-        "pets": false,
-        "link": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "distanceToSchool": 0
-      },
-      {
-        "id": "457580484",
-        "img": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "price": 1440,
-        "bedrooms": 2,
-        "address": "2475 Sheridan Dr #2481-09, Tonawanda, NY 14150",
-        "pets": false,
-        "link": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "distanceToSchool": 0
-      },
-      {
-        "id": "351355966",
-        "img": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "price": 1295,
-        "bedrooms": 1,
-        "address": "427 Emerson Dr #221, Buffalo, NY 14226",
-        "pets": false,
-        "link": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "distanceToSchool": 0
-      },
-      {
-        "id": "457580484",
-        "img": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "price": 1440,
-        "bedrooms": 2,
-        "address": "2475 Sheridan Dr #2481-09, Tonawanda, NY 14150",
-        "pets": false,
-        "link": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "distanceToSchool": 0
-      },
-      {
-        "id": "351355966",
-        "img": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "price": 1295,
-        "bedrooms": 1,
-        "address": "427 Emerson Dr #221, Buffalo, NY 14226",
-        "pets": false,
-        "link": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "distanceToSchool": 0
-      },
-      {
-        "id": "457580484",
-        "img": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "price": 1440,
-        "bedrooms": 2,
-        "address": "2475 Sheridan Dr #2481-09, Tonawanda, NY 14150",
-        "pets": false,
-        "link": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "distanceToSchool": 0
-      },
-      {
-        "id": "351355966",
-        "img": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "price": 1295,
-        "bedrooms": 1,
-        "address": "427 Emerson Dr #221, Buffalo, NY 14226",
-        "pets": false,
-        "link": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "distanceToSchool": 0
-      },
-      {
-        "id": "457580484",
-        "img": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "price": 1440,
-        "bedrooms": 2,
-        "address": "2475 Sheridan Dr #2481-09, Tonawanda, NY 14150",
-        "pets": false,
-        "link": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "distanceToSchool": 0
-      },
-      {
-        "id": "351355966",
-        "img": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "price": 1295,
-        "bedrooms": 1,
-        "address": "427 Emerson Dr #221, Buffalo, NY 14226",
-        "pets": false,
-        "link": "https://www.buffalo.edu/content/www/brand/resources-tools/downloads/_jcr_content/par/image_1.img.209.auto.png/1632232420604.png",
-        "distanceToSchool": 0
-      }
-  ]
+  "id": "2 bed 1 bath near Village Heights",
+  "img": "https://example.com/img1.jpg",
+  "price": 725,
+  "bedrooms": 2,
+  "address": "825 Forest Rd, Williamsville, NY, 14221",
+  "pets": true,
+  "link": "https://example.com/property3"
+},
+{
+  "id": "1 bed ground-floor unit",
+  "img": "https://example.com/img2.jpg",
+  "price": 620,
+  "bedrooms": 1,
+  "address": "1036 Oakwood Ln, Amherst, NY, 14221",
+  "pets": false,
+  "link": "https://example.com/property4"
+},
+{
+  "id": "3 bed 2 bath townhouse",
+  "img": "https://example.com/img3.jpg",
+  "price": 950,
+  "bedrooms": 3,
+  "address": "412 Maple Glen Dr, Williamsville, NY, 14221",
+  "pets": true,
+  "link": "https://example.com/property5"
+},
+{
+  "id": "1 bed loft style",
+  "img": "https://example.com/img4.jpg",
+  "price": 635,
+  "bedrooms": 1,
+  "address": "299 Glen Ave, Williamsville, NY, 14221",
+  "pets": false,
+  "link": "https://example.com/property6"
+},
+{
+  "id": "2 bed 1.5 bath modern condo",
+  "img": "https://example.com/img5.jpg",
+  "price": 810,
+  "bedrooms": 2,
+  "address": "590 Birchwood Cir, Amherst, NY, 14221",
+  "pets": true,
+  "link": "https://example.com/property7"
+},
+{
+  "id": "Studio + den, 1 bath",
+  "img": "https://example.com/img6.jpg",
+  "price": 580,
+  "bedrooms": 1,
+  "address": "1509 Creekside Rd, Williamsville, NY, 14221",
+  "pets": false,
+  "link": "https://example.com/property8"
+},
+{
+  "id": "3 bed single family home",
+  "img": "https://example.com/img7.jpg",
+  "price": 1100,
+  "bedrooms": 3,
+  "address": "202 Highland Pkwy, Amherst, NY, 14221",
+  "pets": true,
+  "link": "https://example.com/property9"
+},
+{
+    "id": "Manhattan-Square-Apartments",
+    "img": "https://photos.zillowstatic.com/fp/de4a45928050a64e18d84e5e10ff1140-p_e.jpg",
+    "price": 1200,
+    "bedrooms": 2,
+    "address": "190 Manhattan Ave # 8cb510e37, Buffalo, NY 14215",
+    "pets": false,
+    "link": "/apartments/buffalo-ny/manhattan-square-apartments/5hQtKT/"
+  },
+  {
+    "id": "Main-Jewett-Apartments",
+    "img": "https://photos.zillowstatic.com/fp/461487746e7229fd4c654f920962c4cc-p_e.jpg",
+    "price": 968,
+    "bedrooms": 0,
+    "address": "10 Jewett Pkwy # 9721db78b, Buffalo, NY 14214",
+    "pets": false,
+    "link": "/apartments/buffalo-ny/main-jewett-apartments/CmGWGw/"
+  },
+  {
+    "id": "Highland-Park",
+    "img": "https://photos.zillowstatic.com/fp/f2ca185fb49c10d25802c28a5ee53b22-p_e.jpg",
+    "price": 1391,
+    "bedrooms": 1,
+    "address": "164 Chalmers Ave # 5328244, Buffalo, NY 14214",
+    "pets": false,
+    "link": "/apartments/buffalo-ny/highland-park/CkBJMd/"
+  },
+  {
+    "id": "Beechwood-Manor-Apartments",
+    "img": "https://photos.zillowstatic.com/fp/5c7039219b3f4d5ad4f4db01bb572e85-p_e.jpg",
+    "price": 1300,
+    "bedrooms": 2,
+    "address": "1035 Beach Rd #B4CB58A91, Buffalo, NY 14225",
+    "pets": false,
+    "link": "https://www.zillow.com/apartments/cheektowaga-ny/beechwood-manor-apartments/5hQtLK/"
+  }
+]
