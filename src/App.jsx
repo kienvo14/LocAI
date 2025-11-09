@@ -6,6 +6,7 @@ import { ReactQueryDevtools } from "@tanstack/react-query-devtools";
 import { Analytics } from "@vercel/analytics/react";
 import Wishlist from "./components/Main/Wishlist";
 
+import Trips from "./components/Main/Trips";
 
 import CheckoutForm from "./payment/CheckoutForm";
 import Profile from "./components/Main/Profile";
@@ -26,6 +27,10 @@ const router = createBrowserRouter([
   {
     path: "/wishlist",
     element: <Wishlist></Wishlist>,
+  },
+  {
+    path: "/trips",
+    element: <Trips></Trips>,
   },
   {
     path: "/login",
