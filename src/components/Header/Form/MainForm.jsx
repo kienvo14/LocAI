@@ -5,9 +5,6 @@ import searchIcon from "../../../asset/Icons_svg/search-icon.svg";
 /**
  * Props:
  *  - onSearch(data: array)  => called with filtered properties returned by backend
- *
- * The form POSTs to /properties with JSON body of filters:
- *  { schoolAddress, priceRange: [min,max], maxCommuteMinutes, hasCar, petsAllowed, publicTransport, use_network }
  */
 const MainForm = ({ onSearch }) => {
   const [form, setForm] = useState({
@@ -17,7 +14,7 @@ const MainForm = ({ onSearch }) => {
     hasCar: false,
     petsAllowed: false,
     publicTransport: false,
-    use_network: false, // optional: try OSM network route distances (heavier)
+    use_network: false,
   });
 
   const handleChange = (e) => {
@@ -35,6 +32,9 @@ const MainForm = ({ onSearch }) => {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
+    console.log("🔍 MainForm: Search submitted with filters:", form);
+    console.log("🔍 MainForm: onSearch callback exists?", !!onSearch);
+    
     try {
       const res = await fetch("http://127.0.0.1:5000/properties", {
         method: "POST",
@@ -49,12 +49,21 @@ const MainForm = ({ onSearch }) => {
           use_network: form.use_network,
         }),
       });
+      
       if (!res.ok) throw new Error("Network response was not ok");
+      
       const data = await res.json();
+      console.log("✅ MainForm: Received", data.length, "results from backend");
+      
       // pass filtered results to parent
-      if (onSearch) onSearch(data);
+      if (onSearch) {
+        console.log("✅ MainForm: Calling onSearch callback with", data.length, "results");
+        onSearch(data);
+      } else {
+        console.error("❌ MainForm: onSearch callback is missing!");
+      }
     } catch (err) {
-      console.error("Search error:", err);
+      console.error("❌ MainForm: Search error:", err);
       alert("Search failed — see console.");
     }
   };
@@ -75,7 +84,7 @@ const MainForm = ({ onSearch }) => {
         <input
           type="text"
           name="schoolAddress"
-          placeholder="School address"
+          placeholder="UB (ignored - always UB)"
           value={form.schoolAddress}
           onChange={handleChange}
           className="flex-1 px-4 py-2 focus:outline-none focus:bg-gray-100 placeholder-gray-400 rounded-md hover:bg-gray-100 transition-colors duration-150"
@@ -85,7 +94,7 @@ const MainForm = ({ onSearch }) => {
       <div className="w-px bg-gray-300 h-6 mx-2" />
 
       <div className="flex flex-col items-center group">
-        <label className="text-gray-500 text-xs mb-1">Price Range</label>
+        <label className="text-gray-500 text-xs mb-1">Price Range Per Person</label>
         <div className="flex items-center rounded-md overflow-hidden hover:bg-gray-100 transition-colors duration-150">
           <input
             type="number"

@@ -4,7 +4,7 @@ import { useLocation } from "react-router";
 import UserDashboard from "./UserDashboard";
 import AuthenticationModal from "./AuthenticationModal";
 
-function Header({ headerRef }) {
+function Header({ headerRef, onSearch }) {
   const location = useLocation();
 
   const isHouseDetailPage = location.pathname.includes("/house/");
@@ -57,7 +57,7 @@ function Header({ headerRef }) {
       </div>
 
       {!isWishListPage && !isSignInPage && !isProfilePage && (
-        <MainFormSection headerRef={headerRef} />
+        <MainFormSection headerRef={headerRef} onSearch={onSearch} />
       )}
     </div>
   );
@@ -103,16 +103,18 @@ function CenterButtons({ startScroll, minimizeHeader }) {
 
 
 // Renders the main form component if it's not on specific pages
-function MainFormSection({ headerRef }) {
+// NOW RECEIVES AND PASSES onSearch callback
+function MainFormSection({ headerRef, onSearch }) {
   return (
     <div className="w-full 1smd:w-auto hidden 1xz:flex 1smd:block items-center justify-start 1smd:pl-0 pl-[16rem]">
       {/* Outer pill/border wrapper */}
       <div className="flex items-center justify-center rounded-full border border-gray-200 p-1 bg-white">
-        <MainForm headerRef={headerRef} />
+        <MainForm headerRef={headerRef} onSearch={onSearch} />
       </div>
     </div>
   );
 }
+
 // Helper Functions
 
 /**

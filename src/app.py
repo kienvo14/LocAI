@@ -55,7 +55,7 @@ def filter_properties(filters, data):
     """
     Filter properties by:
     - priceRange [min, max]
-    - maxDistance (miles from UB)
+    - maxDistance (miles from UB - always UB, schoolAddress ignored)
     - bedrooms (exact match or minimum)
     - petsAllowed boolean
     """
@@ -68,9 +68,12 @@ def filter_properties(filters, data):
     min_price = price_range[0] if isinstance(price_range, list) and len(price_range) > 0 else 0
     max_price = price_range[1] if isinstance(price_range, list) and len(price_range) > 1 else 10000
     
-    max_distance = filters.get("maxDistance")  # in miles
+    # Frontend sends "maxCommuteMinutes" but it's actually miles
+    max_distance = filters.get("maxCommuteMinutes")  # in miles
     bedrooms_filter = filters.get("bedrooms")  # exact match or None
     pets_required = filters.get("petsAllowed", False)
+    
+    # schoolAddress is ALWAYS ignored - we only use UB coordinates
     
     app.logger.info(f"Filtering: price {min_price}-{max_price}, maxDist: {max_distance}, bedrooms: {bedrooms_filter}, pets: {pets_required}")
     

@@ -60,11 +60,12 @@ const Home = () => {
     });
   };
 
-  // Handle “Show More”
+  // Handle "Show More"
   const handleShowMore = () => setVisibleCount((prev) => prev + 9);
 
   // Handle search results from MainForm
   const handleSearch = (data) => {
+    console.log("🏠 HomePage: handleSearch called with", data.length, "results");
     setListings(normalizeListings(data));
     setVisibleCount(9); // reset view count
   };
@@ -88,9 +89,9 @@ const Home = () => {
 
   return (
     <div className="flex flex-col items-center justify-center relative bg-white">
-      {/* Header */}
+      {/* Header - ONLY CHANGE: Added onSearch prop */}
       <div ref={headerRef} id="header" className={getHeaderClasses()}>
-        <Header headerRef={headerRef} />
+        <Header headerRef={headerRef} onSearch={handleSearch} />
       </div>
 
       {/* MainForm — now visible in homepage, NOT inside Header */}
