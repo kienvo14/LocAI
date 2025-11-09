@@ -34,7 +34,6 @@ def precompute_distances(data):
     Adds 'distance' field to each property.
     """
     for prop in data:
-        # Check if property already has lat/lon
         lat = prop.get("latitude") or prop.get("lat")
         lon = prop.get("longitude") or prop.get("lon") or prop.get("lng")
         
@@ -46,7 +45,6 @@ def precompute_distances(data):
                 app.logger.warning(f"Distance calc error for {prop.get('address')}: {e}")
                 prop["distance"] = 0
         else:
-            # If no coordinates, set distance to 0 (or you could geocode here)
             prop["distance"] = 0
     
     return data
@@ -63,22 +61,17 @@ def filter_properties(filters, data):
     
     results = []
     
-    # Extract filter values with safe defaults
     price_range = filters.get("priceRange", [0, 10000])
     min_price = price_range[0] if isinstance(price_range, list) and len(price_range) > 0 else 0
     max_price = price_range[1] if isinstance(price_range, list) and len(price_range) > 1 else 10000
     
-    # Frontend sends "maxCommuteMinutes" but it's actually miles
     max_distance = filters.get("maxCommuteMinutes")  # in miles
-    bedrooms_filter = filters.get("bedrooms")  # exact match or None
+    bedrooms_filter = filters.get("bedrooms")
     pets_required = filters.get("petsAllowed", False)
-    
-    # schoolAddress is ALWAYS ignored - we only use UB coordinates
     
     app.logger.info(f"Filtering: price {min_price}-{max_price}, maxDist: {max_distance}, bedrooms: {bedrooms_filter}, pets: {pets_required}")
     
     for prop in data:
-        # Price filter
         try:
             price = float(prop.get("price", 0))
         except (ValueError, TypeError):
@@ -87,7 +80,6 @@ def filter_properties(filters, data):
         if not (min_price <= price <= max_price):
             continue
         
-        # Distance filter
         if max_distance is not None:
             try:
                 distance = float(prop.get("distance", 0))
@@ -96,7 +88,6 @@ def filter_properties(filters, data):
             except (ValueError, TypeError):
                 continue
         
-        # Bedrooms filter (exact match)
         if bedrooms_filter is not None:
             try:
                 prop_bedrooms = int(prop.get("bedrooms", 0))
@@ -105,15 +96,15 @@ def filter_properties(filters, data):
             except (ValueError, TypeError):
                 continue
         
-        # Pets filter
         if pets_required:
-            if not prop.get("pet", False):  # Note: your data uses "pet" not "petsAllowed"
+            if not prop.get("pet", False):  # data uses "pet"
                 continue
         
         results.append(prop)
     
     app.logger.info(f"Returning {len(results)} results")
     return results
+
 
 @app.route("/properties", methods=["GET", "POST"])
 def properties_endpoint():
@@ -125,16 +116,54 @@ def properties_endpoint():
     except json.JSONDecodeError:
         return jsonify({"error": "Invalid JSON"}), 500
     
-    # Precompute distances from UB if not already present
     data = precompute_distances(data)
     
     if request.method == "POST":
         filters = request.get_json() or {}
         filtered = filter_properties(filters, data)
+
+        # 🧠 Simple AI-style Ranking System
+        def compute_score(prop, filters):
+            score = 0
+            # 1. Closer distance → higher score
+            if "maxCommuteMinutes" in filters and prop.get("distance") is not None:
+                dist = float(prop["distance"])
+                max_dist = float(filters["maxCommuteMinutes"])
+                score += max(0, (max_dist - dist)) * 2
+
+            # 2. Affordable price → higher score
+            if "priceRange" in filters:
+                try:
+                    price = float(prop.get("price", 0))
+                    min_p, max_p = filters["priceRange"]
+                    if min_p <= price <= max_p:
+                        score += 10
+                    else:
+                        score -= abs(price - max_p) / 100
+                except Exception:
+                    pass
+
+            # 3. Pet-friendly bonus
+            if filters.get("petsAllowed") and prop.get("pet"):
+                score += 5
+
+            # 4. Bedroom match bonus
+            if filters.get("bedrooms") and str(filters["bedrooms"]) == str(prop.get("bedrooms")):
+                score += 3
+
+            return score
+
+        # Compute and sort by AI ranking
+        for prop in filtered:
+            prop["score"] = compute_score(prop, filters)
+
+        filtered.sort(key=lambda x: x["score"], reverse=True)
+
         return jsonify(filtered)
     
-    # GET -> return all properties with computed distances
+    # GET → return all properties
     return jsonify(data)
+
 
 if __name__ == "__main__":
     app.run(debug=True, port=5000)
