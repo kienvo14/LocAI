@@ -1,11 +1,9 @@
 import icon from "../../asset/airbnbLogo.svg";
-import github from "../../asset/github.svg";
 import MainForm from "./Form/MainForm";
 import { useSelector } from "react-redux";
 import { useLocation } from "react-router";
 import UserDashboard from "./UserDashboard";
 import AuthenticationModal from "./AuthenticationModal";
-import MobileForm from "./Form/MobileForm";
 
 function Header({ headerRef }) {
   const location = useLocation();
