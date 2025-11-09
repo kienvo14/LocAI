@@ -4998,5 +4998,5005 @@
     "pet": true,
     "link": "https://www.zillow.com//homedetails/2269-Clinton-St-APT-1-Buffalo-NY-14206/351166197_zpid/",
     "distance": 0
+  },
+  {
+    "id": "xv2jqz50mmaj",
+    "img": "https://photos.zillowstatic.com/fp/dfaf5a0aa3e52b151a9f7f73ddf1e1a5-p_e.jpg",
+    "price": 1700,
+    "bedrooms": 1,
+    "address": "2075 Kenmore Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/wood-and-brooks/CjfGjW/",
+    "distance": 0
+  },
+  {
+    "id": "34es9brmxp5vg",
+    "img": "https://photos.zillowstatic.com/fp/0997218926d1ac09bbd4806d38695613-p_e.jpg",
+    "price": 2450,
+    "bedrooms": 2,
+    "address": "1020 Elmwood Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/district-west-lofts-on-elmwood/Cjgqmj/",
+    "distance": 0
+  },
+  {
+    "id": "441582933",
+    "img": "https://photos.zillowstatic.com/fp/10a3c98338c417d80612d022b47f73bf-p_e.jpg",
+    "price": 2650,
+    "bedrooms": 2,
+    "address": "5877 Main St, Buffalo, NY 14221",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/williamsville-ny/williams-place/CmPbxk/",
+    "distance": 0
+  },
+  {
+    "id": "1fg98hydzmz02",
+    "img": "https://photos.zillowstatic.com/fp/24b1a337f18fcc3d25fb5ea0c1466dc7-p_e.jpg",
+    "price": 1682,
+    "bedrooms": 1,
+    "address": "1360 Niagara St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/the-mentholatum/CmJkn8/",
+    "distance": 0
+  },
+  {
+    "id": "448993385",
+    "img": "https://photos.zillowstatic.com/fp/37a4b1f28899ad72a669c6497ee91a31-p_e.jpg",
+    "price": 2195,
+    "bedrooms": 2,
+    "address": "6842-6846 Main St, Buffalo, NY 14221",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/williamsville-ny/the-pointe/Cgrsk7/",
+    "distance": 0
+  },
+  {
+    "id": "43gp8drrrm464",
+    "img": "https://photos.zillowstatic.com/fp/cf520aad5fc7194ec2fc17ebdd788d20-p_e.jpg",
+    "price": 1945,
+    "bedrooms": 1,
+    "address": "121 California Dr, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/williamsville-ny/asher-crossing/CkBhk2/",
+    "distance": 0
+  },
+  {
+    "id": "457923650",
+    "img": "https://photos.zillowstatic.com/fp/65554c1c43438a1f1d359eedc9744ddd-p_e.jpg",
+    "price": 1150,
+    "bedrooms": 1,
+    "address": "1290-1310 Delaware Ave, Buffalo, NY 14209",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/gates-circle/CpPyY6/",
+    "distance": 0
+  },
+  {
+    "id": "fa3sg5u7jaky",
+    "img": "https://photos.zillowstatic.com/fp/1ff58ecff0b80c7693a36266ae52fd42-p_e.jpg",
+    "price": 1595,
+    "bedrooms": 0,
+    "address": "888 Delaware Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/the-goodyear-mansion-and-residences/CkBNTz/",
+    "distance": 0
+  },
+  {
+    "id": "1rk1qwscz0063",
+    "img": "https://photos.zillowstatic.com/fp/f253bf29169c44b122710d60169517e2-p_e.jpg",
+    "price": 1725,
+    "bedrooms": 1,
+    "address": "506 Delaware Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/the-knights-@-506-delaware/CjjVHL/",
+    "distance": 0
+  },
+  {
+    "id": "4qednts9u4njg",
+    "img": "https://photos.zillowstatic.com/fp/65e9468174db86935287ccc81757110d-p_e.jpg",
+    "price": 1669,
+    "bedrooms": 1,
+    "address": "6386 Transit Rd, Depew, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/depew-ny/midtown-apartments/CjjCcF/",
+    "distance": 0
+  },
+  {
+    "id": "2s5b28ckgu9vv",
+    "img": "https://photos.zillowstatic.com/fp/31efecef840d0eb0d05833a8282e3094-p_e.jpg",
+    "price": 1499,
+    "bedrooms": 1,
+    "address": "70 Harvard Pl, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/the-ingleside-apartments/98BJXw/",
+    "distance": 0
+  },
+  {
+    "id": "1h3dt80zpn45c",
+    "img": "https://photos.zillowstatic.com/fp/457231b47aaa3b2efc11d42438d89da8-p_e.jpg",
+    "price": 2225,
+    "bedrooms": 1,
+    "address": "19 North St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/nineteen-north/CpJwvk/",
+    "distance": 0
+  },
+  {
+    "id": "237ynczhm8x13",
+    "img": "https://photos.zillowstatic.com/fp/57f6b55bbb9010f7540db7df2d120944-p_e.jpg",
+    "price": 1595,
+    "bedrooms": 1,
+    "address": "1410 Deer Lakes Dr, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/amherst-ny/deer-lakes-apartments/CkCjC8/",
+    "distance": 0
+  },
+  {
+    "id": "449594879",
+    "img": "https://photos.zillowstatic.com/fp/87e5d16d68225e2ef3ec7ef728448c33-p_e.jpg",
+    "price": 2100,
+    "bedrooms": 2,
+    "address": "141 Elm St, Buffalo, NY 14203",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/the-planing-mill/5hJ5Vy/",
+    "distance": 0
+  },
+  {
+    "id": "rrdjjn1xdyxa",
+    "img": "https://photos.zillowstatic.com/fp/19476f3bf14e6d588517b42953f0ae51-p_e.jpg",
+    "price": 1595,
+    "bedrooms": 1,
+    "address": "9500 Transit Rd, East Amherst, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/east-amherst-ny/fox-creek-estates/5Xqwwf/",
+    "distance": 0
+  },
+  {
+    "id": "458028515",
+    "img": "https://photos.zillowstatic.com/fp/8687226cd1bcd3629067880eeb4506a3-p_e.jpg",
+    "price": 1190,
+    "bedrooms": 2,
+    "address": "3400 McKinley Pkwy, Buffalo, NY 14219",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/blasdell-ny/camelot-village-apartments/CjfR4r/",
+    "distance": 0
+  },
+  {
+    "id": "2079389761",
+    "img": "https://photos.zillowstatic.com/fp/2736ccef5ac3d0dfc52a84858bdaea60-p_e.jpg",
+    "price": 1970,
+    "bedrooms": 2,
+    "address": "2675 Millersport Hwy #25-7, Getzville, NY 14068",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/getzville-ny/stonington-park-apartments/CjQ3BX/",
+    "distance": 0
+  },
+  {
+    "id": "2n2agv40kx147",
+    "img": "https://photos.zillowstatic.com/fp/79880ba5ffe86803fb32a080d6b762b3-p_e.jpg",
+    "price": 1468,
+    "bedrooms": 1,
+    "address": "5828 Broadway St, Lancaster, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/lancaster-ny/edgewater-apartments/CkBWZS/",
+    "distance": 0
+  },
+  {
+    "id": "5eqtcyy0n70se",
+    "img": "https://photos.zillowstatic.com/fp/5eeb8afc0bee537c3d6ef7f3e57d1d94-p_e.jpg",
+    "price": 2495,
+    "bedrooms": 2,
+    "address": "440 Dodge Rd, Getzville, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/getzville-ny/greens-on-dodge/C3Y2jd/",
+    "distance": 0
+  },
+  {
+    "id": "2qatmc357txkh",
+    "img": "https://photos.zillowstatic.com/fp/a4ff53eea5aef42ac5fec4822bc7d9f6-p_e.jpg",
+    "price": 1695,
+    "bedrooms": 0,
+    "address": "600 River Rd, North Tonawanda, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/north-tonawanda-ny/600-river-road-apartments/Chbrdq/",
+    "distance": 0
+  },
+  {
+    "id": "4ay4b1bkydfbm",
+    "img": "https://photos.zillowstatic.com/fp/ff7f3c42e3475f414f590dbe2cfb87fa-p_e.jpg",
+    "price": 2130,
+    "bedrooms": 0,
+    "address": "200 Delaware Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/vistas-at-avant/Ck7LGd/",
+    "distance": 0
+  },
+  {
+    "id": "5bc60qv3c5hp3",
+    "img": "https://photos.zillowstatic.com/fp/3b7d7f7cef47f9c839fbce99f7e12a97-p_e.jpg",
+    "price": 1460,
+    "bedrooms": 1,
+    "address": "2939 Main St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/the-rails-apartments/CnnMYZ/",
+    "distance": 0
+  },
+  {
+    "id": "2erppr4qyrfva",
+    "img": "https://photos.zillowstatic.com/fp/57886b984b3f7abead19da97c8203470-p_e.jpg",
+    "price": 1515,
+    "bedrooms": 1,
+    "address": "100 Weiss Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/west-seneca-ny/connect-55+-orchard-park-senior-living-55+/5jGDvr/",
+    "distance": 0
+  },
+  {
+    "id": "3a7ua63gn9yfd",
+    "img": "https://photos.zillowstatic.com/fp/1483b39dc0eda6418180b0f700419ba5-p_e.jpg",
+    "price": 1653,
+    "bedrooms": 1,
+    "address": "5 Autumn Creek Ln, East Amherst, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/east-amherst-ny/autumn-creek-apartments/CkBR6Z/",
+    "distance": 0
+  },
+  {
+    "id": "3akzxvcq5q90t",
+    "img": "https://photos.zillowstatic.com/fp/61436b00ca742e55db9b285ef7fc0117-p_e.jpg",
+    "price": 1250,
+    "bedrooms": 1,
+    "address": "153 Peppertree Dr, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/peppertree-village-apartments/5gjh98/",
+    "distance": 0
+  },
+  {
+    "id": "450901152",
+    "img": "https://photos.zillowstatic.com/fp/8e3378902bd8b95154f2321732853fc7-p_e.jpg",
+    "price": 2393,
+    "bedrooms": 0,
+    "address": "901 Dick Rd, Buffalo, NY 14225",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/cheektowaga-ny/buffalo-airport/98CWL2/",
+    "distance": 0
+  },
+  {
+    "id": "xua8jjn6pyyb",
+    "img": "https://photos.zillowstatic.com/fp/e66be20bf1a34c2266d31c41c3819595-p_e.jpg",
+    "price": 2300,
+    "bedrooms": 2,
+    "address": "451 Elmwood Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/the-pardee/CjfLPK/",
+    "distance": 0
+  },
+  {
+    "id": "1wrvmb4zmsgk8",
+    "img": "https://photos.zillowstatic.com/fp/14c2b43771e59a6b553ab65314415462-p_e.jpg",
+    "price": 1900,
+    "bedrooms": 2,
+    "address": "4410 N French Rd, East Amherst, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/east-amherst-ny/forest-green-apartments/Bc7GFf/",
+    "distance": 0
+  },
+  {
+    "id": "2ky47v9wk6tn1",
+    "img": "https://photos.zillowstatic.com/fp/dc591cdde56c3bb0488228df656dd76f-p_e.jpg",
+    "price": 1335,
+    "bedrooms": 1,
+    "address": "220 Countryside Ln, Orchard Park, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/orchard-park-ny/quakertowne/5XjKr3/",
+    "distance": 0
+  },
+  {
+    "id": "457923330",
+    "img": "https://photos.zillowstatic.com/fp/40915abe025e9e17fd6cfd6a60b13661-p_e.jpg",
+    "price": 1700,
+    "bedrooms": 2,
+    "address": "184 Sweeney St, North Tonawanda, NY 14120",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/north-tonawanda-ny/remington-lofts/CkBTCS/",
+    "distance": 0
+  },
+  {
+    "id": "3gwt1n6p2uknh",
+    "img": "https://photos.zillowstatic.com/fp/49708cd8ff1a8d4809386cb13e1bec14-p_e.jpg",
+    "price": 1325,
+    "bedrooms": 1,
+    "address": "1040 Delaware Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/1040-delaware/CjvpBQ/",
+    "distance": 0
+  },
+  {
+    "id": "4yt6f53wkn84",
+    "img": "https://photos.zillowstatic.com/fp/68d204e9d230b39c79f4a05c942d9217-p_e.jpg",
+    "price": 1650,
+    "bedrooms": 1,
+    "address": "279 North St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/the-residence-at-279-north/CjfKPy/",
+    "distance": 0
+  },
+  {
+    "id": "1mskafgatbfps",
+    "img": "https://photos.zillowstatic.com/fp/cc4873356f89ca5fc7cbe4f2f86b4a72-p_e.jpg",
+    "price": 1669,
+    "bedrooms": 1,
+    "address": "6026 Broadway St, Lancaster, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/lancaster-ny/edgewater-east-apartments/CjjCKX/",
+    "distance": 0
+  },
+  {
+    "id": "2053546258",
+    "img": "https://photos.zillowstatic.com/fp/08fac1ac5135fd02047f093964e85cbd-p_e.jpg",
+    "price": 1200,
+    "bedrooms": 0,
+    "address": "1870 Niagara Falls Blvd, Tonawanda, NY 14150",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/tonawanda-ny/boulevard-suites/CjjCTP/",
+    "distance": 0
+  },
+  {
+    "id": "3und5mynrf586",
+    "img": "https://photos.zillowstatic.com/fp/ecef4d381012a8271609f0f62e6ddb31-p_e.jpg",
+    "price": 1784,
+    "bedrooms": 2,
+    "address": "25 Spring Meadow Dr, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/windsong-place-apartments/5Xt94k/",
+    "distance": 0
+  },
+  {
+    "id": "457169867",
+    "img": "https://photos.zillowstatic.com/fp/ab8b04240ba319f2c421b118902c375d-p_e.jpg",
+    "price": 1250,
+    "bedrooms": 2,
+    "address": "72 Oakridge Dr, Buffalo, NY 14224",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/west-seneca-ny/oakridge-estates/Cng75K/",
+    "distance": 0
+  },
+  {
+    "id": "33s4nv67wcgvx",
+    "img": "https://photos.zillowstatic.com/fp/c5d87228d2bed863d8ff55832e90f80f-p_e.jpg",
+    "price": 1611,
+    "bedrooms": 0,
+    "address": "628 Ellicott St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/trico-building-apartments/CgGxvR/",
+    "distance": 0
+  },
+  {
+    "id": "44hxamcamrcnq",
+    "img": "https://photos.zillowstatic.com/fp/396980ca9ce78fed48e85239ea5518da-p_e.jpg",
+    "price": 1675,
+    "bedrooms": 1,
+    "address": "4241 Capstone Cir, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/williamsville-ny/fireside-apartments/CkChjd/",
+    "distance": 0
+  },
+  {
+    "id": "3x7dkpb6u6erb",
+    "img": "https://photos.zillowstatic.com/fp/ed2cb58beadcb1433ceccd5dd7f8fa99-p_e.jpg",
+    "price": 1535,
+    "bedrooms": 1,
+    "address": "225 Louisiana St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/barcalo-living/CgGq8b/",
+    "distance": 0
+  },
+  {
+    "id": "42bfnsk100c64",
+    "img": "https://photos.zillowstatic.com/fp/9143884ddbc36e61c165e71f86325ff8-p_e.jpg",
+    "price": 1595,
+    "bedrooms": 1,
+    "address": "100 Elmwood Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/100-south/5XpcMm/",
+    "distance": 0
+  },
+  {
+    "id": "15x0nwyjfefpd",
+    "img": "https://photos.zillowstatic.com/fp/d855d7ffcb55d94088d1389b98c366b5-p_e.jpg",
+    "price": 1656,
+    "bedrooms": 1,
+    "address": "1993 Grand Island Blvd, Grand Island, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/grand-island-ny/heron-pointe/Cn4JJm/",
+    "distance": 0
+  },
+  {
+    "id": "457614535",
+    "img": "https://photos.zillowstatic.com/fp/5ae85c08134ca6cf1abc20a9ecae2f5d-p_e.jpg",
+    "price": 2100,
+    "bedrooms": 0,
+    "address": "217-219 Summer St #5D3C0D0B8, Buffalo, NY 14222",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/summer-elms/CnfW8V/",
+    "distance": 0
+  },
+  {
+    "id": "457923494",
+    "img": "https://photos.zillowstatic.com/fp/46d999fbee9bee17bfff405e3cca5dfe-p_e.jpg",
+    "price": 1045,
+    "bedrooms": 1,
+    "address": "1165 Delaware Ave, Buffalo, NY 14209",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/1165-delaware/CkCXGj/",
+    "distance": 0
+  },
+  {
+    "id": "4bhrx4qtzkzhr",
+    "img": "https://photos.zillowstatic.com/fp/ec012c1ed0a5314b2711b77a2d789918-p_e.jpg",
+    "price": 1335,
+    "bedrooms": 1,
+    "address": "4463 Chestnut Ridge Rd, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/liberty-square-apartments/CkkSdV/",
+    "distance": 0
+  },
+  {
+    "id": "204pfv3yjxnrp",
+    "img": "https://photos.zillowstatic.com/fp/abb8353f6baf3d0f00c698f05d277bb9-p_e.jpg",
+    "price": 1500,
+    "bedrooms": 0,
+    "address": "1 W Seneca St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/seneca-one/CjjCQX/",
+    "distance": 0
+  },
+  {
+    "id": "hqcpjupv1m6u",
+    "img": "https://photos.zillowstatic.com/fp/1336a4d909624f9d874e373e426d010c-p_e.jpg",
+    "price": 1450,
+    "bedrooms": 1,
+    "address": "255 Evans St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/williamsville-ny/drexel-hill-apartments/ChQbwP/",
+    "distance": 0
+  },
+  {
+    "id": "1w0hg4yufa2rt",
+    "img": "https://photos.zillowstatic.com/fp/978370df66412851214f35278f1d7a4a-p_e.jpg",
+    "price": 1795,
+    "bedrooms": 2,
+    "address": "100 Hammocks Dr, Orchard Park, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/orchard-park-ny/the-hammocks-at-orchard-park/CkBSVT/",
+    "distance": 0
+  },
+  {
+    "id": "3te4uestckvra",
+    "img": "https://photos.zillowstatic.com/fp/68615602504202adb4947d24f7ee5669-p_e.jpg",
+    "price": 1683,
+    "bedrooms": 2,
+    "address": "2 Brookhaven Ln, Lancaster, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/lancaster-ny/brookhaven-apartments/CkBczL/",
+    "distance": 0
+  },
+  {
+    "id": "4r1cmbhwv6ww3",
+    "img": "https://photos.zillowstatic.com/fp/ff546e0761b668064aa50f05c4813135-p_e.jpg",
+    "price": 1719,
+    "bedrooms": 1,
+    "address": "10 Arielle Ct, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/williamsville-ny/renaissance-place-apartments/5Xj7td/",
+    "distance": 0
+  },
+  {
+    "id": "25r6e0ex5nubt",
+    "img": "https://photos.zillowstatic.com/fp/b70b2d9ef1fd593995f7b15d4f93fcd0-p_e.jpg",
+    "price": 1500,
+    "bedrooms": 1,
+    "address": "1275 Delaware Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/1275-delaware/CjS9hY/",
+    "distance": 0
+  },
+  {
+    "id": "41gyb2ujk709c",
+    "img": "https://photos.zillowstatic.com/fp/b84f5a1221adac254ffc74c7a02f5b75-p_e.jpg",
+    "price": 1239,
+    "bedrooms": 0,
+    "address": "1155 Main St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/the-grid/CkCj9K/",
+    "distance": 0
+  },
+  {
+    "id": "3ucjzcvma08ff",
+    "img": "https://photos.zillowstatic.com/fp/7320dd1851de6cb6687285a70772dc27-p_e.jpg",
+    "price": 1495,
+    "bedrooms": 1,
+    "address": "230 Scott St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/the-lofts-at-elk-terminal/5XqgVj/",
+    "distance": 0
+  },
+  {
+    "id": "3rmud8cp9s4q5",
+    "img": "https://photos.zillowstatic.com/fp/2e7c06ceab3bc3f211486a672590032a-p_e.jpg",
+    "price": 2200,
+    "bedrooms": 2,
+    "address": "20 Hunt Club Cir, East Amherst, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/east-amherst-ny/maple-brooke-and-hunt-club-town-homes/Ckc3Pm/",
+    "distance": 0
+  },
+  {
+    "id": "3q3q8n1kmpttp",
+    "img": "https://photos.zillowstatic.com/fp/ccdd2913fd645245f497b4c768ca2253-p_e.jpg",
+    "price": 1320,
+    "bedrooms": 2,
+    "address": "110 Losson Rd, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/cheektowaga-ny/losson-garden-apartments/5XnYJz/",
+    "distance": 0
+  },
+  {
+    "id": "jtnpqf94dwz5",
+    "img": "https://photos.zillowstatic.com/fp/bf3731e0941567c1b1c42acf0d9b7bfe-p_e.jpg",
+    "price": 2365,
+    "bedrooms": 2,
+    "address": "160 Glendon Pl, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/williamsville-ny/the-glen-at-sheridan-meadows/CjjCHM/",
+    "distance": 0
+  },
+  {
+    "id": "ak7pue5kazas",
+    "img": "https://photos.zillowstatic.com/fp/bf111b3dfb2e1e2b4bea2c365c06f69e-p_e.jpg",
+    "price": 1315,
+    "bedrooms": 2,
+    "address": "1525 Amherst Manor Dr, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/amherst-ny/amherst-manor-apartments/5j8y5p/",
+    "distance": 0
+  },
+  {
+    "id": "1vct9rq5n0epc",
+    "img": "https://photos.zillowstatic.com/fp/e5ec15c296240784d3390f0fed8c3744-p_e.jpg",
+    "price": 1800,
+    "bedrooms": 1,
+    "address": "245 Bryant St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/annex-apartments/CkCM7J/",
+    "distance": 0
+  },
+  {
+    "id": "456941008",
+    "img": "https://photos.zillowstatic.com/fp/2551037e505dff127d7642159b8a4143-p_e.jpg",
+    "price": 1295,
+    "bedrooms": 2,
+    "address": "1400 Millersport Hwy APT 415, Buffalo, NY 14221",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/williamsville-ny/triad-apartments/5Yy4jR/",
+    "distance": 0
+  },
+  {
+    "id": "5bysbtag0cjgq",
+    "img": "https://photos.zillowstatic.com/fp/cd83457bab98f567f16de49ddcd0f2c0-p_e.jpg",
+    "price": 1500,
+    "bedrooms": 2,
+    "address": "45 S Cayuga Rd, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/williamsville-ny/village-green-court-apartments/ChJcgt/",
+    "distance": 0
+  },
+  {
+    "id": "22j8bba8c25mh",
+    "img": "https://photos.zillowstatic.com/fp/1e0d73f250643f3cacebd0c85974719f-p_e.jpg",
+    "price": 1350,
+    "bedrooms": 1,
+    "address": "1325 N Forest Rd, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/williamsville-ny/greens-on-north-forest/ChWvwK/",
+    "distance": 0
+  },
+  {
+    "id": "381440981",
+    "img": "https://photos.zillowstatic.com/fp/f0395cdeca0eed321c3604e5336b70bd-p_e.jpg",
+    "price": 1314,
+    "bedrooms": 1,
+    "address": "2005 Delaware Ave, Buffalo, NY 14216",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/delaware-park-apartments/5j8yRR/",
+    "distance": 0
+  },
+  {
+    "id": "351213386",
+    "img": "https://photos.zillowstatic.com/fp/2bdf3adc8aaecef7d486db8d1ac9c281-p_e.jpg",
+    "price": 1365,
+    "bedrooms": 1,
+    "address": "916 Main St #421, Buffalo, NY 14202",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/bosche-lofts-and-910-main-st./ChfG5G/",
+    "distance": 0
+  },
+  {
+    "id": "2083556441",
+    "img": "https://photos.zillowstatic.com/fp/ed1d83af44142480e7d208bc4c799e66-p_e.jpg",
+    "price": 1395,
+    "bedrooms": 2,
+    "address": "3310 Millersport Hwy APT A, Getzville, NY 14068",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/getzville-ny/millersport-apartments/CnQYYm/",
+    "distance": 0
+  },
+  {
+    "id": "4mah1ayy51zse",
+    "img": "https://photos.zillowstatic.com/fp/101f8fdcdbef0eaa02a2b51d9cb3328d-p_e.jpg",
+    "price": 1350,
+    "bedrooms": 2,
+    "address": "900 E Robinson St, North Tonawanda, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/building/43.035976,-78.84832_ll/",
+    "distance": 0
+  },
+  {
+    "id": "10rfbaxwcwaqr",
+    "img": "https://photos.zillowstatic.com/fp/08d6abad1b23ec0902b0d1f85d6a14f3-p_e.jpg",
+    "price": 1234,
+    "bedrooms": 2,
+    "address": "1370 Southwestern Blvd, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/west-seneca-ny/fox-trace-apartments/5j8zhH/",
+    "distance": 0
+  },
+  {
+    "id": "2m8y1k2khh13a",
+    "img": "https://photos.zillowstatic.com/fp/e57f8cbe4be8f0721ae40a1742d64498-p_e.jpg",
+    "price": 2195,
+    "bedrooms": 3,
+    "address": "540 Mill St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/williamsville-ny/greens-on-mill-townhomes/5Yy4kW/",
+    "distance": 0
+  },
+  {
+    "id": "586nemj26pdh",
+    "img": "https://photos.zillowstatic.com/fp/5147a2e317eb623ece64be5ba7fb1441-p_e.jpg",
+    "price": 1950,
+    "bedrooms": 1,
+    "address": "1280 Sweet Home Rd, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/the-exchange-luxury-apartments/CkLkD6/",
+    "distance": 0
+  },
+  {
+    "id": "351352146",
+    "img": "https://photos.zillowstatic.com/fp/8de52ab361ec59ab154aca669a36811d-p_e.jpg",
+    "price": 1315,
+    "bedrooms": 2,
+    "address": "42 Haley Ln, Buffalo, NY 14227",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/cheektowaga-ny/1a/5XjDSD/",
+    "distance": 0
+  },
+  {
+    "id": "2ewyy1t9j0pgn",
+    "img": "https://photos.zillowstatic.com/fp/78b9fa94d8581aef17f97dc113950546-p_e.jpg",
+    "price": 1445,
+    "bedrooms": 1,
+    "address": "23 Northwood Dr, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/williamsville-ny/country-club-manor/5gjfZ3/",
+    "distance": 0
+  },
+  {
+    "id": "440023499",
+    "img": "https://photos.zillowstatic.com/fp/9d46c7c4d3b459c2bc5eea2ebe7b740f-p_e.jpg",
+    "price": 1049,
+    "bedrooms": 0,
+    "address": "3015 Delaware Ave, Buffalo, NY 14217",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/kenmore-ny/kendev-studios/5YyCnc/",
+    "distance": 0
+  },
+  {
+    "id": "457580484",
+    "img": "https://photos.zillowstatic.com/fp/8713b181fe17c93e4bbd996e1cc75e56-p_e.jpg",
+    "price": 1440,
+    "bedrooms": 2,
+    "address": "2475 Sheridan Dr #2481-09, Tonawanda, NY 14150",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/tonawanda-ny/sheridan-drive-apartments/989tQ9/",
+    "distance": 0
+  },
+  {
+    "id": "6kycayjmsb86",
+    "img": "https://photos.zillowstatic.com/fp/72daf96bca48c718c782913f1c592e8c-p_e.jpg",
+    "price": 1250,
+    "bedrooms": 1,
+    "address": "116 Bidwell Pkwy, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/bidwell-manor-apartments/CjnqQr/",
+    "distance": 0
+  },
+  {
+    "id": "351355966",
+    "img": "https://photos.zillowstatic.com/fp/fc99e341791847b4f1e61a344529d7ca-p_e.jpg",
+    "price": 1295,
+    "bedrooms": 1,
+    "address": "427 Emerson Dr, Buffalo, NY 14226",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/amherst-ny/emerson-square/5XmLG3/",
+    "distance": 0
+  },
+  {
+    "id": "gn3s7ekzvb87",
+    "img": "https://photos.zillowstatic.com/fp/60bbbf556c4d041e9206c65962b052d9-p_e.jpg",
+    "price": 1475,
+    "bedrooms": 1,
+    "address": "799 Seneca St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/millrace-commons/Ch78nn/",
+    "distance": 0
+  },
+  {
+    "id": "4c98t6svrqkcr",
+    "img": "https://photos.zillowstatic.com/fp/3e1ea12beec69cf5df3a6e78951a3b43-p_e.jpg",
+    "price": 1357,
+    "bedrooms": 1,
+    "address": "465 Washington St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/the-sinclair/CkBMVH/",
+    "distance": 0
+  },
+  {
+    "id": "443883518",
+    "img": "https://photos.zillowstatic.com/fp/fad9f1ef2287add0c4828b3cca5cb218-p_e.jpg",
+    "price": 1139,
+    "bedrooms": 1,
+    "address": "1488 Sheridan Dr, Buffalo, NY 14217",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/1488-Sheridan-Dr-Buffalo-NY-14217/443883518_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "44acswkv7d8p8",
+    "img": "https://photos.zillowstatic.com/fp/b296b94ada50888949b7b3b9a9d48275-p_e.jpg",
+    "price": 1340,
+    "bedrooms": 2,
+    "address": "21 Vinson Ave, Tonawanda, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/tonawanda-ny/parkview-manor-apartments/CnmSkk/",
+    "distance": 0
+  },
+  {
+    "id": "3fqy6mtv7uw54",
+    "img": "https://photos.zillowstatic.com/fp/a978817aa46ee12c66dfdf79982a86d6-p_e.jpg",
+    "price": 1440,
+    "bedrooms": 2,
+    "address": "1950 Sheridan Dr, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/kenmore-ny/olde-towne-village-apartments/5YGWS6/",
+    "distance": 0
+  },
+  {
+    "id": "4z6akahfmdzav",
+    "img": "https://photos.zillowstatic.com/fp/eab52e8cb1276a50e26d61513b2b99bb-p_e.jpg",
+    "price": 1105,
+    "bedrooms": 1,
+    "address": "103 Raintree Is, Tonawanda, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/tonawanda-ny/raintree-island-apartment-homes/5XjFSr/",
+    "distance": 0
+  },
+  {
+    "id": "2ndwx03xqc1dz",
+    "img": "https://photos.zillowstatic.com/fp/4e19ae4e74106ea6e0c69c380565ffc0-p_e.jpg",
+    "price": 1460,
+    "bedrooms": 1,
+    "address": "1502 Niagara St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/crescendo-loft-apartments/ChRZ9g/",
+    "distance": 0
+  },
+  {
+    "id": "40c7m3ph3e711",
+    "img": "https://photos.zillowstatic.com/fp/551146d6072dace98bdd2d7133c49dad-p_e.jpg",
+    "price": 1552,
+    "bedrooms": 1,
+    "address": "4045 Coventry Green Cir, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/williamsville-ny/coventry-apartments/CkBNzG/",
+    "distance": 0
+  },
+  {
+    "id": "1wh6p3rtasb9a",
+    "img": "https://photos.zillowstatic.com/fp/9d0613fefcd55af56d277fa0f8c562c9-p_e.jpg",
+    "price": 1700,
+    "bedrooms": 2,
+    "address": "775 Main St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/the-sidway-apartments-and-lofts/5XtN44/",
+    "distance": 0
+  },
+  {
+    "id": "1hyvxav66011k",
+    "img": "https://photos.zillowstatic.com/fp/267d40f30d0ba823654dc1e7ff1ba1dd-p_e.jpg",
+    "price": 1030,
+    "bedrooms": 2,
+    "address": "3266 Seneca St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/west-seneca-ny/royal-york-gardens/5Xt8qf/",
+    "distance": 0
+  },
+  {
+    "id": "2rembexrzu0v0",
+    "img": "https://photos.zillowstatic.com/fp/f0701508c1008bfb90c4d4004cb59245-p_e.jpg",
+    "price": 1350,
+    "bedrooms": 1,
+    "address": "20 Saint Louis Pl, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/lofts-buffalo/CmpCLQ/",
+    "distance": 0
+  },
+  {
+    "id": "551axggv50znz",
+    "img": "https://photos.zillowstatic.com/fp/bb2bec89fe58e3f02e750abfbd91cb08-p_e.jpg",
+    "price": 1235,
+    "bedrooms": 1,
+    "address": "4453 Chestnut Ridge Rd, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/london-towne-apartments/Ckktv2/",
+    "distance": 0
+  },
+  {
+    "id": "457679650",
+    "img": "https://photos.zillowstatic.com/fp/65c67b08703d45e563112896baaf892e-p_e.jpg",
+    "price": 1415,
+    "bedrooms": 1,
+    "address": "293 Grote St, Buffalo, NY 14207",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/vintage-flats/CjfSDC/",
+    "distance": 0
+  },
+  {
+    "id": "16u68pgtrgjh8",
+    "img": "https://photos.zillowstatic.com/fp/4610e837a21ac10939dafa8e2f25ebe8-p_e.jpg",
+    "price": 1350,
+    "bedrooms": 0,
+    "address": "916 Delaware Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/bryant-apartments/CkBMQQ/",
+    "distance": 0
+  },
+  {
+    "id": "q21r0hjp0esm",
+    "img": "https://photos.zillowstatic.com/fp/9dc6a7cce95d1efb1e47a494e5743292-p_e.jpg",
+    "price": 985,
+    "bedrooms": 1,
+    "address": "510 Center Rd, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/west-seneca-ny/experience-west-seneca-living-at-it's-best/CpSMSj/",
+    "distance": 0
+  },
+  {
+    "id": "3p5s5h8njjztb",
+    "img": "https://photos.zillowstatic.com/fp/7ae71cf6587e1ff39077482503d141bf-p_e.jpg",
+    "price": 1349,
+    "bedrooms": 1,
+    "address": "507 Niagara St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/507-niagara-apartments/CpQ2R6/",
+    "distance": 0
+  },
+  {
+    "id": "3xhgb5yu10xg7",
+    "img": "https://photos.zillowstatic.com/fp/aff0b25ee7716ac790024a957bec7346-p_e.jpg",
+    "price": 1050,
+    "bedrooms": 1,
+    "address": "95 Embassy Sq, Tonawanda, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/tonawanda-ny/embassy-square-apartments/Cjgtt3/",
+    "distance": 0
+  },
+  {
+    "id": "4nb8e0jskp6e0",
+    "img": "https://photos.zillowstatic.com/fp/de4a45928050a64e18d84e5e10ff1140-p_e.jpg",
+    "price": 1200,
+    "bedrooms": 2,
+    "address": "190 Manhattan Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/manhattan-square-apartments/5hQtKT/",
+    "distance": 0
+  },
+  {
+    "id": "457615495",
+    "img": "https://photos.zillowstatic.com/fp/dfc716d9ba83274c546817da62f02a16-p_e.jpg",
+    "price": 1130,
+    "bedrooms": 2,
+    "address": "1175 George Urban Blvd, Buffalo, NY 14225",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/cheektowaga-ny/u-crest-and-belvedere-apartments/5tzstG/",
+    "distance": 0
+  },
+  {
+    "id": "12g2497j9vany",
+    "img": "https://photos.zillowstatic.com/fp/fbbab236b3570ace8db0dcacbeabb177-p_e.jpg",
+    "price": 1250,
+    "bedrooms": 1,
+    "address": "4989 Genesee St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/cheektowaga-ny/the-gateway-ii-apartments/5gJWLr/",
+    "distance": 0
+  },
+  {
+    "id": "2078984349",
+    "img": "https://photos.zillowstatic.com/fp/529d6728c5a8a9869b7b3c8776f0215f-p_e.jpg",
+    "price": 1525,
+    "bedrooms": 0,
+    "address": "66 Summer St APT 1E, Buffalo, NY 14209",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/mayflower-apartments/CkBLFk/",
+    "distance": 0
+  },
+  {
+    "id": "24gr7cwq30zjy",
+    "img": "https://photos.zillowstatic.com/fp/cbf44b9b194a00385b0cfbeb7aefcb1e-p_e.jpg",
+    "price": 1015,
+    "bedrooms": 1,
+    "address": "51 Williamstowne Ct, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/cheektowaga-ny/williamstowne-village-senior-apartments/CkkvV4/",
+    "distance": 0
+  },
+  {
+    "id": "450343039",
+    "img": "https://photos.zillowstatic.com/fp/2412e22b21bac448cf328cbb5a8c75fa-p_e.jpg",
+    "price": 1025,
+    "bedrooms": 1,
+    "address": "200 Center Rd, Buffalo, NY 14224",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/ivybrooke-crossing/5YyCZ4/",
+    "distance": 0
+  },
+  {
+    "id": "29zt64yjgq25d",
+    "img": "https://photos.zillowstatic.com/fp/461487746e7229fd4c654f920962c4cc-p_e.jpg",
+    "price": 968,
+    "bedrooms": 0,
+    "address": "10 Jewett Pkwy, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/main-jewett-apartments/CmGWGw/",
+    "distance": 0
+  },
+  {
+    "id": "37t922bp304yk",
+    "img": "https://photos.zillowstatic.com/fp/d7afad5101246eb21042115bbb795e38-p_e.jpg",
+    "price": 1060,
+    "bedrooms": 1,
+    "address": "2255 Center Ter, Grand Island, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/grand-island-ny/town-hall-terrace/5Z74tM/",
+    "distance": 0
+  },
+  {
+    "id": "c9u588hzrph",
+    "img": "https://photos.zillowstatic.com/fp/17e4b09d7d02cb86cbebc5a0a5ff7f92-p_e.jpg",
+    "price": 1045,
+    "bedrooms": 0,
+    "address": "111 Porter Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/peace-bridge-place/ChcBNk/",
+    "distance": 0
+  },
+  {
+    "id": "457891881",
+    "img": "https://photos.zillowstatic.com/fp/f2ca185fb49c10d25802c28a5ee53b22-p_e.jpg",
+    "price": 1617,
+    "bedrooms": 2,
+    "address": "164 Chalmers Ave #193, Buffalo, NY 14214",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/highland-park/CkBJMd/",
+    "distance": 0
+  },
+  {
+    "id": "2j77zat5hd9c2",
+    "img": "https://photos.zillowstatic.com/fp/ae6f3aebefa9e446c66acaff1d7e4a18-p_e.jpg",
+    "price": 1104,
+    "bedrooms": 1,
+    "address": "65 Edgebrook Est, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/cheektowaga-ny/edgebrook-estates/5YyCgq/",
+    "distance": 0
+  },
+  {
+    "id": "2080154897",
+    "img": "https://photos.zillowstatic.com/fp/548b61b1459bd69741766719aedd62d5-p_e.jpg",
+    "price": 1115,
+    "bedrooms": 1,
+    "address": "50 School St #31, Lancaster, NY 14086",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/lancaster-ny/lord-lancaster-apartments/CkBMGH/",
+    "distance": 0
+  },
+  {
+    "id": "347957367",
+    "img": "https://photos.zillowstatic.com/fp/edb1da777ac9586a4c6a907d4d0f1fb2-p_e.jpg",
+    "price": 1000,
+    "bedrooms": 1,
+    "address": "1331 French Rd #569E1F141, Depew, NY 14043",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/depew-ny/the-flats-on-french/ChgQ3T/",
+    "distance": 0
+  },
+  {
+    "id": "351726370",
+    "img": "https://photos.zillowstatic.com/fp/0ed1ff4e02799febbac4832371b1fa0d-p_e.jpg",
+    "price": 902,
+    "bedrooms": 0,
+    "address": "84 Sweeney St, North Tonawanda, NY 14120",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/north-tonawanda-ny/gateway-park-apartments/5YyCWv/",
+    "distance": 0
+  },
+  {
+    "id": "275nzj199hvq",
+    "img": "https://photos.zillowstatic.com/fp/41a443778fba94ca2fecd906ca047c5e-p_e.jpg",
+    "price": 1095,
+    "bedrooms": 2,
+    "address": "601 Colvin Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/colvin-gardens-apartments/CkfrRr/",
+    "distance": 0
+  },
+  {
+    "id": "1v9ts2ad8wf9a",
+    "img": "https://photos.zillowstatic.com/fp/7601ab78a1f218381984702c772a0987-p_e.jpg",
+    "price": 1015,
+    "bedrooms": 1,
+    "address": "101 Slate Creek Dr, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/cheektowaga-ny/idylwood-resort-apartment-homes/5hvHB3/",
+    "distance": 0
+  },
+  {
+    "id": "450245844",
+    "img": "https://photos.zillowstatic.com/fp/5c7039219b3f4d5ad4f4db01bb572e85-p_e.jpg",
+    "price": 1300,
+    "bedrooms": 2,
+    "address": "1035 Beach Rd, Buffalo, NY 14225",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/cheektowaga-ny/beechwood-manor-apartments/5hQtLK/",
+    "distance": 0
+  },
+  {
+    "id": "29scww84f6tz0",
+    "img": "https://photos.zillowstatic.com/fp/eab14a03fd402cd9a9daa024108e2c10-p_e.jpg",
+    "price": 1265,
+    "bedrooms": 2,
+    "address": "4280 Chestnut Ridge Rd, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/chestnut-ridge/CkhGJW/",
+    "distance": 0
+  },
+  {
+    "id": "3j2hdutfdnnx8",
+    "img": "https://photos.zillowstatic.com/fp/a2dcc7ae8fbe3c2dd45b6227c1e29f09-p_e.jpg",
+    "price": 1095,
+    "bedrooms": 1,
+    "address": "400 Elmwood Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/apartments-at-400-elmwood/5Ysnk5/",
+    "distance": 0
+  },
+  {
+    "id": "442718443",
+    "img": "https://photos.zillowstatic.com/fp/b5075c7c0cf712abd3013c3e1f7c4e92-p_e.jpg",
+    "price": 100,
+    "bedrooms": 1,
+    "address": "1500 Jefferson Ave, Buffalo, NY 14208",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/1490-estates-senior-apartments-62-and-older/CkCVxF/",
+    "distance": 0
+  },
+  {
+    "id": "2082901901",
+    "img": "https://photos.zillowstatic.com/fp/1bd1cffdb2d2723f6a90fec2946ca6f0-p_e.jpg",
+    "price": 995,
+    "bedrooms": 0,
+    "address": "2668 Elmwood Ave APT 342, Buffalo, NY 14217",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/tonawanda-ny/sunrise-efficiency-apartments/5gKpRF/",
+    "distance": 0
+  },
+  {
+    "id": "1sqtqz9bczqrs",
+    "img": "https://photos.zillowstatic.com/fp/754587bcd7fd6532a14b6237d4f1f098-p_e.jpg",
+    "price": 1011,
+    "bedrooms": 1,
+    "address": "268 Hinds St, Tonawanda, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/tonawanda-ny/riverview-manor-apartments/5Yy5MG/",
+    "distance": 0
+  },
+  {
+    "id": "453841919",
+    "img": "https://photos.zillowstatic.com/fp/3a30b6290b58241c3f1e30cc7f5a38a4-p_e.jpg",
+    "price": 1073,
+    "bedrooms": 1,
+    "address": "2520-2526 Elmwood Ave, Buffalo, NY 14217",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/kenmore-ny/tremont-place-apartments/CmWsVS/",
+    "distance": 0
+  },
+  {
+    "id": "1yr1sdrh9c758",
+    "img": "https://photos.zillowstatic.com/fp/6a601d51cd12866edf9799ce286541ce-p_e.jpg",
+    "price": 1175,
+    "bedrooms": 2,
+    "address": "1617 Kensington Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/cheektowaga-ny/kensington-apartments/98Bcsj/",
+    "distance": 0
+  },
+  {
+    "id": "43rp0s4b8egen",
+    "img": "https://photos.zillowstatic.com/fp/a5dccfda75b3e918d9175abdab577b90-p_e.jpg",
+    "price": 1175,
+    "bedrooms": 2,
+    "address": "2 Angle St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/angle-tyler-apartments/CkfrQj/",
+    "distance": 0
+  },
+  {
+    "id": "3z6zmpk51crxt",
+    "img": "https://photos.zillowstatic.com/fp/97927e9414f7932d1f84f98462246aa0-p_e.jpg",
+    "price": 1400,
+    "bedrooms": 1,
+    "address": "415 Elmwood Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/musical-suites/98CC5X/",
+    "distance": 0
+  },
+  {
+    "id": "1w5udqyvkbeem",
+    "img": "https://photos.zillowstatic.com/fp/542bb374715b45627fde219e62fa33e6-p_e.jpg",
+    "price": 995,
+    "bedrooms": 1,
+    "address": "825 Center Rd, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/west-seneca-ny/center-road/CkfrgQ/",
+    "distance": 0
+  },
+  {
+    "id": "51n1b0bu950r4",
+    "img": "https://photos.zillowstatic.com/fp/c683103cc9e5b7574c478e7d78534d29-p_e.jpg",
+    "price": 1085,
+    "bedrooms": 0,
+    "address": "1392-1396 Amherst St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/amherst-woods-apartments/Cj8LHn/",
+    "distance": 0
+  },
+  {
+    "id": "z7mt5wzqy5dm",
+    "img": "https://photos.zillowstatic.com/fp/e5849fd6b5d5670415d5e3f0f0987c0a-p_e.jpg",
+    "price": 1160,
+    "bedrooms": 1,
+    "address": "4845 Transit Rd, Depew, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/depew-ny/park-lane-apartments/CkBdqD/",
+    "distance": 0
+  },
+  {
+    "id": "6n1jabbmtu2x",
+    "img": "https://photos.zillowstatic.com/fp/d8460cc47e51bc5e4658ac1426521f88-p_e.jpg",
+    "price": 979,
+    "bedrooms": 1,
+    "address": "89 Lasalle Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/axis-360/CkCkfv/",
+    "distance": 0
+  },
+  {
+    "id": "455326442",
+    "img": "https://photos.zillowstatic.com/fp/d1d5c1ba9dc50c76680e18b628401f2d-p_e.jpg",
+    "price": 1099,
+    "bedrooms": 2,
+    "address": "296 Main St #T2, Tonawanda, NY 14150",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/tonawanda-ny/roosevelt-on-main-apartments/Cn6rjj/",
+    "distance": 0
+  },
+  {
+    "id": "539fjdauqzrah",
+    "img": "https://photos.zillowstatic.com/fp/6a264786adf02a1d83de39c521afc3fc-p_e.jpg",
+    "price": 920,
+    "bedrooms": 0,
+    "address": "136 N Division St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/ac-lofts/5Xr3wV/",
+    "distance": 0
+  },
+  {
+    "id": "443598851",
+    "img": "https://photos.zillowstatic.com/fp/b3d8b2fadb1d3ca5c4210d51988f4954-p_e.jpg",
+    "price": 1550,
+    "bedrooms": 2,
+    "address": "626 Englewood Ave #11, Buffalo, NY 14223",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/tonawanda-ny/townhomes-on-englewood/CgrzLw/",
+    "distance": 0
+  },
+  {
+    "id": "4h6gh40rgb9ne",
+    "img": "https://photos.zillowstatic.com/fp/026c00a4ccec88407a5544d3746babd8-p_e.jpg",
+    "price": 945,
+    "bedrooms": 0,
+    "address": "591 Terrace Blvd, Depew, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/depew-ny/terrace-park-apartments/CkCVdQ/",
+    "distance": 0
+  },
+  {
+    "id": "452093770",
+    "img": "https://photos.zillowstatic.com/fp/2c85938b4929424c8daf077ed36abd68-p_e.jpg",
+    "price": 2012,
+    "bedrooms": 0,
+    "address": "125 Inn Keepers Ln, Buffalo, NY 14228",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/amherst-ny/buffalo-amherst/Cm566R/",
+    "distance": 0
+  },
+  {
+    "id": "4g0z8g3f4fqv6",
+    "img": "https://photos.zillowstatic.com/fp/3eae7eefa2946a3a0b5ce0f043dddc8e-p_e.jpg",
+    "price": 1299,
+    "bedrooms": 2,
+    "address": "2075 Main St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/griffin-house/Cn8cxR/",
+    "distance": 0
+  },
+  {
+    "id": "3magre10heac4",
+    "img": "https://photos.zillowstatic.com/fp/a1a800be94a8523de2cefceac5beec7e-p_e.jpg",
+    "price": 1401,
+    "bedrooms": 1,
+    "address": "945 W Ferry St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/the-fenton-apartments/5jFwWT/",
+    "distance": 0
+  },
+  {
+    "id": "43vbw4y4hragq",
+    "img": "https://photos.zillowstatic.com/fp/691556d52a0ed563d5877863c833f2d7-p_e.jpg",
+    "price": 995,
+    "bedrooms": 2,
+    "address": "19-74 Newell Ave, Tonawanda, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/tonawanda-ny/newell-heights-apartments/CgrzXf/",
+    "distance": 0
+  },
+  {
+    "id": "3nj9z80j17qn8",
+    "img": "https://photos.zillowstatic.com/fp/6b0c42ae49d63651d61a05d7b9a7f709-p_e.jpg",
+    "price": 750,
+    "bedrooms": 0,
+    "address": "303 North St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/corporate-manor-apartments/CkHkfq/",
+    "distance": 0
+  },
+  {
+    "id": "457927400",
+    "img": "https://photos.zillowstatic.com/fp/b0c4c5ad9d340932527b3f30efbea8ae-p_e.jpg",
+    "price": 1399,
+    "bedrooms": 1,
+    "address": "273 Richmond Ave, Buffalo, NY 14222",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/273-richmond-avenue/CpPxQY/",
+    "distance": 0
+  },
+  {
+    "id": "456937737",
+    "img": "https://photos.zillowstatic.com/fp/17ae10da0144aded2df8fbcb6aac80ca-p_e.jpg",
+    "price": 2500,
+    "bedrooms": 2,
+    "address": "4806 N French Rd #4776, East Amherst, NY 14051",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/east-amherst-ny/the-commons-on-north-french/CnrVd7/",
+    "distance": 0
+  },
+  {
+    "id": "2077934474",
+    "img": "https://photos.zillowstatic.com/fp/cbfcce9b63ee00fbdf90e587a7fe7131-p_e.jpg",
+    "price": 1410,
+    "bedrooms": 2,
+    "address": "100 Athol St #98R, Buffalo, NY 14220",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/park-place-townhomes/5YyCTG/",
+    "distance": 0
+  },
+  {
+    "id": "442072615",
+    "img": "https://photos.zillowstatic.com/fp/f714298f88b91095e070018b4dc8f45d-p_e.jpg",
+    "price": 600,
+    "bedrooms": 1,
+    "address": "353 Richmond Ave, Buffalo, NY 14222",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/doctors-guest-house-on-richmond-with-co-living-space/98CC2h/",
+    "distance": 0
+  },
+  {
+    "id": "457674021",
+    "img": "https://photos.zillowstatic.com/fp/3f8fb1c8a658954b9f9555226f766ca9-p_e.jpg",
+    "price": 619,
+    "bedrooms": 1,
+    "address": "885 Niagara St, Buffalo, NY 14213",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/niagara-gateway/CkCjz8/",
+    "distance": 0
+  },
+  {
+    "id": "3b69dqgjn1hub",
+    "img": "https://photos.zillowstatic.com/fp/6b0d6c1d24449d87cc2b3e1ffa5fe448-p_e.jpg",
+    "price": 1250,
+    "bedrooms": 1,
+    "address": "50 Gates Cir, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/40-50-gates/CjrJKn/",
+    "distance": 0
+  },
+  {
+    "id": "xryzevu82s6t",
+    "img": "https://photos.zillowstatic.com/fp/c86ef11f09a33892ed327034cf740d84-p_e.jpg",
+    "price": 975,
+    "bedrooms": 1,
+    "address": "230 North St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/the-eb-green-residence/CkBMXs/",
+    "distance": 0
+  },
+  {
+    "id": "458072657",
+    "img": "https://photos.zillowstatic.com/fp/b482766712afd111fff7f6be9ead8da4-p_e.jpg",
+    "price": 1050,
+    "bedrooms": 2,
+    "address": "193 Mead St #195-C3, North Tonawanda, NY 14120",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/north-tonawanda-ny/mead-meadows-apartments/5j9GM3/",
+    "distance": 0
+  },
+  {
+    "id": "40xtyharhrgjn",
+    "img": "https://photos.zillowstatic.com/fp/e8e4600b3e71dcc8be0cf033e6999124-p_e.jpg",
+    "price": 1250,
+    "bedrooms": 2,
+    "address": "29 Bellwood Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/29-bellwood-ave-buffalo-ny-98CLXv/",
+    "distance": 0
+  },
+  {
+    "id": "133043825",
+    "img": "https://photos.zillowstatic.com/fp/f88fb2aa8b8368907311db50293b9222-p_e.jpg",
+    "price": 5500,
+    "bedrooms": 4,
+    "address": "8232 Oakway Ln, Williamsville, NY 14221",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/8232-Oakway-Ln-Williamsville-NY-14221/133043825_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2057167683",
+    "img": "https://photos.zillowstatic.com/fp/899dff6abac426ec45d7da8030c852f1-p_e.jpg",
+    "price": 1250,
+    "bedrooms": 2,
+    "address": "82 Willow Ridge Dr APT 1, Buffalo, NY 14228",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/82-Willow-Ridge-Dr-APT-1-Buffalo-NY-14228/2057167683_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "1tj5kh1mepv97",
+    "img": "https://photos.zillowstatic.com/fp/8990156d3923583f72ed215ca622ce70-p_e.jpg",
+    "price": 1600,
+    "bedrooms": 1,
+    "address": "138 Seneca St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/138-seneca-st-buffalo-ny-98B5KS/",
+    "distance": 0
+  },
+  {
+    "id": "123nbcchjg26h",
+    "img": "https://photos.zillowstatic.com/fp/b39db1c6da8cc4cf5ad67cc0da346546-p_e.jpg",
+    "price": 1300,
+    "bedrooms": 2,
+    "address": "160 Young St, Tonawanda, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/160-young-st-tonawanda-ny-989rst/",
+    "distance": 0
+  },
+  {
+    "id": "457970608",
+    "img": "https://photos.zillowstatic.com/fp/3c2ed83ab6021c8c0874d1981437d486-p_e.jpg",
+    "price": 1575,
+    "bedrooms": 1,
+    "address": "175 Richmond Ave #5, Buffalo, NY 14222",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/175-Richmond-Ave-5-Buffalo-NY-14222/457970608_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2091495609",
+    "img": "https://photos.zillowstatic.com/fp/27c525efa86f2a388a991c90c50f131c-p_e.jpg",
+    "price": 1400,
+    "bedrooms": 3,
+    "address": "450 Moselle St #1, Buffalo, NY 14215",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/450-Moselle-St-1-Buffalo-NY-14215/2091495609_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2a4b4vmfx47yq",
+    "img": "https://photos.zillowstatic.com/fp/15dc85f424abcb6597a5f7f303891c61-p_e.jpg",
+    "price": 1295,
+    "bedrooms": 1,
+    "address": "459 Bernhardt Dr, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/459-bernhardt-dr-buffalo-ny-BjKSxf/",
+    "distance": 0
+  },
+  {
+    "id": "4kk1k5zhj2qyj",
+    "img": "https://photos.zillowstatic.com/fp/d3f6812319f85c7ea21644b84039027d-p_e.jpg",
+    "price": 1250,
+    "bedrooms": 1,
+    "address": "188 Milnor Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/188-milnor-ave-buffalo-ny/42.81084,-78.824814_ll/",
+    "distance": 0
+  },
+  {
+    "id": "2xp39zqtdxnq6",
+    "img": "https://photos.zillowstatic.com/fp/e417ae22f594e8d5e7d66e9d64c0379d-p_e.jpg",
+    "price": 1200,
+    "bedrooms": 1,
+    "address": "210 Ellicott St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/the-warehouse-lofts-buffalo-ny-ChX23N/",
+    "distance": 0
+  },
+  {
+    "id": "2058852231",
+    "img": "https://photos.zillowstatic.com/fp/e30c52d3c00110dfa7c1d0ccc2131ad8-p_e.jpg",
+    "price": 1200,
+    "bedrooms": 1,
+    "address": "1233 Eggert Rd, Buffalo, NY 14226",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/1233-Eggert-Rd-Buffalo-NY-14226/2058852231_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "456972528",
+    "img": "https://photos.zillowstatic.com/fp/3a073f0c6802a86311be4e26bda8d8fe-p_e.jpg",
+    "price": 1250,
+    "bedrooms": 2,
+    "address": "580 Starin Ave APT 2, Buffalo, NY 14216",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/580-Starin-Ave-APT-2-Buffalo-NY-14216/456972528_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2054106029",
+    "img": "https://photos.zillowstatic.com/fp/f9df867655bb51afdfeaf46cca635225-p_e.jpg",
+    "price": 2200,
+    "bedrooms": 2,
+    "address": "106 Johnson Park #1, Buffalo, NY 14201",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/106-Johnson-Park-1-Buffalo-NY-14201/2054106029_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2077288306",
+    "img": "https://photos.zillowstatic.com/fp/7b6c8e23b7f14878be7920c90c17dc15-p_e.jpg",
+    "price": 1225,
+    "bedrooms": 2,
+    "address": "1174 Kenmore Ave #10, Buffalo, NY 14216",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/1174-Kenmore-Ave-10-Buffalo-NY-14216/2077288306_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "1y2478gyyzuxy",
+    "img": "https://photos.zillowstatic.com/fp/c59484e774a09bece83cb3997316e341-p_e.jpg",
+    "price": 1150,
+    "bedrooms": 2,
+    "address": "1054 Kenmore Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/1054-kenmore-ave-buffalo-ny-BL5pJ5/",
+    "distance": 0
+  },
+  {
+    "id": "3f4zp4afuv7su",
+    "img": "https://photos.zillowstatic.com/fp/48a4f54c62a93e25556eb5c240480737-p_e.jpg",
+    "price": 1150,
+    "bedrooms": 2,
+    "address": "1164 Kenmore Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/1164-kenmore-ave-buffalo-ny-BL6pD6/",
+    "distance": 0
+  },
+  {
+    "id": "2fg8j53da6f8y",
+    "img": "https://photos.zillowstatic.com/fp/c915ffd4e4fafba0983a7e3ac016ffd7-p_e.jpg",
+    "price": 1345,
+    "bedrooms": 1,
+    "address": "3964 Ridge Lea Rd, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/3964-ridge-lea-rd-buffalo-ny-BFyXGx/",
+    "distance": 0
+  },
+  {
+    "id": "457012618",
+    "img": "https://photos.zillowstatic.com/fp/d6de0162ddbb0655018e105f6e4fd3fc-p_e.jpg",
+    "price": 1200,
+    "bedrooms": 1,
+    "address": "4256 North St APT 2, Buffalo, NY 14219",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/4256-North-St-APT-2-Buffalo-NY-14219/457012618_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "452988572",
+    "img": "https://photos.zillowstatic.com/fp/f0851fe84b1268b860cc88dccd743173-p_e.jpg",
+    "price": 950,
+    "bedrooms": 1,
+    "address": "1371 French Rd APT 3, Depew, NY 14043",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/1371-French-Rd-APT-3-Depew-NY-14043/452988572_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "458013352",
+    "img": "https://photos.zillowstatic.com/fp/ddd4b43f0f70cd9dc3485188ce8a5037-p_e.jpg",
+    "price": 925,
+    "bedrooms": 1,
+    "address": "278 Colvin Ave #2, Buffalo, NY 14216",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/278-Colvin-Ave-2-Buffalo-NY-14216/458013352_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2079785864",
+    "img": "https://photos.zillowstatic.com/fp/691a3f5a353470d5dd979b2b8a165d9c-p_e.jpg",
+    "price": 1100,
+    "bedrooms": 2,
+    "address": "286 Forest Ave #1, Buffalo, NY 14213",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/286-Forest-Ave-1-Buffalo-NY-14213/2079785864_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30160958",
+    "img": "https://photos.zillowstatic.com/fp/2743b7d66b20307ee0334ec12d16ea2d-p_e.jpg",
+    "price": 3850,
+    "bedrooms": 7,
+    "address": "208 Winspear Ave, Buffalo, NY 14215",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/208-Winspear-Ave-Buffalo-NY-14215/30160958_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2090804897",
+    "img": "https://photos.zillowstatic.com/fp/4bc417150dfb29ffc8bdaa18a009b347-p_e.jpg",
+    "price": 1165,
+    "bedrooms": 1,
+    "address": "3039 Delaware Ave APT 3, Kenmore, NY 14217",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/3039-Delaware-Ave-APT-3-Kenmore-NY-14217/2090804897_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "590xb6bdb4ssh",
+    "img": "https://photos.zillowstatic.com/fp/2d6b6eea67ce08a2e8cc0f766b3d9bec-p_e.jpg",
+    "price": 1295,
+    "bedrooms": 1,
+    "address": "90 Concord Dr, Cheektowaga, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/90-concord-dr-buffalo-ny-98Bj4N/",
+    "distance": 0
+  },
+  {
+    "id": "2058642129",
+    "img": "https://photos.zillowstatic.com/fp/1f050e87b2f729a83d77902cd8ff4835-p_e.jpg",
+    "price": 3600,
+    "bedrooms": 6,
+    "address": "160 Winspear Ave, Buffalo, NY 14214",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/160-Winspear-Ave-Buffalo-NY-14214/2058642129_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2065762566",
+    "img": "https://photos.zillowstatic.com/fp/780c4806729f63ba74c00e497c79ef4a-p_e.jpg",
+    "price": 1375,
+    "bedrooms": 1,
+    "address": "96 Fargo Ave #1, Buffalo, NY 14201",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/96-Fargo-Ave-1-Buffalo-NY-14201/2065762566_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "340792191",
+    "img": "https://photos.zillowstatic.com/fp/d68fbc734af354bddb3de5020d00a5d6-p_e.jpg",
+    "price": 1600,
+    "bedrooms": 3,
+    "address": "405 Parkdale Ave FLOOR 1, Buffalo, NY 14213",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/405-Parkdale-Ave-FLOOR-1-Buffalo-NY-14213/340792191_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "133718633",
+    "img": "https://photos.zillowstatic.com/fp/bc2b1631dac3c7d7c99613e78753cce2-p_e.jpg",
+    "price": 3750,
+    "bedrooms": 6,
+    "address": "169 Winspear Ave, Buffalo, NY 14215",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/169-Winspear-Ave-Buffalo-NY-14215/133718633_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457744423",
+    "img": "https://photos.zillowstatic.com/fp/4819c846155163920208cf8f75d3a047-p_e.jpg",
+    "price": 1550,
+    "bedrooms": 2,
+    "address": "82 Kail St #1, Buffalo, NY 14207",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/82-Kail-St-1-Buffalo-NY-14207/457744423_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30160831",
+    "img": "https://photos.zillowstatic.com/fp/b6c50fa3d157984a122d68fbed37b671-p_e.jpg",
+    "price": 2600,
+    "bedrooms": 4,
+    "address": "184 Highgate Ave, Buffalo, NY 14215",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/184-Highgate-Ave-Buffalo-NY-14215/30160831_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457913624",
+    "img": "https://photos.zillowstatic.com/fp/ee1d53151fdcd1518aa680727f9343a4-p_e.jpg",
+    "price": 1495,
+    "bedrooms": 2,
+    "address": "725 Dick Rd #4, Buffalo, NY 14225",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/725-Dick-Rd-4-Buffalo-NY-14225/457913624_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2101691957",
+    "img": "https://photos.zillowstatic.com/fp/6341ec011399789f8eb0117a5f56e330-p_e.jpg",
+    "price": 1075,
+    "bedrooms": 1,
+    "address": "120 Richmond Ave APT 1, Buffalo, NY 14222",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/120-Richmond-Ave-APT-1-Buffalo-NY-14222/2101691957_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2093305935",
+    "img": "https://photos.zillowstatic.com/fp/23cbd3a55425c8c9a484753b36d18cd9-p_e.jpg",
+    "price": 1475,
+    "bedrooms": 2,
+    "address": "102 Saranac Ave #2, Buffalo, NY 14216",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/102-Saranac-Ave-2-Buffalo-NY-14216/2093305935_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "455190738",
+    "img": "https://photos.zillowstatic.com/fp/efec605c6a4f213359eb548f63589a36-p_e.jpg",
+    "price": 1850,
+    "bedrooms": 3,
+    "address": "580 Potomac Ave APT 4, Buffalo, NY 14222",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/580-Potomac-Ave-APT-4-Buffalo-NY-14222/455190738_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457743108",
+    "img": "https://photos.zillowstatic.com/fp/f9944c577ccb88cba964bb887371564b-p_e.jpg",
+    "price": 1600,
+    "bedrooms": 2,
+    "address": "1806 Como Park Blvd #A, Lancaster, NY 14086",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/1806-Como-Park-Blvd-A-Lancaster-NY-14086/457743108_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "3hkt8hy7331sn",
+    "img": "https://photos.zillowstatic.com/fp/17ff982219642b744a1b6212f36fae7e-p_e.jpg",
+    "price": 1225,
+    "bedrooms": 2,
+    "address": "920 Amherst St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/920-amherst-st-buffalo-ny-98Bn5r/",
+    "distance": 0
+  },
+  {
+    "id": "3tnh6btzfxfmp",
+    "img": "https://photos.zillowstatic.com/fp/06e33fe6c5252bddac8eef8c3fdd675e-p_e.jpg",
+    "price": 1300,
+    "bedrooms": 2,
+    "address": "2917 Main St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/2917-main-st-buffalo-ny-5ftXpJ/",
+    "distance": 0
+  },
+  {
+    "id": "457709392",
+    "img": "https://photos.zillowstatic.com/fp/7c9b16ebd298024e89018214b629bbec-p_e.jpg",
+    "price": 2200,
+    "bedrooms": 3,
+    "address": "742 Richmond Ave #2, Buffalo, NY 14222",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/742-Richmond-Ave-2-Buffalo-NY-14222/457709392_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "447537527",
+    "img": "https://photos.zillowstatic.com/fp/b3ffa2970c7ad33e44e76d0de6137ed1-p_e.jpg",
+    "price": 1195,
+    "bedrooms": 2,
+    "address": "1062 Clinton St UNIT 3, Buffalo, NY 14206",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/1062-Clinton-St-UNIT-3-Buffalo-NY-14206/447537527_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "439664534",
+    "img": "https://photos.zillowstatic.com/fp/c0b0d25bbc2094acdfda1eaf4a53d978-p_e.jpg",
+    "price": 1750,
+    "bedrooms": 3,
+    "address": "185 Crocker St #2, Buffalo, NY 14212",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/185-Crocker-St-2-Buffalo-NY-14212/439664534_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "446924955",
+    "img": "https://photos.zillowstatic.com/fp/d47218ff2b4a47b8d6959ee8d8d6437e-p_e.jpg",
+    "price": 1850,
+    "bedrooms": 3,
+    "address": "10 Stratford Rd #1, Buffalo, NY 14216",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/10-Stratford-Rd-1-Buffalo-NY-14216/446924955_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "49ux7e0b09u54",
+    "img": "https://photos.zillowstatic.com/fp/4201f17867a0b7178b52cee91911b2ea-p_e.jpg",
+    "price": 1900,
+    "bedrooms": 2,
+    "address": "875 Elmwood Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/building/42.92092,-78.877014_ll/",
+    "distance": 0
+  },
+  {
+    "id": "2093103055",
+    "img": "https://photos.zillowstatic.com/fp/f792f22961a06fe4a372d73210481aff-p_e.jpg",
+    "price": 1295,
+    "bedrooms": 1,
+    "address": "86 Wehrle Dr APT 1, Cheektowaga, NY 14225",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/86-Wehrle-Dr-APT-1-Cheektowaga-NY-14225/2093103055_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2075668952",
+    "img": "https://photos.zillowstatic.com/fp/8896b3674a527d7e045242f4b4e712ae-p_e.jpg",
+    "price": 1050,
+    "bedrooms": 1,
+    "address": "1 Grove St #3, Tonawanda, NY 14150",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/1-Grove-St-3-Tonawanda-NY-14150/2075668952_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2089839563",
+    "img": "https://photos.zillowstatic.com/fp/3944101eb110c8c386fcc741ab250ba4-p_e.jpg",
+    "price": 1375,
+    "bedrooms": 1,
+    "address": "282 Summer St APT 10, Buffalo, NY 14222",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/282-Summer-St-APT-10-Buffalo-NY-14222/2089839563_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457714944",
+    "img": "https://photos.zillowstatic.com/fp/30ee425ffbfcd9a1672702be1c7fa7fa-p_e.jpg",
+    "price": 2300,
+    "bedrooms": 4,
+    "address": "575 Auburn Ave #U, Buffalo, NY 14222",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/575-Auburn-Ave-U-Buffalo-NY-14222/457714944_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "83953136",
+    "img": "https://photos.zillowstatic.com/fp/e5702a2b00c2cfab2ae31d83d91c71bd-p_e.jpg",
+    "price": 1150,
+    "bedrooms": 2,
+    "address": "128 Miller St, North Tonawanda, NY 14120",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/128-Miller-St-North-Tonawanda-NY-14120/83953136_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30170215",
+    "img": "https://photos.zillowstatic.com/fp/30e20edb17a89511eaa59518d0de690f-p_e.jpg",
+    "price": 1650,
+    "bedrooms": 4,
+    "address": "245 Humboldt Pkwy, Buffalo, NY 14208",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/245-Humboldt-Pkwy-Buffalo-NY-14208/30170215_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457644575",
+    "img": "https://photos.zillowstatic.com/fp/b36a99a1b2fd3b41d37b578d6ee672c8-p_e.jpg",
+    "price": 1195,
+    "bedrooms": 2,
+    "address": "527 Linwood Ave, Buffalo, NY 14209",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/527-Linwood-Ave-Buffalo-NY-14209/457644575_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "453059232",
+    "img": "https://photos.zillowstatic.com/fp/2ce74d94bd880424f9a12f48c18a770b-p_e.jpg",
+    "price": 1500,
+    "bedrooms": 1,
+    "address": "110 Bidwell Pkwy #2, Buffalo, NY 14222",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/110-Bidwell-Pkwy-2-Buffalo-NY-14222/453059232_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457829640",
+    "img": "https://photos.zillowstatic.com/fp/befee030e0c68a457d0441708e699b8d-p_e.jpg",
+    "price": 1300,
+    "bedrooms": 2,
+    "address": "381 Linwood Ave #8, Buffalo, NY 14209",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/381-Linwood-Ave-8-Buffalo-NY-14209/457829640_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457641134",
+    "img": "https://photos.zillowstatic.com/fp/3db6c892ab9d53bcd56aef2302cf5040-p_e.jpg",
+    "price": 975,
+    "bedrooms": 1,
+    "address": "2 Carmel Rd APT 1, Buffalo, NY 14214",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/2-Carmel-Rd-APT-1-Buffalo-NY-14214/457641134_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "gbxtckuxj4ak",
+    "img": "https://photos.zillowstatic.com/fp/3553cc3119431fe82f3f1f57a8f743d3-p_e.jpg",
+    "price": 1325,
+    "bedrooms": 1,
+    "address": "615 W Ferry St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/615-w-ferry-st-buffalo-ny-5j8ygT/",
+    "distance": 0
+  },
+  {
+    "id": "51xeex45q0tdb",
+    "img": "https://photos.zillowstatic.com/fp/e207b997145a049723a640668a8a69dd-p_e.jpg",
+    "price": 1150,
+    "bedrooms": 2,
+    "address": "1024 Kenmore Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/the-kenmore-and-colvin-apartments-1024-1064-kenmore-avenue-buffalo-ny-14216-buffalo-ny-B6BwVC/",
+    "distance": 0
+  },
+  {
+    "id": "457641076",
+    "img": "https://photos.zillowstatic.com/fp/3db6c892ab9d53bcd56aef2302cf5040-p_e.jpg",
+    "price": 975,
+    "bedrooms": 1,
+    "address": "4 Carmel Rd APT 2, Buffalo, NY 14214",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/4-Carmel-Rd-APT-2-Buffalo-NY-14214/457641076_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457691412",
+    "img": "https://photos.zillowstatic.com/fp/d8aa11cc57c8ba8dceac34a85739364f-p_e.jpg",
+    "price": 1600,
+    "bedrooms": 3,
+    "address": "771 Amherst St APT 2, Buffalo, NY 14216",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/771-Amherst-St-APT-2-Buffalo-NY-14216/457691412_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "453597721",
+    "img": "https://photos.zillowstatic.com/fp/c16caae803f0f2c7d8bb2875e1dddc0a-p_e.jpg",
+    "price": 1235,
+    "bedrooms": 1,
+    "address": "69 Parkside Ave APT 3, Buffalo, NY 14214",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/69-Parkside-Ave-APT-3-Buffalo-NY-14214/453597721_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "vp1t2xt6ckx",
+    "img": "https://photos.zillowstatic.com/fp/e4909037eba84b39bf51bafbdd34c94d-p_e.jpg",
+    "price": 1450,
+    "bedrooms": 2,
+    "address": "227 14th St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/227-14th-street-4/5vNPs5/",
+    "distance": 0
+  },
+  {
+    "id": "440533303",
+    "img": "https://photos.zillowstatic.com/fp/572b51e7eda7ddcfdb491262710417ee-p_e.jpg",
+    "price": 1550,
+    "bedrooms": 2,
+    "address": "374 Elmwood Ave APT 2, Buffalo, NY 14222",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/374-Elmwood-Ave-APT-2-Buffalo-NY-14222/440533303_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457348240",
+    "img": "https://photos.zillowstatic.com/fp/236a7a0617afce990fe83799db819404-p_e.jpg",
+    "price": 1800,
+    "bedrooms": 3,
+    "address": "70 Acacia Dr #1, Buffalo, NY 14228",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/70-Acacia-Dr-1-Buffalo-NY-14228/457348240_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457511343",
+    "img": "https://photos.zillowstatic.com/fp/d60e7469addecdf4b5806c7fc0ba3838-p_e.jpg",
+    "price": 1500,
+    "bedrooms": 3,
+    "address": "409 Hoyt St #2, Buffalo, NY 14213",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/409-Hoyt-St-2-Buffalo-NY-14213/457511343_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457879841",
+    "img": "https://photos.zillowstatic.com/fp/ad9bc29561f5b126473fa6d02a803fd2-p_e.jpg",
+    "price": 1200,
+    "bedrooms": 2,
+    "address": "85 Saint Johns Pl APT 6, Buffalo, NY 14218",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/85-Saint-Johns-Pl-APT-6-Buffalo-NY-14218/457879841_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2079865682",
+    "img": "https://photos.zillowstatic.com/fp/1e96e7164b5d05b7c701dd9008c9d46c-p_e.jpg",
+    "price": 1275,
+    "bedrooms": 1,
+    "address": "828 Elmwood Ave #2, Buffalo, NY 14222",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/828-Elmwood-Ave-2-Buffalo-NY-14222/2079865682_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457238831",
+    "img": "https://photos.zillowstatic.com/fp/56bc544323ecd37aee696ea4cdf1556b-p_e.jpg",
+    "price": 1695,
+    "bedrooms": 2,
+    "address": "86 Wehrle Dr APT 4, Buffalo, NY 14225",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/86-Wehrle-Dr-APT-4-Buffalo-NY-14225/457238831_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "442079808",
+    "img": "https://photos.zillowstatic.com/fp/b5aedfaa3257fe480f6846ef86d9b693-p_e.jpg",
+    "price": 1200,
+    "bedrooms": 2,
+    "address": "145 Southside Pkwy #1, Buffalo, NY 14220",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/145-Southside-Pkwy-1-Buffalo-NY-14220/442079808_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457633545",
+    "img": "https://photos.zillowstatic.com/fp/f24bad1718560f776c5a2a6560016e81-p_e.jpg",
+    "price": 1345,
+    "bedrooms": 2,
+    "address": "2290 Elmwood Ave APT 13, Buffalo, NY 14217",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/2290-Elmwood-Ave-APT-13-Buffalo-NY-14217/457633545_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2060401763",
+    "img": "https://photos.zillowstatic.com/fp/b806bb60ffca3149b33c1d4d2862c5e9-p_e.jpg",
+    "price": 1750,
+    "bedrooms": 3,
+    "address": "48 Inwood Pl #2, Buffalo, NY 14209",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/48-Inwood-Pl-2-Buffalo-NY-14209/2060401763_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30152441",
+    "img": "https://photos.zillowstatic.com/fp/50b205e24d04120ec52fd37feb9762ec-p_e.jpg",
+    "price": 1600,
+    "bedrooms": 2,
+    "address": "51 Grove St, Buffalo, NY 14207",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/51-Grove-St-Buffalo-NY-14207/30152441_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "4s0ehhp0hmfux",
+    "img": "https://photos.zillowstatic.com/fp/ea29684532eac962a0c1911f8a6bd51f-p_e.jpg",
+    "price": 1150,
+    "bedrooms": 2,
+    "address": "1060 Kenmore Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/1060-kenmore-ave-buffalo-ny-5j8yzm/",
+    "distance": 0
+  },
+  {
+    "id": "30369073",
+    "img": "https://photos.zillowstatic.com/fp/853932e98abd7d8b3a6d46cf88b374b4-p_e.jpg",
+    "price": 2600,
+    "bedrooms": 4,
+    "address": "6579 Michael Rd, Orchard Park, NY 14127",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/6579-Michael-Rd-Orchard-Park-NY-14127/30369073_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "3xfw32peqahw5",
+    "img": "https://photos.zillowstatic.com/fp/bcfcfeb0230ad3bb1b09d7bc3ad20cc9-p_e.jpg",
+    "price": 1950,
+    "bedrooms": 2,
+    "address": "611 Linwood Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/building/42.918938,-78.865234_ll/",
+    "distance": 0
+  },
+  {
+    "id": "457569241",
+    "img": "https://photos.zillowstatic.com/fp/fc5f3ddb29fc615ef518ee90bdcc4462-p_e.jpg",
+    "price": 1350,
+    "bedrooms": 3,
+    "address": "77 Edson St FLOOR 2, Buffalo, NY 14210",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/77-Edson-St-FLOOR-2-Buffalo-NY-14210/457569241_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2083932891",
+    "img": "https://photos.zillowstatic.com/fp/78c97f3bf08965d52ffa32bcf06216bc-p_e.jpg",
+    "price": 1395,
+    "bedrooms": 2,
+    "address": "454 Bernhardt Dr APT 6, Buffalo, NY 14226",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/454-Bernhardt-Dr-APT-6-Buffalo-NY-14226/2083932891_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "442685496",
+    "img": "https://photos.zillowstatic.com/fp/90835fcda651457768caa982b0767422-p_e.jpg",
+    "price": 1450,
+    "bedrooms": 2,
+    "address": "1030 Parkside Ave #304, Buffalo, NY 14216",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/1030-Parkside-Ave-304-Buffalo-NY-14216/442685496_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457168653",
+    "img": "https://photos.zillowstatic.com/fp/6b9efe2334bdc167eff4f1217ba96849-p_e.jpg",
+    "price": 1595,
+    "bedrooms": 3,
+    "address": "389 Abbott Rd #1A, Buffalo, NY 14220",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/389-Abbott-Rd-1A-Buffalo-NY-14220/457168653_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "456752147",
+    "img": "https://photos.zillowstatic.com/fp/49da6c5cde88e3672e86ad9a981dc3b0-p_e.jpg",
+    "price": 1295,
+    "bedrooms": 1,
+    "address": "96 Concord Dr APT 2, Buffalo, NY 14215",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/96-Concord-Dr-APT-2-Buffalo-NY-14215/456752147_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30401216",
+    "img": "https://photos.zillowstatic.com/fp/f1dac5d01398a9801526ce8ffa6aa0b5-p_e.jpg",
+    "price": 2895,
+    "bedrooms": 4,
+    "address": "307 Grandview Ave, Buffalo, NY 14223",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/307-Grandview-Ave-Buffalo-NY-14223/30401216_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457377181",
+    "img": "https://photos.zillowstatic.com/fp/dfd184df1eea265c91a326263e2ba8c9-p_e.jpg",
+    "price": 1500,
+    "bedrooms": 3,
+    "address": "247 Esser Ave #1, Buffalo, NY 14207",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/247-Esser-Ave-1-Buffalo-NY-14207/457377181_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2098545919",
+    "img": "https://photos.zillowstatic.com/fp/2f76fe3580b3df234fa393ef85d61dd0-p_e.jpg",
+    "price": 1195,
+    "bedrooms": 2,
+    "address": "62 Livingston St #2, Lancaster, NY 14086",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/62-Livingston-St-2-Lancaster-NY-14086/2098545919_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2058826052",
+    "img": "https://photos.zillowstatic.com/fp/a9c82530adf64adfc0412a0b4dc2f6aa-p_e.jpg",
+    "price": 2000,
+    "bedrooms": 3,
+    "address": "49 Glenside Ave APT 2, Buffalo, NY 14223",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/49-Glenside-Ave-APT-2-Buffalo-NY-14223/2058826052_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "132864990",
+    "img": "https://photos.zillowstatic.com/fp/5a61d73cc8f71913a6426c34b4402eaa-p_e.jpg",
+    "price": 1800,
+    "bedrooms": 2,
+    "address": "125 Elmwood Ave, Buffalo, NY 14201",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/125-Elmwood-Ave-Buffalo-NY-14201/132864990_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457271004",
+    "img": "https://photos.zillowstatic.com/fp/475230aa1b65ebc8b2ac93f8fb055684-p_e.jpg",
+    "price": 1400,
+    "bedrooms": 2,
+    "address": "54 Joseph Dr FLOOR 2, Tonawanda, NY 14150",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/54-Joseph-Dr-FLOOR-2-Tonawanda-NY-14150/457271004_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2078881837",
+    "img": "https://photos.zillowstatic.com/fp/6eb2ed0fc8a9a559a3e9c80e86cfed45-p_e.jpg",
+    "price": 1650,
+    "bedrooms": 1,
+    "address": "173 Summer St APT 1, Buffalo, NY 14222",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/173-Summer-St-APT-1-Buffalo-NY-14222/2078881837_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457172473",
+    "img": "https://photos.zillowstatic.com/fp/4f63d1f9354201dbd7e7d5a14f541015-p_e.jpg",
+    "price": 2100,
+    "bedrooms": 1,
+    "address": "162 Allen St #2, Buffalo, NY 14201",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/162-Allen-St-2-Buffalo-NY-14201/457172473_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "22jez4bcanm2x",
+    "img": "https://photos.zillowstatic.com/fp/3029ea11dc29492e13a9a2d9bcf24d40-p_e.jpg",
+    "price": 1400,
+    "bedrooms": 1,
+    "address": "15 Allen St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/15-allen-st-buffalo-ny-98B4vB/",
+    "distance": 0
+  },
+  {
+    "id": "30165534",
+    "img": "https://photos.zillowstatic.com/fp/f26cb4f77981861332988fc790d721aa-p_e.jpg",
+    "price": 2100,
+    "bedrooms": 3,
+    "address": "186 Bird Ave, Buffalo, NY 14213",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/186-Bird-Ave-Buffalo-NY-14213/30165534_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "455972833",
+    "img": "https://photos.zillowstatic.com/fp/a00320a4e5f49002f0d66951b46a8b22-p_e.jpg",
+    "price": 2250,
+    "bedrooms": 3,
+    "address": "460 Prospect Ave UNIT 1, Buffalo, NY 14201",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/460-Prospect-Ave-UNIT-1-Buffalo-NY-14201/455972833_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "26my4x8kay16d",
+    "img": "https://photos.zillowstatic.com/fp/3909c31de82355d907b9ede211a28dbb-p_e.jpg",
+    "price": 1065,
+    "bedrooms": 1,
+    "address": "25 Logan Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/25-logan-avenue-buffalo-ny-CkBRZL/",
+    "distance": 0
+  },
+  {
+    "id": "2064166090",
+    "img": "https://photos.zillowstatic.com/fp/e435970c1fc4e80e5b4d86c10b6c44ae-p_e.jpg",
+    "price": 1250,
+    "bedrooms": 2,
+    "address": "41 McConkey Dr APT 3, Buffalo, NY 14223",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/41-McConkey-Dr-APT-3-Buffalo-NY-14223/2064166090_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "347833793",
+    "img": "https://photos.zillowstatic.com/fp/89f72de21d01c8918fcb83de41c3c0d6-p_e.jpg",
+    "price": 1175,
+    "bedrooms": 1,
+    "address": "276 Huntington Ave, Buffalo, NY 14214",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/276-Huntington-Ave-Buffalo-NY-14214/347833793_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "347141013",
+    "img": "https://photos.zillowstatic.com/fp/6d38d05eb5cbe45041ea3d0a87216cc4-p_e.jpg",
+    "price": 1700,
+    "bedrooms": 3,
+    "address": "376 Taunton Pl FLOOR 2, Buffalo, NY 14216",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/376-Taunton-Pl-FLOOR-2-Buffalo-NY-14216/347141013_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457513834",
+    "img": "https://photos.zillowstatic.com/fp/ec7f719434a37813a12e206ad55292df-p_e.jpg",
+    "price": 1450,
+    "bedrooms": 2,
+    "address": "36 Warren Ave FLOOR 2, Buffalo, NY 14217",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/36-Warren-Ave-FLOOR-2-Buffalo-NY-14217/457513834_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2083154381",
+    "img": "https://photos.zillowstatic.com/fp/53f218758045eb3d16d096a35303354c-p_e.jpg",
+    "price": 1150,
+    "bedrooms": 2,
+    "address": "1170 Kenmore Ave APT 3, Buffalo, NY 14216",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/1170-Kenmore-Ave-APT-3-Buffalo-NY-14216/2083154381_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2072841079",
+    "img": "https://photos.zillowstatic.com/fp/d77dc8f6339706ab9a5d47e3093ea965-p_e.jpg",
+    "price": 1500,
+    "bedrooms": 3,
+    "address": "92 16th St #2, Buffalo, NY 14213",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/92-16th-St-2-Buffalo-NY-14213/2072841079_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30308472",
+    "img": "https://photos.zillowstatic.com/fp/400a6eb99a7855eb299f34f5cfac5739-p_e.jpg",
+    "price": 2800,
+    "bedrooms": 4,
+    "address": "10195 Keller Rd, Clarence Center, NY 14032",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/10195-Keller-Rd-Clarence-Center-NY-14032/30308472_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457235854",
+    "img": "https://photos.zillowstatic.com/fp/132fce96d587c82d807dbf89e18fc8a5-p_e.jpg",
+    "price": 1375,
+    "bedrooms": 1,
+    "address": "88 Nassau Ave FLOOR 2, Buffalo, NY 14217",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/88-Nassau-Ave-FLOOR-2-Buffalo-NY-14217/457235854_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "450528943",
+    "img": "https://photos.zillowstatic.com/fp/85b09e2a8b8b30811d238e1d0e3a03b0-p_e.jpg",
+    "price": 1500,
+    "bedrooms": 3,
+    "address": "18 Concord Dr FLOOR 2, Buffalo, NY 14215",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/18-Concord-Dr-FLOOR-2-Buffalo-NY-14215/450528943_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2057453147",
+    "img": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=42.96500778198242,-78.735107421875&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&signature=RdlQPLoh_Liqzwjs-XgeShPCUcc=",
+    "price": 1400,
+    "bedrooms": 2,
+    "address": "5854 Main St APT 301, Buffalo, NY 14221",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/5854-Main-St-APT-301-Buffalo-NY-14221/2057453147_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30218786",
+    "img": "https://photos.zillowstatic.com/fp/cfe2ecca96c264da98c5b4a788cf533b-p_e.jpg",
+    "price": 2000,
+    "bedrooms": 3,
+    "address": "59 Dundee St, Buffalo, NY 14220",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/59-Dundee-St-Buffalo-NY-14220/30218786_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "3c50uv5vsgj57",
+    "img": "https://photos.zillowstatic.com/fp/c2d88a28a320d54ff252a3bac492129f-p_e.jpg",
+    "price": 1200,
+    "bedrooms": 1,
+    "address": "269 Richmond Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/building/42.909794,-78.881454_ll/",
+    "distance": 0
+  },
+  {
+    "id": "2089832271",
+    "img": "https://photos.zillowstatic.com/fp/4a3aa2551f6c70ccf47f3f710a8a7ec3-p_e.jpg",
+    "price": 2500,
+    "bedrooms": 2,
+    "address": "510 Washington St #701, Buffalo, NY 14203",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/510-Washington-St-701-Buffalo-NY-14203/2089832271_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30236010",
+    "img": "https://photos.zillowstatic.com/fp/21b45c03832fd5d9ef72ba43ab3fe9f1-p_e.jpg",
+    "price": 1980,
+    "bedrooms": 3,
+    "address": "192 Glenhaven Dr, Buffalo, NY 14228",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/192-Glenhaven-Dr-Buffalo-NY-14228/30236010_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "456562638",
+    "img": "https://photos.zillowstatic.com/fp/be2cb845caf796371d0720dfd5faf1e4-p_e.jpg",
+    "price": 1600,
+    "bedrooms": 3,
+    "address": "844 Potomac Ave #2, Buffalo, NY 14209",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/844-Potomac-Ave-2-Buffalo-NY-14209/456562638_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30264437",
+    "img": "https://photos.zillowstatic.com/fp/14f38f67c3f9d488c988fe36503be46f-p_e.jpg",
+    "price": 2650,
+    "bedrooms": 3,
+    "address": "39 Crosby Blvd, Amherst, NY 14226",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/39-Crosby-Blvd-Amherst-NY-14226/30264437_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "341191129",
+    "img": "https://photos.zillowstatic.com/fp/405f315de00add0883d89eaac87cb2c2-p_e.jpg",
+    "price": 995,
+    "bedrooms": 0,
+    "address": "257 Summer St APT 4, Buffalo, NY 14222",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/257-Summer-St-APT-4-Buffalo-NY-14222/341191129_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2061769870",
+    "img": "https://photos.zillowstatic.com/fp/122aacc4f6c940e34453cfd96b8517b0-p_e.jpg",
+    "price": 1250,
+    "bedrooms": 2,
+    "address": "1370 Sheridan Dr APT 8, Buffalo, NY 14217",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/1370-Sheridan-Dr-APT-8-Buffalo-NY-14217/2061769870_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "454658175",
+    "img": "https://photos.zillowstatic.com/fp/4b69a68303c622f250ece8eefc8f3062-p_e.jpg",
+    "price": 1500,
+    "bedrooms": 3,
+    "address": "99 Wallace Ave FLOOR 2, Buffalo, NY 14214",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/99-Wallace-Ave-FLOOR-2-Buffalo-NY-14214/454658175_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30236094",
+    "img": "https://photos.zillowstatic.com/fp/cfc60d42a9d5090e5dba80d4c2fbcfa9-p_e.jpg",
+    "price": 2200,
+    "bedrooms": 3,
+    "address": "182 Berehaven Dr, Buffalo, NY 14228",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/182-Berehaven-Dr-Buffalo-NY-14228/30236094_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30157799",
+    "img": "https://photos.zillowstatic.com/fp/9f4e588d2fdd491ebc7e660ba7b32f07-p_e.jpg",
+    "price": 1575,
+    "bedrooms": 3,
+    "address": "60 Traymore St, Buffalo, NY 14216",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/60-Traymore-St-Buffalo-NY-14216/30157799_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "133040121",
+    "img": "https://photos.zillowstatic.com/fp/f5b3152857442ad60edaf8d068a6b3e1-p_e.jpg",
+    "price": 2195,
+    "bedrooms": 3,
+    "address": "6427 Transit Rd, East Amherst, NY 14051",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/6427-Transit-Rd-East-Amherst-NY-14051/133040121_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2062355107",
+    "img": "https://photos.zillowstatic.com/fp/67805f9e4e78bd29d724e96fd3f26116-p_e.jpg",
+    "price": 1265,
+    "bedrooms": 2,
+    "address": "25 Logan Ave APT 22, Buffalo, NY 14223",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/25-Logan-Ave-APT-22-Buffalo-NY-14223/2062355107_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "440904462",
+    "img": "https://photos.zillowstatic.com/fp/de5d42e48f5d4e474fcab6842426410a-p_e.jpg",
+    "price": 1425,
+    "bedrooms": 2,
+    "address": "750 Elmwood Ave APT 4, Buffalo, NY 14222",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/750-Elmwood-Ave-APT-4-Buffalo-NY-14222/440904462_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2062725863",
+    "img": "https://photos.zillowstatic.com/fp/c31e39bda325e8ee8e887513b32601ed-p_e.jpg",
+    "price": 1050,
+    "bedrooms": 1,
+    "address": "1069 Delaware Rd APT 2, Buffalo, NY 14223",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/1069-Delaware-Rd-APT-2-Buffalo-NY-14223/2062725863_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "456191908",
+    "img": "https://photos.zillowstatic.com/fp/bdd9422d13c3238eedd11056ae78ed16-p_e.jpg",
+    "price": 1395,
+    "bedrooms": 1,
+    "address": "210 Summer St, Buffalo, NY 14222",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/210-Summer-St-Buffalo-NY-14222/456191908_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30397910",
+    "img": "https://photos.zillowstatic.com/fp/ae8e52f53a2bdbc461dc7e253a5da654-p_e.jpg",
+    "price": 2100,
+    "bedrooms": 4,
+    "address": "381 Hartford Ave, Buffalo, NY 14223",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/381-Hartford-Ave-Buffalo-NY-14223/30397910_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30159776",
+    "img": "https://photos.zillowstatic.com/fp/3cec075efea21170f49b535026020a8a-p_e.jpg",
+    "price": 1650,
+    "bedrooms": 3,
+    "address": "1116 Parkside Ave, Buffalo, NY 14214",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/1116-Parkside-Ave-Buffalo-NY-14214/30159776_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "5cc3tpg71avhk",
+    "img": "https://photos.zillowstatic.com/fp/24260792a93c0cc391b4d1eb6dfa4fd2-p_e.jpg",
+    "price": 1300,
+    "bedrooms": 2,
+    "address": "192 Linden Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/192-linden-ave-buffalo-ny-98Bk4P/",
+    "distance": 0
+  },
+  {
+    "id": "443875473",
+    "img": "https://photos.zillowstatic.com/fp/50c4f764a56841fb7a629cb6357de286-p_e.jpg",
+    "price": 1100,
+    "bedrooms": 1,
+    "address": "2249 Delaware Ave APT A5, Buffalo, NY 14216",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/2249-Delaware-Ave-APT-A5-Buffalo-NY-14216/443875473_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "4px6hgyge1uk6",
+    "img": "https://photos.zillowstatic.com/fp/1afa81c47fa6a72a8cf718fd3247c0ee-p_e.jpg",
+    "price": 1650,
+    "bedrooms": 3,
+    "address": "1133 Hertel Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/1133-hertel-ave-buffalo-ny-98BjP2/",
+    "distance": 0
+  },
+  {
+    "id": "457482435",
+    "img": "https://photos.zillowstatic.com/fp/6fedab321b2b82fc2fd25de2020f0fb5-p_e.jpg",
+    "price": 1785,
+    "bedrooms": 3,
+    "address": "356 Woodward Ave FLOOR 2, Buffalo, NY 14214",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/356-Woodward-Ave-FLOOR-2-Buffalo-NY-14214/457482435_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2069508626",
+    "img": "https://photos.zillowstatic.com/fp/12cdd89a9368f66c49d2fb01db1f205d-p_e.jpg",
+    "price": 1500,
+    "bedrooms": 3,
+    "address": "84 Hartwell Rd FLOOR 2, Buffalo, NY 14216",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/84-Hartwell-Rd-FLOOR-2-Buffalo-NY-14216/2069508626_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "416661233",
+    "img": "https://photos.zillowstatic.com/fp/9a376c8770d5efe00da7b2300ad6a7db-p_e.jpg",
+    "price": 1650,
+    "bedrooms": 2,
+    "address": "8 Saint Johns Pl #9, Buffalo, NY 14201",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/8-Saint-Johns-Pl-9-Buffalo-NY-14201/416661233_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2061443020",
+    "img": "https://photos.zillowstatic.com/fp/be6fe5937cc93efaddf8c6b2e9e1f950-p_e.jpg",
+    "price": 1350,
+    "bedrooms": 1,
+    "address": "38 Irving Pl FLOOR 2, Buffalo, NY 14201",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/38-Irving-Pl-FLOOR-2-Buffalo-NY-14201/2061443020_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "456877759",
+    "img": "https://photos.zillowstatic.com/fp/b498d8a5de98d6bca8dea48a33b620a6-p_e.jpg",
+    "price": 1200,
+    "bedrooms": 2,
+    "address": "163 Barton St #1, Buffalo, NY 14213",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/163-Barton-St-1-Buffalo-NY-14213/456877759_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30236631",
+    "img": "https://photos.zillowstatic.com/fp/236a7a0617afce990fe83799db819404-p_e.jpg",
+    "price": 1800,
+    "bedrooms": 3,
+    "address": "70 Acacia Dr, Amherst, NY 14228",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/70-Acacia-Dr-Amherst-NY-14228/30236631_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30vs88jy2k5ra",
+    "img": "https://photos.zillowstatic.com/fp/da0c75935732146d11a953ad4a1ed707-p_e.jpg",
+    "price": 1275,
+    "bedrooms": 1,
+    "address": "171 Richmond Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/171-richmond-ave-buffalo-ny-98CBgz/",
+    "distance": 0
+  },
+  {
+    "id": "30168654",
+    "img": "https://photos.zillowstatic.com/fp/f011a70d906cb8fd93f7ee21ca005972-p_e.jpg",
+    "price": 1350,
+    "bedrooms": 2,
+    "address": "76 Greenfield St, Buffalo, NY 14214",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/76-Greenfield-St-Buffalo-NY-14214/30168654_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "456209368",
+    "img": "https://photos.zillowstatic.com/fp/8f29d2ffa73ed47c89135f5047f971a5-p_e.jpg",
+    "price": 1475,
+    "bedrooms": 2,
+    "address": "693 Linwood Ave #1, Buffalo, NY 14209",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/693-Linwood-Ave-1-Buffalo-NY-14209/456209368_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2119672481",
+    "img": "https://photos.zillowstatic.com/fp/6284ccbd47078e0c6bb90a84d36952f4-p_e.jpg",
+    "price": 1250,
+    "bedrooms": 1,
+    "address": "3 The Tradewinds APT D, Amherst, NY 14221",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/3-The-Tradewinds-APT-D-Amherst-NY-14221/2119672481_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "456204175",
+    "img": "https://photos.zillowstatic.com/fp/21207f32383666a3781d2247671ece58-p_e.jpg",
+    "price": 1725,
+    "bedrooms": 3,
+    "address": "254 Pennsylvania St FLOOR 1, Buffalo, NY 14201",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/254-Pennsylvania-St-FLOOR-1-Buffalo-NY-14201/456204175_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2082494260",
+    "img": "https://photos.zillowstatic.com/fp/a242dde2fe55bf8c30eeae9b04919a95-p_e.jpg",
+    "price": 1125,
+    "bedrooms": 2,
+    "address": "264 Whitney Pl APT 1, Buffalo, NY 14201",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/264-Whitney-Pl-APT-1-Buffalo-NY-14201/2082494260_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2057420296",
+    "img": "https://photos.zillowstatic.com/fp/f45941b7472b171887a877fe7c520931-p_e.jpg",
+    "price": 1250,
+    "bedrooms": 2,
+    "address": "1065 Delaware Rd APT 3, Buffalo, NY 14223",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/1065-Delaware-Rd-APT-3-Buffalo-NY-14223/2057420296_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457829729",
+    "img": "https://photos.zillowstatic.com/fp/35a65e0d574cedaea07ca3b593f0b1d4-p_e.jpg",
+    "price": 1450,
+    "bedrooms": 3,
+    "address": "191 Kay St #LWR, Buffalo, NY 14215",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/191-Kay-St-LWR-Buffalo-NY-14215/457829729_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30171231",
+    "img": "https://photos.zillowstatic.com/fp/f6d5ca337dcead87dcc47ab9ed3d43df-p_e.jpg",
+    "price": 3500,
+    "bedrooms": 7,
+    "address": "503 W Delavan Ave, Buffalo, NY 14222",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/503-W-Delavan-Ave-Buffalo-NY-14222/30171231_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30170414",
+    "img": "https://photos.zillowstatic.com/fp/4b5b0f38a3076e8e2ebc6e940f3f0b3f-p_e.jpg",
+    "price": 1800,
+    "bedrooms": 3,
+    "address": "556 Potomac Ave, Buffalo, NY 14222",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/556-Potomac-Ave-Buffalo-NY-14222/30170414_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2097611173",
+    "img": "https://photos.zillowstatic.com/fp/3657a0c250d1177267292c8a9d6e9907-p_e.jpg",
+    "price": 2200,
+    "bedrooms": 3,
+    "address": "59 Irving Pl #2, Buffalo, NY 14201",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/59-Irving-Pl-2-Buffalo-NY-14201/2097611173_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2055556284",
+    "img": "https://photos.zillowstatic.com/fp/b52d3c4662426103fb8f6f2d2063ec2a-p_e.jpg",
+    "price": 1900,
+    "bedrooms": 2,
+    "address": "198 Garden Pkwy FLOOR 2, Buffalo, NY 14221",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/198-Garden-Pkwy-FLOOR-2-Buffalo-NY-14221/2055556284_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30171390",
+    "img": "https://photos.zillowstatic.com/fp/af5d08e63ee8626eadc83ed61bf2f44e-p_e.jpg",
+    "price": 1900,
+    "bedrooms": 3,
+    "address": "110 Saint James Pl, Buffalo, NY 14222",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/110-Saint-James-Pl-Buffalo-NY-14222/30171390_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2086772670",
+    "img": "https://photos.zillowstatic.com/fp/adb5e550ab2533daf2c2931e3155b38b-p_e.jpg",
+    "price": 1100,
+    "bedrooms": 0,
+    "address": "433 Norwood Ave APT 2, Buffalo, NY 14222",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/433-Norwood-Ave-APT-2-Buffalo-NY-14222/2086772670_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "38gwgpgf1gmhr",
+    "img": "https://photos.zillowstatic.com/fp/a3694365817911e73725d94d79e19b8e-p_e.jpg",
+    "price": 1800,
+    "bedrooms": 2,
+    "address": "642 Elmwood Avenue # First Floor, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/642-elmwood-ave-buffalo-ny-98CCLz/",
+    "distance": 0
+  },
+  {
+    "id": "457916712",
+    "img": "https://photos.zillowstatic.com/fp/e936d59e70640dcf47552e85e3909820-p_e.jpg",
+    "price": 1600,
+    "bedrooms": 3,
+    "address": "965 Amherst St #2, Buffalo, NY 14216",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/965-Amherst-St-2-Buffalo-NY-14216/457916712_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2060752075",
+    "img": "https://photos.zillowstatic.com/fp/4ccce2e83bb4398fa80dbaaf54b729a6-p_e.jpg",
+    "price": 1195,
+    "bedrooms": 2,
+    "address": "1044 Kenmore Ave APT 7, Buffalo, NY 14216",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/1044-Kenmore-Ave-APT-7-Buffalo-NY-14216/2060752075_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457945161",
+    "img": "https://photos.zillowstatic.com/fp/5e220bba9a0432b507c54af6316a35fb-p_e.jpg",
+    "price": 1195,
+    "bedrooms": 2,
+    "address": "3904 Seneca St APT 8, Buffalo, NY 14224",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/3904-Seneca-St-APT-8-Buffalo-NY-14224/457945161_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "456386468",
+    "img": "https://photos.zillowstatic.com/fp/41b4612dcb6c4300788f4967976df787-p_e.jpg",
+    "price": 1225,
+    "bedrooms": 1,
+    "address": "593 W Ferry St APT 1, Buffalo, NY 14222",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/593-W-Ferry-St-APT-1-Buffalo-NY-14222/456386468_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2080406129",
+    "img": "https://photos.zillowstatic.com/fp/37879cc9a805b8310791d1b0ef139e64-p_e.jpg",
+    "price": 1550,
+    "bedrooms": 2,
+    "address": "368 Richmond Ave #2, Buffalo, NY 14222",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/368-Richmond-Ave-2-Buffalo-NY-14222/2080406129_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "343007354",
+    "img": "https://photos.zillowstatic.com/fp/dd60cf0679024f6dd17d5f3fc62263a4-p_e.jpg",
+    "price": 1250,
+    "bedrooms": 1,
+    "address": "748 Elmwood Ave #2, Buffalo, NY 14222",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/748-Elmwood-Ave-2-Buffalo-NY-14222/343007354_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "443134801",
+    "img": "https://photos.zillowstatic.com/fp/e4d7808555e4f511955c0b4b7fb0690f-p_e.jpg",
+    "price": 1750,
+    "bedrooms": 2,
+    "address": "5 Greenwich Dr APT 4, Buffalo, NY 14228",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/5-Greenwich-Dr-APT-4-Buffalo-NY-14228/443134801_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30407586",
+    "img": "https://photos.zillowstatic.com/fp/d04020345589b42b4909c9c4b69f43da-p_e.jpg",
+    "price": 1875,
+    "bedrooms": 2,
+    "address": "20 School St, West Seneca, NY 14224",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/20-School-St-West-Seneca-NY-14224/30407586_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30171594",
+    "img": "https://photos.zillowstatic.com/fp/58588f233d06a49b59716f071a591ef2-p_e.jpg",
+    "price": 1600,
+    "bedrooms": 2,
+    "address": "96 Florida St, Buffalo, NY 14208",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/96-Florida-St-Buffalo-NY-14208/30171594_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30202724",
+    "img": "https://photos.zillowstatic.com/fp/a637becaf01c04e991ce6446db8897e9-p_e.jpg",
+    "price": 3900,
+    "bedrooms": 3,
+    "address": "440 Seneca St, Buffalo, NY 14204",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/440-Seneca-St-Buffalo-NY-14204/30202724_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "456651323",
+    "img": "https://photos.zillowstatic.com/fp/c28c8a61c343c49e19a0ed487ec43200-p_e.jpg",
+    "price": 1000,
+    "bedrooms": 1,
+    "address": "418 Skillen St #1, Buffalo, NY 14207",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/418-Skillen-St-1-Buffalo-NY-14207/456651323_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "83041853",
+    "img": "https://photos.zillowstatic.com/fp/0e321a456352fd78134cb39d3bf1e518-p_e.jpg",
+    "price": 2300,
+    "bedrooms": 2,
+    "address": "96 Garden Pkwy, Williamsville, NY 14221",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/96-Garden-Pkwy-Williamsville-NY-14221/83041853_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457828334",
+    "img": "https://photos.zillowstatic.com/fp/148b380f23860c438f0d4bd681b651dd-p_e.jpg",
+    "price": 845,
+    "bedrooms": 1,
+    "address": "24 Red Jacket Pkwy FLOOR 2, Buffalo, NY 14220",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/24-Red-Jacket-Pkwy-FLOOR-2-Buffalo-NY-14220/457828334_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457948271",
+    "img": "https://photos.zillowstatic.com/fp/00d36899a19a69c52be35b2c020bb6e6-p_e.jpg",
+    "price": 1175,
+    "bedrooms": 2,
+    "address": "128 Crowley Ave APT 1, Buffalo, NY 14207",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/128-Crowley-Ave-APT-1-Buffalo-NY-14207/457948271_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2070922498",
+    "img": "https://photos.zillowstatic.com/fp/1844972c5206bf40ba17ebc4282844b0-p_e.jpg",
+    "price": 1075,
+    "bedrooms": 0,
+    "address": "796 Columbus Pkwy, Buffalo, NY 14213",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/796-Columbus-Pkwy-Buffalo-NY-14213/2070922498_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "455946245",
+    "img": "https://photos.zillowstatic.com/fp/73ab171e458ea2ad2783ee3da6f87c67-p_e.jpg",
+    "price": 1895,
+    "bedrooms": 1,
+    "address": "504 Washington St UNIT 1, Buffalo, NY 14203",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/504-Washington-St-UNIT-1-Buffalo-NY-14203/455946245_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "98073053",
+    "img": "https://photos.zillowstatic.com/fp/56ae6a40f909ccdf001b5d03f4ee7358-p_e.jpg",
+    "price": 1300,
+    "bedrooms": 1,
+    "address": "1017 Lafayette Ave, Buffalo, NY 14209",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/1017-Lafayette-Ave-Buffalo-NY-14209/98073053_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2104809994",
+    "img": "https://photos.zillowstatic.com/fp/d8b1b1c739172adc9b481dbce256f8f9-p_e.jpg",
+    "price": 1125,
+    "bedrooms": 1,
+    "address": "326 Elmwood Ave APT 1, Buffalo, NY 14222",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/326-Elmwood-Ave-APT-1-Buffalo-NY-14222/2104809994_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30185617",
+    "img": "https://photos.zillowstatic.com/fp/37f267c68feefabf47cb135c477fa0ce-p_e.jpg",
+    "price": 1770,
+    "bedrooms": 3,
+    "address": "366 Ashland Ave, Buffalo, NY 14222",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/366-Ashland-Ave-Buffalo-NY-14222/30185617_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457921459",
+    "img": "https://photos.zillowstatic.com/fp/e63d9834862363566885be0ae6f0c7c5-p_e.jpg",
+    "price": 1100,
+    "bedrooms": 2,
+    "address": "57 Reservation St #1, Buffalo, NY 14207",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/57-Reservation-St-1-Buffalo-NY-14207/457921459_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457202577",
+    "img": "https://photos.zillowstatic.com/fp/09eab61bc1fac3eab7accfc9f73896c9-p_e.jpg",
+    "price": 1800,
+    "bedrooms": 3,
+    "address": "82 Hillpine Rd #1, Buffalo, NY 14227",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/82-Hillpine-Rd-1-Buffalo-NY-14227/457202577_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "3mwh41m4wgnb",
+    "img": "https://photos.zillowstatic.com/fp/a65ec76779fad121af66dea37a6d3cfb-p_e.jpg",
+    "price": 1075,
+    "bedrooms": 1,
+    "address": "940 Englewood Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/940-englewood-ave/CjjCMn/",
+    "distance": 0
+  },
+  {
+    "id": "2077557261",
+    "img": "https://photos.zillowstatic.com/fp/aa54b2685823974dbd1413d3e13cda2f-p_e.jpg",
+    "price": 1500,
+    "bedrooms": 3,
+    "address": "649 Minnesota Ave FLOOR 1, Buffalo, NY 14215",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/649-Minnesota-Ave-FLOOR-1-Buffalo-NY-14215/2077557261_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2052955393",
+    "img": "https://photos.zillowstatic.com/fp/e9f661a64dbc251c7b79357fb2ac899c-p_e.jpg",
+    "price": 1100,
+    "bedrooms": 2,
+    "address": "30-36 Thoreau Ct #32, Tonawanda, NY 14150",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/tonawanda-ny/30-36-thoreau-court/9pSySd/",
+    "distance": 0
+  },
+  {
+    "id": "446802888",
+    "img": "https://photos.zillowstatic.com/fp/d7e83e23c18c896eb2e495716d0f796a-p_e.jpg",
+    "price": 1300,
+    "bedrooms": 3,
+    "address": "1377 E Delavan Ave #1, Buffalo, NY 14215",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/1377-E-Delavan-Ave-1-Buffalo-NY-14215/446802888_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "453366842",
+    "img": "https://photos.zillowstatic.com/fp/ba93d06f6d51cd934c075765064f7362-p_e.jpg",
+    "price": 1150,
+    "bedrooms": 2,
+    "address": "32 Linden Ave FLOOR 2, Buffalo, NY 14214",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/32-Linden-Ave-FLOOR-2-Buffalo-NY-14214/453366842_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "249sbv778r202",
+    "img": "https://photos.zillowstatic.com/fp/ccdf094700f8dab4e255599aaf8a5ae4-p_e.jpg",
+    "price": 1225,
+    "bedrooms": 1,
+    "address": "135 Elmwood Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/135-elmwood-ave-buffalo-ny-ChRnvf/",
+    "distance": 0
+  },
+  {
+    "id": "30201570",
+    "img": "https://photos.zillowstatic.com/fp/9cf1c13247e6b63c58a0227a5519244d-p_e.jpg",
+    "price": 1200,
+    "bedrooms": 3,
+    "address": "197 Madison St, Buffalo, NY 14206",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/197-Madison-St-Buffalo-NY-14206/30201570_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457478545",
+    "img": "https://photos.zillowstatic.com/fp/ac6a4a92ea48df09f98df36186caa5e5-p_e.jpg",
+    "price": 1050,
+    "bedrooms": 2,
+    "address": "50-60 Crane Pl #58, Tonawanda, NY 14150",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/tonawanda-ny/50-60-crane-place/BKwpVR/",
+    "distance": 0
+  },
+  {
+    "id": "2054106387",
+    "img": "https://photos.zillowstatic.com/fp/ed6cb6d3ba027ac3671a652c71298aae-p_e.jpg",
+    "price": 1095,
+    "bedrooms": 2,
+    "address": "244 Vermont St FLOOR 2, Buffalo, NY 14213",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/244-Vermont-St-FLOOR-2-Buffalo-NY-14213/2054106387_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30368627",
+    "img": "https://photos.zillowstatic.com/fp/89482fc183ee7e3029da7c892b915fd8-p_e.jpg",
+    "price": 1950,
+    "bedrooms": 3,
+    "address": "136 Burmon Dr, Orchard Park, NY 14127",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/136-Burmon-Dr-Orchard-Park-NY-14127/30368627_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2099803367",
+    "img": "https://photos.zillowstatic.com/fp/c05a558be72b8ffa0962c41d82631375-p_e.jpg",
+    "price": 1300,
+    "bedrooms": 2,
+    "address": "104 Claremont Ave #3, Buffalo, NY 14222",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/104-Claremont-Ave-3-Buffalo-NY-14222/2099803367_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457449416",
+    "img": "https://photos.zillowstatic.com/fp/9fd8c42d25ebaf542036a73a90a88ea5-p_e.jpg",
+    "price": 1100,
+    "bedrooms": 2,
+    "address": "20 Knowlton Ave APT 26, Buffalo, NY 14218",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/20-Knowlton-Ave-APT-26-Buffalo-NY-14218/457449416_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "442838412",
+    "img": "https://photos.zillowstatic.com/fp/98edae2f9e86992f5409662dccb4ee41-p_e.jpg",
+    "price": 1699,
+    "bedrooms": 3,
+    "address": "414 Taunton Pl FLOOR 1, Buffalo, NY 14216",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/414-Taunton-Pl-FLOOR-1-Buffalo-NY-14216/442838412_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457652845",
+    "img": "https://photos.zillowstatic.com/fp/1afe5cc9bbc7d52389a26603dad1bd54-p_e.jpg",
+    "price": 1300,
+    "bedrooms": 3,
+    "address": "2697 Baseline Rd APT 210, Grand Island, NY 14072",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/2697-Baseline-Rd-APT-210-Grand-Island-NY-14072/457652845_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "455828990",
+    "img": "https://photos.zillowstatic.com/fp/41d68e5c14e82b96d2f01baa349f4371-p_e.jpg",
+    "price": 1500,
+    "bedrooms": 3,
+    "address": "139 Lyndale Ave #2, Buffalo, NY 14223",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/139-Lyndale-Ave-2-Buffalo-NY-14223/455828990_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2077055852",
+    "img": "https://photos.zillowstatic.com/fp/4a456b641a901a7433865ae7698646f0-p_e.jpg",
+    "price": 1200,
+    "bedrooms": 2,
+    "address": "330 Potomac Ave #2, Buffalo, NY 14213",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/330-Potomac-Ave-2-Buffalo-NY-14213/2077055852_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457743774",
+    "img": "https://photos.zillowstatic.com/fp/3d2d34561db5088633ce7db2d2cb3953-p_e.jpg",
+    "price": 1075,
+    "bedrooms": 1,
+    "address": "84 Crane St APT 5, Depew, NY 14043",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/84-Crane-St-APT-5-Depew-NY-14043/457743774_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2056424365",
+    "img": "https://photos.zillowstatic.com/fp/e4b642607c6c660807d9bcc76517eadc-p_e.jpg",
+    "price": 1800,
+    "bedrooms": 3,
+    "address": "204 Norwalk Ave FLOOR 1, Buffalo, NY 14216",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/204-Norwalk-Ave-FLOOR-1-Buffalo-NY-14216/2056424365_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30391786",
+    "img": "https://photos.zillowstatic.com/fp/4a6aef2c0ca2d96dc60f59febd516e95-p_e.jpg",
+    "price": 1200,
+    "bedrooms": 2,
+    "address": "195 Fowler Ave, Buffalo, NY 14217",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/195-Fowler-Ave-Buffalo-NY-14217/30391786_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "38zfmy2s994yk",
+    "img": "https://photos.zillowstatic.com/fp/6dc264ff1d43039961cc2910918b6eff-p_e.jpg",
+    "price": 995,
+    "bedrooms": 0,
+    "address": "401 Delaware Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/401-delaware-ave-buffalo-ny-9tvrVx/",
+    "distance": 0
+  },
+  {
+    "id": "2084437597",
+    "img": "https://photos.zillowstatic.com/fp/e7df467801f7423a4afe3489bee26b3b-p_e.jpg",
+    "price": 1150,
+    "bedrooms": 2,
+    "address": "1154 Kenmore Ave APT 12, Buffalo, NY 14216",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/1154-Kenmore-Ave-APT-12-Buffalo-NY-14216/2084437597_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "456206503",
+    "img": "https://photos.zillowstatic.com/fp/57b20641ae7d89861e49839827bf9763-p_e.jpg",
+    "price": 1395,
+    "bedrooms": 3,
+    "address": "1582 Delaware Ave APT 4, Buffalo, NY 14209",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/1582-Delaware-Ave-APT-4-Buffalo-NY-14209/456206503_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "24f15ny52sfen",
+    "img": "https://photos.zillowstatic.com/fp/d690a8414c6f2f091e0c556c13936b77-p_e.jpg",
+    "price": 960,
+    "bedrooms": 0,
+    "address": "870 Lafayette Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/870-lafayette-ave-buffalo-ny-98BJfv/",
+    "distance": 0
+  },
+  {
+    "id": "2058439020",
+    "img": "https://photos.zillowstatic.com/fp/99457cbaf5dd2d773f03721057a0edd1-p_e.jpg",
+    "price": 1500,
+    "bedrooms": 3,
+    "address": "1246 West Ave #4, Buffalo, NY 14213",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/1246-West-Ave-4-Buffalo-NY-14213/2058439020_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2071582656",
+    "img": "https://photos.zillowstatic.com/fp/c266e3aa0fc65b37cfdde84d649b65f4-p_e.jpg",
+    "price": 1195,
+    "bedrooms": 2,
+    "address": "1040 Kenmore Ave #4, Buffalo, NY 14216",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/1040-Kenmore-Ave-4-Buffalo-NY-14216/2071582656_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "439188477",
+    "img": "https://photos.zillowstatic.com/fp/7d3724fea69a6c604c4aadc4e8107d64-p_e.jpg",
+    "price": 1250,
+    "bedrooms": 2,
+    "address": "271 Crestwood Ave #1, Buffalo, NY 14216",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/271-Crestwood-Ave-1-Buffalo-NY-14216/439188477_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457285759",
+    "img": "https://photos.zillowstatic.com/fp/675436d49f6ed997f0bede40953447fc-p_e.jpg",
+    "price": 1100,
+    "bedrooms": 1,
+    "address": "2726 Main St #26, Buffalo, NY 14214",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/2726-Main-St-26-Buffalo-NY-14214/457285759_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2060258450",
+    "img": "https://photos.zillowstatic.com/fp/ec8efb651d870dba349dbf090d8edc7f-p_e.jpg",
+    "price": 1100,
+    "bedrooms": 2,
+    "address": "101-111 Cobb St #103, Tonawanda, NY 14150",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/tonawanda-ny/101-111-cobb-street/BKwvdw/",
+    "distance": 0
+  },
+  {
+    "id": "457359941",
+    "img": "https://photos.zillowstatic.com/fp/94de2ea6b1dcc47f6c22c6bd02612745-p_e.jpg",
+    "price": 1500,
+    "bedrooms": 3,
+    "address": "375 Military Rd #2, Buffalo, NY 14207",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/375-Military-Rd-2-Buffalo-NY-14207/457359941_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30175283",
+    "img": "https://photos.zillowstatic.com/fp/bafa68b8622017f32b8c84c2d3a794d1-p_e.jpg",
+    "price": 1600,
+    "bedrooms": 4,
+    "address": "174 Millicent Ave, Buffalo, NY 14215",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/174-Millicent-Ave-Buffalo-NY-14215/30175283_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2061273229",
+    "img": "https://photos.zillowstatic.com/fp/c4b1439dacda8fb10aa9ea72947098c1-p_e.jpg",
+    "price": 800,
+    "bedrooms": 1,
+    "address": "347 Oliver St #2, North Tonawanda, NY 14120",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/347-Oliver-St-2-North-Tonawanda-NY-14120/2061273229_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "4gstk4jhdrez6",
+    "img": "https://photos.zillowstatic.com/fp/5049b65cf5badd740cb7c3fb53757868-p_e.jpg",
+    "price": 995,
+    "bedrooms": 1,
+    "address": "1247 Hertel Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/1247-hertel-ave-buffalo-ny-98BjVh/",
+    "distance": 0
+  },
+  {
+    "id": "441691319",
+    "img": "https://photos.zillowstatic.com/fp/2b2032a01448d7d62d1fa4e303c92c9b-p_e.jpg",
+    "price": 1250,
+    "bedrooms": 3,
+    "address": "422 Moselle St APT 1, Buffalo, NY 14215",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/422-Moselle-St-APT-1-Buffalo-NY-14215/441691319_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2081332501",
+    "img": "https://photos.zillowstatic.com/fp/952bec3bef3230a89959f6c359ddab1c-p_e.jpg",
+    "price": 1100,
+    "bedrooms": 1,
+    "address": "2724 Main St #13, Buffalo, NY 14214",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/2724-Main-St-13-Buffalo-NY-14214/2081332501_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30389917",
+    "img": "https://photos.zillowstatic.com/fp/1fb4bc10ebf0992d88ee2fa61fa5060d-p_e.jpg",
+    "price": 2000,
+    "bedrooms": 3,
+    "address": "1090 Brighton Rd, Tonawanda, NY 14150",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/1090-Brighton-Rd-Tonawanda-NY-14150/30389917_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457290159",
+    "img": "https://photos.zillowstatic.com/fp/d626666adcfc3f4412d2dfefd717be18-p_e.jpg",
+    "price": 1050,
+    "bedrooms": 1,
+    "address": "173 North St #2, Buffalo, NY 14201",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/173-North-St-2-Buffalo-NY-14201/457290159_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2057336806",
+    "img": "https://photos.zillowstatic.com/fp/30fcf96c7d33915e4b40c4eeb1cb041d-p_e.jpg",
+    "price": 1697,
+    "bedrooms": 3,
+    "address": "141 Bennett Rd, Buffalo, NY 14227",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/141-Bennett-Rd-Buffalo-NY-14227/2057336806_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2104934422",
+    "img": "https://photos.zillowstatic.com/fp/e6b76e787ab44e7d1b480106f5331ade-p_e.jpg",
+    "price": 1025,
+    "bedrooms": 1,
+    "address": "377 Elmwood Ave APT 9, Buffalo, NY 14222",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/377-Elmwood-Ave-APT-9-Buffalo-NY-14222/2104934422_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2054025118",
+    "img": "https://photos.zillowstatic.com/fp/f7423b03ed2141c59a359c4cb96cf554-p_e.jpg",
+    "price": 1100,
+    "bedrooms": 2,
+    "address": "420 Skillen St APT 6, Buffalo, NY 14207",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/420-Skillen-St-APT-6-Buffalo-NY-14207/2054025118_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "3ttt6kp3q8m0z",
+    "img": "https://photos.zillowstatic.com/fp/dcf4efb0e9929eba3ef0cf2583ae38cf-p_e.jpg",
+    "price": 1095,
+    "bedrooms": 2,
+    "address": "799 Niagara St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/799-niagara-st-buffalo-ny-Chgj2G/",
+    "distance": 0
+  },
+  {
+    "id": "59g6zby3jts4g",
+    "img": "https://photos.zillowstatic.com/fp/b6bdb35debf0f33ff6e597076719a224-p_e.jpg",
+    "price": 1250,
+    "bedrooms": 1,
+    "address": "247 W Utica St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/247-w-utica-st-buffalo-ny-5brSPJ/",
+    "distance": 0
+  },
+  {
+    "id": "457653019",
+    "img": "https://photos.zillowstatic.com/fp/ca159513d63a7afceb4b420d009581b8-p_e.jpg",
+    "price": 1200,
+    "bedrooms": 2,
+    "address": "298 Joe McCarthy Dr UNIT 3, Buffalo, NY 14228",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/298-Joe-McCarthy-Dr-UNIT-3-Buffalo-NY-14228/457653019_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "456617190",
+    "img": "https://photos.zillowstatic.com/fp/5111ec862b03429fe862f3b4675aac68-p_e.jpg",
+    "price": 1600,
+    "bedrooms": 3,
+    "address": "302 Montrose Ave FLOOR 2, Buffalo, NY 14223",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/302-Montrose-Ave-FLOOR-2-Buffalo-NY-14223/456617190_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30254413",
+    "img": "https://photos.zillowstatic.com/fp/fbc5d024b164ee0154fc5fc927ae636d-p_e.jpg",
+    "price": 1600,
+    "bedrooms": 3,
+    "address": "1377 Eggert Rd, Amherst, NY 14226",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/1377-Eggert-Rd-Amherst-NY-14226/30254413_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "46z83t7ny3hqy",
+    "img": "https://photos.zillowstatic.com/fp/b768b9e47bf1341f0bd79b5371e1755a-p_e.jpg",
+    "price": 1250,
+    "bedrooms": 2,
+    "address": "20 Marion St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/20-marion-street-5/CjJwGh/",
+    "distance": 0
+  },
+  {
+    "id": "452275100",
+    "img": "https://photos.zillowstatic.com/fp/04a4770e0d60cf8ee12dc2593a05e8f7-p_e.jpg",
+    "price": 1295,
+    "bedrooms": 2,
+    "address": "24 Briggs Ave #1, Buffalo, NY 14207",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/24-Briggs-Ave-1-Buffalo-NY-14207/452275100_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2063442085",
+    "img": "https://photos.zillowstatic.com/fp/b6650c1f8706f75b7cda37a23059390a-p_e.jpg",
+    "price": 1600,
+    "bedrooms": 2,
+    "address": "35 Ashland Ave APT 2, Buffalo, NY 14222",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/35-Ashland-Ave-APT-2-Buffalo-NY-14222/2063442085_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "370664123",
+    "img": "https://photos.zillowstatic.com/fp/b92c0d3abdffb91e9dcef6a513d00c76-p_e.jpg",
+    "price": 1050,
+    "bedrooms": 2,
+    "address": "41 Austin St #A, Buffalo, NY 14207",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/41-Austin-St-A-Buffalo-NY-14207/370664123_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "5d63f3axzwnka",
+    "img": "https://photos.zillowstatic.com/fp/8fdff2e9558a86509f94923ac3822e66-p_e.jpg",
+    "price": 1000,
+    "bedrooms": 1,
+    "address": "43 Eagan Dr, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/43-eagan-dr-buffalo-ny-98BtLF/",
+    "distance": 0
+  },
+  {
+    "id": "4a0b0rnurxfdh",
+    "img": "https://photos.zillowstatic.com/fp/e8c5af5b2eee18b2dad0344bb41f60af-p_e.jpg",
+    "price": 1250,
+    "bedrooms": 3,
+    "address": "148 Northland Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/148-northland-ave-buffalo-ny-98BGMC/",
+    "distance": 0
+  },
+  {
+    "id": "452275513",
+    "img": "https://photos.zillowstatic.com/fp/20ad413cceb4d3e7bbf9de3c6c522e35-p_e.jpg",
+    "price": 1150,
+    "bedrooms": 3,
+    "address": "156 Ryan St #LWR, Buffalo, NY 14210",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/156-Ryan-St-LWR-Buffalo-NY-14210/452275513_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30300297",
+    "img": "https://photos.zillowstatic.com/fp/13d3b9670ad707bf798a0e49981c3058-p_e.jpg",
+    "price": 1800,
+    "bedrooms": 3,
+    "address": "236 Crabapple Ln, Buffalo, NY 14227",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/236-Crabapple-Ln-Buffalo-NY-14227/30300297_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "448947078",
+    "img": "https://photos.zillowstatic.com/fp/2f8dc9f8e37eb7912d1c0ad11cffe617-p_e.jpg",
+    "price": 950,
+    "bedrooms": 1,
+    "address": "8261 Main St #101, Buffalo, NY 14221",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/8261-Main-St-101-Buffalo-NY-14221/448947078_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "348549124",
+    "img": "https://photos.zillowstatic.com/fp/0817e657fa10914bc16b3779c5f7fd7f-p_e.jpg",
+    "price": 1100,
+    "bedrooms": 2,
+    "address": "17 Southampton St APT 2, Buffalo, NY 14209",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/17-Southampton-St-APT-2-Buffalo-NY-14209/348549124_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "4rub5dgx07cmh",
+    "img": "https://photos.zillowstatic.com/fp/f4a4932f83fdc3f80d049a6918e4ddc5-p_e.jpg",
+    "price": 1099,
+    "bedrooms": 1,
+    "address": "585 Lafayette Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/585-lafayette-ave-buffalo-ny-5Y2Yt9/",
+    "distance": 0
+  },
+  {
+    "id": "30188667",
+    "img": "https://photos.zillowstatic.com/fp/c44f1d2aec01ac2689e468f4b4760dab-p_e.jpg",
+    "price": 1395,
+    "bedrooms": 3,
+    "address": "1072 Ellicott St, Buffalo, NY 14209",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/1072-Ellicott-St-Buffalo-NY-14209/30188667_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "455812105",
+    "img": "https://photos.zillowstatic.com/fp/90fd61a6b22d6e68a207bce8a5db4194-p_e.jpg",
+    "price": 1197,
+    "bedrooms": 2,
+    "address": "2099 Niagara St APT 2, Buffalo, NY 14207",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/2099-Niagara-St-APT-2-Buffalo-NY-14207/455812105_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2057594575",
+    "img": "https://photos.zillowstatic.com/fp/a8d43c6f2508cf1e615d15bc53849f20-p_e.jpg",
+    "price": 2100,
+    "bedrooms": 5,
+    "address": "212 Grote St #1, Buffalo, NY 14207",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/212-Grote-St-1-Buffalo-NY-14207/2057594575_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457364531",
+    "img": "https://photos.zillowstatic.com/fp/7dd808b33adf3cbc761aab8efa741dba-p_e.jpg",
+    "price": 850,
+    "bedrooms": 1,
+    "address": "164 Elk St APT 2, Buffalo, NY 14210",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/164-Elk-St-APT-2-Buffalo-NY-14210/457364531_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "456389134",
+    "img": "https://photos.zillowstatic.com/fp/0c2e00d3c4b6e147670709893640393b-p_e.jpg",
+    "price": 1475,
+    "bedrooms": 3,
+    "address": "215 Allen St #2, Buffalo, NY 14201",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/215-Allen-St-2-Buffalo-NY-14201/456389134_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2060584533",
+    "img": "https://photos.zillowstatic.com/fp/6178ca8306d599cc28eddc3b7a59a0d1-p_e.jpg",
+    "price": 1785,
+    "bedrooms": 1,
+    "address": "715-721 Elmwood Ave #719-3, Buffalo, NY 14222",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/the-elmwood-village-apartments/BM4sLp/",
+    "distance": 0
+  },
+  {
+    "id": "30168727",
+    "img": "https://photos.zillowstatic.com/fp/5f031bf8153a71d0c2d623b484c34e95-p_e.jpg",
+    "price": 1440,
+    "bedrooms": 3,
+    "address": "76 Vernon Pl, Buffalo, NY 14214",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/76-Vernon-Pl-Buffalo-NY-14214/30168727_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "456409376",
+    "img": "https://photos.zillowstatic.com/fp/5e71a5c1aa601ad44273dce453abf976-p_e.jpg",
+    "price": 1600,
+    "bedrooms": 2,
+    "address": "244 Virginia St #1, Buffalo, NY 14201",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/244-Virginia-St-1-Buffalo-NY-14201/456409376_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2093763304",
+    "img": "https://photos.zillowstatic.com/fp/be64ac5001273fa718b607b8f3cdf881-p_e.jpg",
+    "price": 1670,
+    "bedrooms": 2,
+    "address": "50 Getzville Rd APT A, Amherst, NY 14226",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/50-Getzville-Rd-APT-A-Amherst-NY-14226/2093763304_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2gw5t12p4djck",
+    "img": "https://photos.zillowstatic.com/fp/7adc3abe4998386d10583e1e00e10ed4-p_e.jpg",
+    "price": 1275,
+    "bedrooms": 2,
+    "address": "1022 Hertel Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/building/42.94809,-78.87051_ll/",
+    "distance": 0
+  },
+  {
+    "id": "402676219",
+    "img": "https://photos.zillowstatic.com/fp/b9dad95381a8d5d12f06686c05296a04-p_e.jpg",
+    "price": 1299,
+    "bedrooms": 3,
+    "address": "305 Cable St UNIT 1, Buffalo, NY 14206",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/305-Cable-St-UNIT-1-Buffalo-NY-14206/402676219_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2081309973",
+    "img": "https://photos.zillowstatic.com/fp/f1e28cc01e475063e64aa27171d57935-p_e.jpg",
+    "price": 1950,
+    "bedrooms": 3,
+    "address": "105 Mariner St, Buffalo, NY 14201",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/105-Mariner-St-Buffalo-NY-14201/2081309973_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30214754",
+    "img": "https://photos.zillowstatic.com/fp/42cc461c5310ebc2e243ce81bdb97fb6-p_e.jpg",
+    "price": 1045,
+    "bedrooms": 2,
+    "address": "118 Pries Ave, Buffalo, NY 14220",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/118-Pries-Ave-Buffalo-NY-14220/30214754_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "456955330",
+    "img": "https://photos.zillowstatic.com/fp/400959bf0857d49e015665f4f7c558d9-p_e.jpg",
+    "price": 1180,
+    "bedrooms": 2,
+    "address": "4714 Transit Rd APT 2, Depew, NY 14043",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/4714-Transit-Rd-APT-2-Depew-NY-14043/456955330_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "456260825",
+    "img": "https://photos.zillowstatic.com/fp/f4ff80dcb72a29d4caf70bd249cbbe26-p_e.jpg",
+    "price": 975,
+    "bedrooms": 2,
+    "address": "3 Rosedale St #60, Buffalo, NY 14207",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/3-Rosedale-St-60-Buffalo-NY-14207/456260825_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "4jusn98r3j4rt",
+    "img": "https://photos.zillowstatic.com/fp/f78eba9cb90e0ce9b872244fb298c262-p_e.jpg",
+    "price": 1250,
+    "bedrooms": 2,
+    "address": "144 Woodell Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/144-woodell-ave-buffalo-ny-98BMnf/",
+    "distance": 0
+  },
+  {
+    "id": "456795944",
+    "img": "https://photos.zillowstatic.com/fp/dc5e3127d38242331a8e2543f5451794-p_e.jpg",
+    "price": 1495,
+    "bedrooms": 3,
+    "address": "19 Richfield Ave FLOOR 1, Buffalo, NY 14220",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/19-Richfield-Ave-FLOOR-1-Buffalo-NY-14220/456795944_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2079020168",
+    "img": "https://photos.zillowstatic.com/fp/26887fda4d0411bfc5bd824225a2255f-p_e.jpg",
+    "price": 1000,
+    "bedrooms": 2,
+    "address": "175 Freund St #2, Buffalo, NY 14215",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/175-Freund-St-2-Buffalo-NY-14215/2079020168_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30282373",
+    "img": "https://photos.zillowstatic.com/fp/da0495c38a19d3a0d9add86e110d0f76-p_e.jpg",
+    "price": 1295,
+    "bedrooms": 2,
+    "address": "1 Virginia Rd, Cheektowaga, NY 14225",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/1-Virginia-Rd-Cheektowaga-NY-14225/30282373_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30354122",
+    "img": "https://photos.zillowstatic.com/fp/60dc4d1c17a49abffec623890dcb9d73-p_e.jpg",
+    "price": 1750,
+    "bedrooms": 3,
+    "address": "33-35 Broezel Ave, Lancaster, NY 14086",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/33-35-Broezel-Ave-Lancaster-NY-14086/30354122_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30298219",
+    "img": "https://photos.zillowstatic.com/fp/abefc00e65f9a624e4a715fdf763f503-p_e.jpg",
+    "price": 995,
+    "bedrooms": 1,
+    "address": "191 Helen St, Cheektowaga, NY 14206",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/191-Helen-St-Cheektowaga-NY-14206/30298219_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "455581070",
+    "img": "https://photos.zillowstatic.com/fp/a7035dca478017c24f4e62dd06ca93f0-p_e.jpg",
+    "price": 1300,
+    "bedrooms": 3,
+    "address": "416 Prospect Ave, Buffalo, NY 14201",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/416-Prospect-Ave-Buffalo-NY-14201/455581070_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2080006820",
+    "img": "https://photos.zillowstatic.com/fp/93ca051e7da87a4e31f8de9309820cf3-p_e.jpg",
+    "price": 1695,
+    "bedrooms": 4,
+    "address": "620 Auburn Ave #2, Buffalo, NY 14222",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/620-Auburn-Ave-2-Buffalo-NY-14222/2080006820_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "1heh84jkbfgc0",
+    "img": "https://photos.zillowstatic.com/fp/9abe5afe094286763a3c64ac8eef7d06-p_e.jpg",
+    "price": 1485,
+    "bedrooms": 1,
+    "address": "1149 Delaware Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/buffalo-ny/delnord/5ZbrYj/",
+    "distance": 0
+  },
+  {
+    "id": "2060258366",
+    "img": "https://photos.zillowstatic.com/fp/b68a7aba81140310b6e0bb210aca63b9-p_e.jpg",
+    "price": 995,
+    "bedrooms": 2,
+    "address": "40-50 Lardner Ct #42, Tonawanda, NY 14150",
+    "pet": true,
+    "link": "https://www.zillow.com//apartments/tonawanda-ny/40-50-lardner-court/BKwrwJ/",
+    "distance": 0
+  },
+  {
+    "id": "2099560299",
+    "img": "https://photos.zillowstatic.com/fp/a662499ea9c189c30580c961945b2764-p_e.jpg",
+    "price": 950,
+    "bedrooms": 1,
+    "address": "331 Schenck St #1, North Tonawanda, NY 14120",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/331-Schenck-St-1-North-Tonawanda-NY-14120/2099560299_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2067653903",
+    "img": "https://photos.zillowstatic.com/fp/decf1821ba4824834e86120330256750-p_e.jpg",
+    "price": 1075,
+    "bedrooms": 2,
+    "address": "1353 Hertel Ave #1, Buffalo, NY 14216",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/1353-Hertel-Ave-1-Buffalo-NY-14216/2067653903_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "98036917",
+    "img": "https://photos.zillowstatic.com/fp/9c633d2d2a55f552380efa1b453ba839-p_e.jpg",
+    "price": 1250,
+    "bedrooms": 1,
+    "address": "219 Oxford Ave, Buffalo, NY 14209",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/219-Oxford-Ave-Buffalo-NY-14209/98036917_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30149432",
+    "img": "https://photos.zillowstatic.com/fp/d114a8ab01b582151346c7bd3b269f3c-p_e.jpg",
+    "price": 1495,
+    "bedrooms": 3,
+    "address": "197 Condon Ave, Buffalo, NY 14207",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/197-Condon-Ave-Buffalo-NY-14207/30149432_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30254749",
+    "img": "https://photos.zillowstatic.com/fp/77eeaa29e9b6d46b8d05d9f2e37dc56d-p_e.jpg",
+    "price": 2250,
+    "bedrooms": 3,
+    "address": "4796 N Bailey Ave, Amherst, NY 14226",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/4796-N-Bailey-Ave-Amherst-NY-14226/30254749_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457360543",
+    "img": "https://photos.zillowstatic.com/fp/ce4fca08403d432149f6bc86ad1d9c52-p_e.jpg",
+    "price": 900,
+    "bedrooms": 2,
+    "address": "140 Parkdale Ave #2, Buffalo, NY 14213",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/140-Parkdale-Ave-2-Buffalo-NY-14213/457360543_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "439306624",
+    "img": "https://photos.zillowstatic.com/fp/484eda54cb6ef80cff7edd8f4f9c377c-p_e.jpg",
+    "price": 1350,
+    "bedrooms": 3,
+    "address": "37 Sandy Ln #2, Buffalo, NY 14227",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/37-Sandy-Ln-2-Buffalo-NY-14227/439306624_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "456627409",
+    "img": "https://photos.zillowstatic.com/fp/118cd7dfce639e6270bc95a6e94f0e08-p_e.jpg",
+    "price": 900,
+    "bedrooms": 2,
+    "address": "54 Anderson Pl APT 3, Buffalo, NY 14222",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/54-Anderson-Pl-APT-3-Buffalo-NY-14222/456627409_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "455387782",
+    "img": "https://photos.zillowstatic.com/fp/c4e9f1e0a4f48dbc0ac0b0b1f5ea1687-p_e.jpg",
+    "price": 1000,
+    "bedrooms": 2,
+    "address": "4155 Seneca St APT 2, Buffalo, NY 14224",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/4155-Seneca-St-APT-2-Buffalo-NY-14224/455387782_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "31460483",
+    "img": "https://photos.zillowstatic.com/fp/3c96ce5b39141e9d5c981c29e32b24ec-p_e.jpg",
+    "price": 2950,
+    "bedrooms": 3,
+    "address": "732 Barrally St, North Tonawanda, NY 14120",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/732-Barrally-St-North-Tonawanda-NY-14120/31460483_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30152765",
+    "img": "https://photos.zillowstatic.com/fp/7b2e36fe51c342792532b76aa2eb233e-p_e.jpg",
+    "price": 1400,
+    "bedrooms": 2,
+    "address": "38 Saint Florian St, Buffalo, NY 14207",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/38-Saint-Florian-St-Buffalo-NY-14207/30152765_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "458043094",
+    "img": "https://photos.zillowstatic.com/fp/ce2ef37b306d519b6ae24498d7cf355b-p_e.jpg",
+    "price": 1200,
+    "bedrooms": 2,
+    "address": "94 Hertel Ave UNIT 1, Buffalo, NY 14207",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/94-Hertel-Ave-UNIT-1-Buffalo-NY-14207/458043094_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2wgh7vcnbyk3p",
+    "img": "https://photos.zillowstatic.com/fp/33f9e88ce716f0af2c946e8139ecc330-p_e.jpg",
+    "price": 1100,
+    "bedrooms": 1,
+    "address": "232 Richmond Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/232-richmond-ave-buffalo-ny-98CBrP/",
+    "distance": 0
+  },
+  {
+    "id": "458042947",
+    "img": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=43.01198959350586,-78.87124633789062&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&signature=7T19z4iz8ykH0eWvBzf1sMQdvCo=",
+    "price": 850,
+    "bedrooms": 2,
+    "address": "99 Elm St #2, Tonawanda, NY 14150",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/99-Elm-St-2-Tonawanda-NY-14150/458042947_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30407632",
+    "img": "https://photos.zillowstatic.com/fp/5ba64d32fc0349c20c4d9e88197c14cd-p_e.jpg",
+    "price": 3495,
+    "bedrooms": 4,
+    "address": "26 Seneca Creek Rd, Buffalo, NY 14224",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/26-Seneca-Creek-Rd-Buffalo-NY-14224/30407632_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "124238460",
+    "img": "https://photos.zillowstatic.com/fp/165d6edb0997c305ed6f885ee4f9e523-p_e.jpg",
+    "price": 1500,
+    "bedrooms": 3,
+    "address": "5070 Lynwood Ave, Buffalo, NY 14219",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/5070-Lynwood-Ave-Buffalo-NY-14219/124238460_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "458037598",
+    "img": "https://photos.zillowstatic.com/fp/11d17033ad1e976417d405ad31cc7924-p_e.jpg",
+    "price": 1450,
+    "bedrooms": 3,
+    "address": "34 Wells Ave #2, Buffalo, NY 14227",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/34-Wells-Ave-2-Buffalo-NY-14227/458037598_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "458028327",
+    "img": "https://photos.zillowstatic.com/fp/01b38de7bcf0ab1c5941778ba92b5ab5-p_e.jpg",
+    "price": 1500,
+    "bedrooms": 3,
+    "address": "56 Lovering Ave UNIT 1, Buffalo, NY 14216",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/56-Lovering-Ave-UNIT-1-Buffalo-NY-14216/458028327_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "458028498",
+    "img": "https://photos.zillowstatic.com/fp/0f22d6c3677ab0353b02841ee7ebfeea-p_e.jpg",
+    "price": 1500,
+    "bedrooms": 3,
+    "address": "214 Colvin Ave #2, Buffalo, NY 14216",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/214-Colvin-Ave-2-Buffalo-NY-14216/458028498_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "458027637",
+    "img": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=43.038429260253906,-78.69637298583984&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&signature=CHRwUyw12k4b7O8Q1qJQGw9Wq2I=",
+    "price": 1100,
+    "bedrooms": 2,
+    "address": "6951 Transit Rd #1, East Amherst, NY 14051",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/6951-Transit-Rd-1-East-Amherst-NY-14051/458027637_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30208679",
+    "img": "https://photos.zillowstatic.com/fp/64b5e5ca2325f05bf85502fbf6bfddc9-p_e.jpg",
+    "price": 950,
+    "bedrooms": 3,
+    "address": "137 Gilbert St, Buffalo, NY 14206",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/137-Gilbert-St-Buffalo-NY-14206/30208679_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30301870",
+    "img": "https://photos.zillowstatic.com/fp/8e85cd9577ecefc6336a3b1aea0fed81-p_e.jpg",
+    "price": 1395,
+    "bedrooms": 3,
+    "address": "41 Pleasant Pkwy, Buffalo, NY 14206",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/41-Pleasant-Pkwy-Buffalo-NY-14206/30301870_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "443944572",
+    "img": "https://photos.zillowstatic.com/fp/a768eebf9212388b683d9e11b84bf4c1-p_e.jpg",
+    "price": 1350,
+    "bedrooms": 3,
+    "address": "95 Roswell Ave FLOOR 2, Buffalo, NY 14207",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/95-Roswell-Ave-FLOOR-2-Buffalo-NY-14207/443944572_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "82772899",
+    "img": "https://photos.zillowstatic.com/fp/92b666d538e7274eac80cb486efed65c-p_e.jpg",
+    "price": 1100,
+    "bedrooms": 0,
+    "address": "64 Amherst St, Buffalo, NY 14207",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/64-Amherst-St-Buffalo-NY-14207/82772899_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "4knn1bg6wrxpb",
+    "img": "https://photos.zillowstatic.com/fp/febecb7ad7020b2a0fd1ec7bb158ab69-p_e.jpg",
+    "price": 1650,
+    "bedrooms": 3,
+    "address": "97 19th St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/97-19th-st-buffalo-ny-98BYHF/",
+    "distance": 0
+  },
+  {
+    "id": "4nn3yztntct8z",
+    "img": "https://photos.zillowstatic.com/fp/86d2896bd598ebb1470d6961c741cc91-p_e.jpg",
+    "price": 2000,
+    "bedrooms": 2,
+    "address": "224 Oxford Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/224-oxford-ave-buffalo-ny-98BJDz/",
+    "distance": 0
+  },
+  {
+    "id": "4p6t6z412jjqs",
+    "img": "https://photos.zillowstatic.com/fp/c813094f01ec0c932b51a46bdf25fd56-p_e.jpg",
+    "price": 1095,
+    "bedrooms": 1,
+    "address": "9330 Main St, Clarence, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/9330-main-st-clarence-ny-988Hdv/",
+    "distance": 0
+  },
+  {
+    "id": "gdawbsz9ehue",
+    "img": "https://photos.zillowstatic.com/fp/7d2fad1aa46656444a97ec84a9e058b3-p_e.jpg",
+    "price": 1350,
+    "bedrooms": 3,
+    "address": "204 Tacoma Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/204-tacoma-ave-buffalo-ny-5vKGPv/",
+    "distance": 0
+  },
+  {
+    "id": "30159947",
+    "img": "https://photos.zillowstatic.com/fp/2c541f7714cfc3f4ba6eda315c2e2995-p_e.jpg",
+    "price": 3600,
+    "bedrooms": 6,
+    "address": "112 Englewood Ave, Buffalo, NY 14214",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/112-Englewood-Ave-Buffalo-NY-14214/30159947_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "402356850",
+    "img": "https://photos.zillowstatic.com/fp/7ee62c82b10d9348948b9572c208a5e0-p_e.jpg",
+    "price": 1395,
+    "bedrooms": 2,
+    "address": "2249 Clinton St APT 4, Buffalo, NY 14206",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/2249-Clinton-St-APT-4-Buffalo-NY-14206/402356850_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457976202",
+    "img": "https://photos.zillowstatic.com/fp/9204193e102ec2d2d227858d99ea372e-p_e.jpg",
+    "price": 1950,
+    "bedrooms": 3,
+    "address": "3142 Main St #1, Buffalo, NY 14214",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/3142-Main-St-1-Buffalo-NY-14214/457976202_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2247rrc2wuu6e",
+    "img": "https://photos.zillowstatic.com/fp/38e0bde329d1ec71d42fe164a3c97117-p_e.jpg",
+    "price": 1795,
+    "bedrooms": 2,
+    "address": "1685 Hertel Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/1685-hertel-ave-buffalo-ny-CmR7qP/",
+    "distance": 0
+  },
+  {
+    "id": "450279027",
+    "img": "https://photos.zillowstatic.com/fp/70705f7c4f07a9793bc47d2c97a9bc4d-p_e.jpg",
+    "price": 2000,
+    "bedrooms": 4,
+    "address": "174 Lisbon Ave FLOOR 1, Buffalo, NY 14214",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/174-Lisbon-Ave-FLOOR-1-Buffalo-NY-14214/450279027_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "446904295",
+    "img": "https://photos.zillowstatic.com/fp/e353e81e200ce40f6a591b05407b2807-p_e.jpg",
+    "price": 1325,
+    "bedrooms": 3,
+    "address": "135 Fairfield Ave FLOOR 2, Buffalo, NY 14223",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/135-Fairfield-Ave-FLOOR-2-Buffalo-NY-14223/446904295_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "441747343",
+    "img": "https://photos.zillowstatic.com/fp/7ab00c8f4e58021c8b85ba8d2c2d4c29-p_e.jpg",
+    "price": 925,
+    "bedrooms": 1,
+    "address": "1301 Ransom Rd #5, Grand Island, NY 14072",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/1301-Ransom-Rd-5-Grand-Island-NY-14072/441747343_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30157971",
+    "img": "https://photos.zillowstatic.com/fp/f347fda79a325e2b9317cc1bb725b0ea-p_e.jpg",
+    "price": 1800,
+    "bedrooms": 3,
+    "address": "34 Rugby Rd, Buffalo, NY 14216",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/34-Rugby-Rd-Buffalo-NY-14216/30157971_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457967930",
+    "img": "https://photos.zillowstatic.com/fp/e337b22f68113c17b55903a0330f77da-p_e.jpg",
+    "price": 1075,
+    "bedrooms": 1,
+    "address": "3223 Main St #3, Buffalo, NY 14214",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/3223-Main-St-3-Buffalo-NY-14214/457967930_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "ygf34tx70yxb",
+    "img": "https://photos.zillowstatic.com/fp/38412bd4b8cc70a1a2f89d4be9dfe39c-p_e.jpg",
+    "price": 1075,
+    "bedrooms": 1,
+    "address": "220 Stevenson St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/220-stevenson-st-buffalo-ny-98BKg6/",
+    "distance": 0
+  },
+  {
+    "id": "457927424",
+    "img": "https://photos.zillowstatic.com/fp/c39494907d9bb6c40e382e2ca3fe20e8-p_e.jpg",
+    "price": 2300,
+    "bedrooms": 3,
+    "address": "1271 Cleveland Dr #1, Buffalo, NY 14225",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/1271-Cleveland-Dr-1-Buffalo-NY-14225/457927424_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2060435676",
+    "img": "https://photos.zillowstatic.com/fp/8be1f804ba8d6afc1daa845adaef1f10-p_e.jpg",
+    "price": 1200,
+    "bedrooms": 2,
+    "address": "5 Sibley St #1, Buffalo, NY 14220",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/5-Sibley-St-1-Buffalo-NY-14220/2060435676_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "1475q6bfzk1a0",
+    "img": "https://photos.zillowstatic.com/fp/fb216cd06190e42b55e0b16bef0eae94-p_e.jpg",
+    "price": 1125,
+    "bedrooms": 1,
+    "address": "1347 Ransom Rd, Grand Island, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/1347-ransom-rd-grand-island-ny-5Z5vqC/",
+    "distance": 0
+  },
+  {
+    "id": "439167005",
+    "img": "https://photos.zillowstatic.com/fp/315410520aa33b375addf9c264189c7a-p_e.jpg",
+    "price": 1300,
+    "bedrooms": 2,
+    "address": "21 Salem St #1, Buffalo, NY 14220",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/21-Salem-St-1-Buffalo-NY-14220/439167005_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457912110",
+    "img": "https://photos.zillowstatic.com/fp/d224743392d16c6b7d38c1cc6e7a66d5-p_e.jpg",
+    "price": 1650,
+    "bedrooms": 3,
+    "address": "72 16th St #1, Buffalo, NY 14213",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/72-16th-St-1-Buffalo-NY-14213/457912110_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "133715309",
+    "img": "https://photos.zillowstatic.com/fp/249e4a92d2f5bc48d5aabdae94dfb2f7-p_e.jpg",
+    "price": 3000,
+    "bedrooms": 5,
+    "address": "116 Englewood Ave, Buffalo, NY 14214",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/116-Englewood-Ave-Buffalo-NY-14214/133715309_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "351166197",
+    "img": "https://photos.zillowstatic.com/fp/7ee62c82b10d9348948b9572c208a5e0-p_e.jpg",
+    "price": 1295,
+    "bedrooms": 2,
+    "address": "2269 Clinton St APT 1, Buffalo, NY 14206",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/2269-Clinton-St-APT-1-Buffalo-NY-14206/351166197_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "443992702",
+    "img": "https://photos.zillowstatic.com/fp/794f2e629c203d4c0ca8c0ed9b604cb3-p_e.jpg",
+    "price": 895,
+    "bedrooms": 2,
+    "address": "11 Laverack Ave, Depew, NY 14043",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/11-Laverack-Ave-Depew-NY-14043/443992702_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "453357207",
+    "img": "https://photos.zillowstatic.com/fp/f3c72e1528f75e2a322c272e1034be8b-p_e.jpg",
+    "price": 1460,
+    "bedrooms": 2,
+    "address": "845 Prospect Ave #1, Buffalo, NY 14213",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/845-Prospect-Ave-1-Buffalo-NY-14213/453357207_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457968255",
+    "img": "https://photos.zillowstatic.com/fp/3eebebd00070c7af4434eb1ed77c4172-p_e.jpg",
+    "price": 1850,
+    "bedrooms": 3,
+    "address": "87 Tacoma Ave #UPR, Buffalo, NY 14216",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/87-Tacoma-Ave-UPR-Buffalo-NY-14216/457968255_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "132922918",
+    "img": "https://photos.zillowstatic.com/fp/238e8682fff3a5b6031942143cf4af40-p_e.jpg",
+    "price": 2000,
+    "bedrooms": 1,
+    "address": "463 W Delavan Ave, Buffalo, NY 14213",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/463-W-Delavan-Ave-Buffalo-NY-14213/132922918_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "4bat98zw3s2e6",
+    "img": "https://photos.zillowstatic.com/fp/152972b429bccc1dfdc6739a183c1b59-p_e.jpg",
+    "price": 1200,
+    "bedrooms": 1,
+    "address": "3911 Main St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/3911-main-st-buffalo-ny-98CZDP/",
+    "distance": 0
+  },
+  {
+    "id": "458012114",
+    "img": "https://photos.zillowstatic.com/fp/e275d063dbea24d8dde696ec86d78afc-p_e.jpg",
+    "price": 1095,
+    "bedrooms": 2,
+    "address": "42 Peoria Ave #3, Buffalo, NY 14206",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/42-Peoria-Ave-3-Buffalo-NY-14206/458012114_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30226859",
+    "img": "https://photos.zillowstatic.com/fp/b77f7e546e1a084da6a4656838e15ef6-p_e.jpg",
+    "price": 1950,
+    "bedrooms": 3,
+    "address": "381 Young St, Tonawanda, NY 14150",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/381-Young-St-Tonawanda-NY-14150/30226859_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457945567",
+    "img": "https://photos.zillowstatic.com/fp/29ef380d61ad5c193317d7d699768d13-p_e.jpg",
+    "price": 1145,
+    "bedrooms": 1,
+    "address": "11 Gloucester Ave, Tonawanda, NY 14150",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/11-Gloucester-Ave-Tonawanda-NY-14150/457945567_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2056213448",
+    "img": "https://photos.zillowstatic.com/fp/c13056ed06137beeb8806fe2b5d777a2-p_e.jpg",
+    "price": 1600,
+    "bedrooms": 3,
+    "address": "204 Highland Ave #2, Tonawanda, NY 14150",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/204-Highland-Ave-2-Tonawanda-NY-14150/2056213448_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457974918",
+    "img": "https://photos.zillowstatic.com/fp/b5b6b583688c518e1157dc7ab88144ef-p_e.jpg",
+    "price": 1500,
+    "bedrooms": 2,
+    "address": "139 Denrose Dr, Buffalo, NY 14228",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/139-Denrose-Dr-Buffalo-NY-14228/457974918_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457974962",
+    "img": "https://photos.zillowstatic.com/fp/21d8bde8539091920bf93c2dd7ab0336-p_e.jpg",
+    "price": 1800,
+    "bedrooms": 3,
+    "address": "405 W Ferry St APT 1, Buffalo, NY 14213",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/405-W-Ferry-St-APT-1-Buffalo-NY-14213/457974962_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457715127",
+    "img": "https://photos.zillowstatic.com/fp/1901090720a04346184960a58408ef8f-p_e.jpg",
+    "price": 1100,
+    "bedrooms": 2,
+    "address": "91 Schuele St #1, Buffalo, NY 14215",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/91-Schuele-St-1-Buffalo-NY-14215/457715127_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457629340",
+    "img": "https://photos.zillowstatic.com/fp/8e6ab70c7fdffd2b8ce1870ccfaeb0cf-p_e.jpg",
+    "price": 1350,
+    "bedrooms": 0,
+    "address": "577 Hertel Ave, Buffalo, NY 14207",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/577-Hertel-Ave-Buffalo-NY-14207/457629340_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "4usf27q6be71g",
+    "img": "https://photos.zillowstatic.com/fp/bac8ebf251056b0e0ef7e8a337ebae2d-p_e.jpg",
+    "price": 2750,
+    "bedrooms": 3,
+    "address": "711 W Delavan Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/711-w-delavan-ave-buffalo-ny-9PQS4b/",
+    "distance": 0
+  },
+  {
+    "id": "457953308",
+    "img": "https://photos.zillowstatic.com/fp/a03798ffce62b7b27e5c15ca013f85ff-p_e.jpg",
+    "price": 2000,
+    "bedrooms": 3,
+    "address": "373 Lafayette Ave #1, Buffalo, NY 14213",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/373-Lafayette-Ave-1-Buffalo-NY-14213/457953308_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2057551767",
+    "img": "https://photos.zillowstatic.com/fp/dd48bdf7e083c82bbdaf45c5704679a3-p_e.jpg",
+    "price": 2100,
+    "bedrooms": 1,
+    "address": "200 Lakefront Blvd #205, Buffalo, NY 14202",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/200-Lakefront-Blvd-205-Buffalo-NY-14202/2057551767_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "uzjegupd14ru",
+    "img": "https://photos.zillowstatic.com/fp/4a0a3a078d2da59456587919486585c5-p_e.jpg",
+    "price": 1600,
+    "bedrooms": 2,
+    "address": "1709 Amherst St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/1709-amherst-st-buffalo-ny-98BYtz/",
+    "distance": 0
+  },
+  {
+    "id": "457948226",
+    "img": "https://photos.zillowstatic.com/fp/657bd17b332e47b47247abf4c896cc31-p_e.jpg",
+    "price": 1100,
+    "bedrooms": 2,
+    "address": "22 Sprenger Ave UNIT 2, Buffalo, NY 14211",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/22-Sprenger-Ave-UNIT-2-Buffalo-NY-14211/457948226_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457903528",
+    "img": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=42.952205657958984,-78.83153533935547&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&signature=q5gGOODNNNOFInnwyvryrhpwTO4=",
+    "price": 1500,
+    "bedrooms": 3,
+    "address": "78 Flower St FLOOR 1, Buffalo, NY 14214",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/78-Flower-St-FLOOR-1-Buffalo-NY-14214/457903528_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "31461105",
+    "img": "https://photos.zillowstatic.com/fp/984bda75160be8aacd9205c798adb8ac-p_e.jpg",
+    "price": 1350,
+    "bedrooms": 3,
+    "address": "30 1st Ave, North Tonawanda, NY 14120",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/30-1st-Ave-North-Tonawanda-NY-14120/31461105_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30160478",
+    "img": "https://photos.zillowstatic.com/fp/95917cf37b72857fdeaa1626cceeb6a4-p_e.jpg",
+    "price": 3000,
+    "bedrooms": 5,
+    "address": "27 W Northrup Pl, Buffalo, NY 14214",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/27-W-Northrup-Pl-Buffalo-NY-14214/30160478_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2pp8chz74y0ju",
+    "img": "https://photos.zillowstatic.com/fp/74cc1b26f421be2eb123706fcaec2767-p_e.jpg",
+    "price": 1450,
+    "bedrooms": 2,
+    "address": "651 Prospect Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/651-prospect-ave-buffalo-ny/42.90465,-78.893074_ll/",
+    "distance": 0
+  },
+  {
+    "id": "30334381",
+    "img": "https://photos.zillowstatic.com/fp/da4a6d64b1ec4edadb27b28b12797dc6-p_e.jpg",
+    "price": 1900,
+    "bedrooms": 3,
+    "address": "294 Orchard Rd, Grand Island, NY 14072",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/294-Orchard-Rd-Grand-Island-NY-14072/30334381_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "458009761",
+    "img": "https://photos.zillowstatic.com/fp/3ae12cd7cdee9496d7fa6456a38e23fd-p_e.jpg",
+    "price": 1100,
+    "bedrooms": 1,
+    "address": "535 Massachusetts Ave #LR, Buffalo, NY 14213",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/535-Massachusetts-Ave-LR-Buffalo-NY-14213/458009761_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2053658062",
+    "img": "https://photos.zillowstatic.com/fp/9b69ee4a09d301b21b4090f14b88519a-p_e.jpg",
+    "price": 1600,
+    "bedrooms": 3,
+    "address": "107 Sunset St #1, Buffalo, NY 14207",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/107-Sunset-St-1-Buffalo-NY-14207/2053658062_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "45s2hx413z9tu",
+    "img": "https://photos.zillowstatic.com/fp/abfa363a7223e9a27895e12039b0eaa2-p_e.jpg",
+    "price": 1000,
+    "bedrooms": 1,
+    "address": "91 Huntington Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/91-huntington-ave-buffalo-ny-5j8yx9/",
+    "distance": 0
+  },
+  {
+    "id": "455247104",
+    "img": "https://photos.zillowstatic.com/fp/1f2b84f28aa4f0c2a7e6c4f6e2b1fdcf-p_e.jpg",
+    "price": 1450,
+    "bedrooms": 1,
+    "address": "178 N Pearl St #LWR, Buffalo, NY 14202",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/178-N-Pearl-St-LWR-Buffalo-NY-14202/455247104_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2070934751",
+    "img": "https://photos.zillowstatic.com/fp/af79dfbc22ac21cf9f63b0db311b3e40-p_e.jpg",
+    "price": 1595,
+    "bedrooms": 3,
+    "address": "77 Laverack Ave #4, Depew, NY 14043",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/77-Laverack-Ave-4-Depew-NY-14043/2070934751_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2061516523",
+    "img": "https://photos.zillowstatic.com/fp/8d98e6d5b0bc5f9bef39cf3c52241f1f-p_e.jpg",
+    "price": 1700,
+    "bedrooms": 3,
+    "address": "359 Parkdale Ave #2, Buffalo, NY 14213",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/359-Parkdale-Ave-2-Buffalo-NY-14213/2061516523_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "133714584",
+    "img": "https://photos.zillowstatic.com/fp/a737b2cb56a77930befc8f723edb81d1-p_e.jpg",
+    "price": 1750,
+    "bedrooms": 3,
+    "address": "321 N Park Ave, Buffalo, NY 14216",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/321-N-Park-Ave-Buffalo-NY-14216/133714584_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2131153453",
+    "img": "https://photos.zillowstatic.com/fp/532ef925d53fae55562b08eefe41b0ad-p_e.jpg",
+    "price": 1250,
+    "bedrooms": 2,
+    "address": "39 Lemon Tree Ct APT 1, Amherst, NY 14228",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/39-Lemon-Tree-Ct-APT-1-Amherst-NY-14228/2131153453_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457900159",
+    "img": "https://photos.zillowstatic.com/fp/ec837bb8256e8637a9675dcf82df7fcb-p_e.jpg",
+    "price": 1295,
+    "bedrooms": 2,
+    "address": "54 Willow Ridge Dr #2, Buffalo, NY 14228",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/54-Willow-Ridge-Dr-2-Buffalo-NY-14228/457900159_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2055655131",
+    "img": "https://photos.zillowstatic.com/fp/e2ae1490006451f37a013711456174f7-p_e.jpg",
+    "price": 1750,
+    "bedrooms": 2,
+    "address": "116 Shoshone St FLOOR 2, Buffalo, NY 14214",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/116-Shoshone-St-FLOOR-2-Buffalo-NY-14214/2055655131_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457726429",
+    "img": "https://photos.zillowstatic.com/fp/ce2c96df1e99bc15615f6f4c6a865205-p_e.jpg",
+    "price": 1450,
+    "bedrooms": 2,
+    "address": "151 Linwood Ave #3L, Buffalo, NY 14209",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/151-Linwood-Ave-3L-Buffalo-NY-14209/457726429_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2054558641",
+    "img": "https://photos.zillowstatic.com/fp/140074d1091d5f7d2b391da088d68828-p_e.jpg",
+    "price": 1700,
+    "bedrooms": 2,
+    "address": "677 W Delavan Ave UNIT 1, Buffalo, NY 14222",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/677-W-Delavan-Ave-UNIT-1-Buffalo-NY-14222/2054558641_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457972567",
+    "img": "https://photos.zillowstatic.com/fp/f2e0f59bde2885d5e682a371c313dec4-p_e.jpg",
+    "price": 1750,
+    "bedrooms": 3,
+    "address": "1556 Delaware Ave #L, Buffalo, NY 14209",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/1556-Delaware-Ave-L-Buffalo-NY-14209/457972567_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30391828",
+    "img": "https://photos.zillowstatic.com/fp/f156bb2483cdba31c01e41cef491b810-p_e.jpg",
+    "price": 1395,
+    "bedrooms": 2,
+    "address": "166 Fowler Ave, Buffalo, NY 14217",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/166-Fowler-Ave-Buffalo-NY-14217/30391828_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "jp8yx2u0xj2e",
+    "img": "https://photos.zillowstatic.com/fp/2707057106edce390032e2b28119254c-p_e.jpg",
+    "price": 1200,
+    "bedrooms": 3,
+    "address": "130 Wakefield Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/130-wakefield-ave-buffalo-ny-98BYZy/",
+    "distance": 0
+  },
+  {
+    "id": "30212118",
+    "img": "https://photos.zillowstatic.com/fp/b94542c5100b66a2c3053ba982d76c9b-p_e.jpg",
+    "price": 1625,
+    "bedrooms": 3,
+    "address": "67 Mineral Springs Rd, Buffalo, NY 14210",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/67-Mineral-Springs-Rd-Buffalo-NY-14210/30212118_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457720386",
+    "img": "https://photos.zillowstatic.com/fp/1a9bdaeb1c8793dad0b31e9b8ea9ecab-p_e.jpg",
+    "price": 1625,
+    "bedrooms": 2,
+    "address": "1 Beacon Park #1G, Buffalo, NY 14228",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/1-Beacon-Park-1G-Buffalo-NY-14228/457720386_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457831521",
+    "img": "https://photos.zillowstatic.com/fp/1a4c47bf2ed0333aecdd23526565a5a9-p_e.jpg",
+    "price": 1450,
+    "bedrooms": 1,
+    "address": "486 Franklin St, Buffalo, NY 14202",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/486-Franklin-St-Buffalo-NY-14202/457831521_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "23cqgez969gbm",
+    "img": "https://photos.zillowstatic.com/fp/35bc7fe689e7511c0a3194dea25ac3c3-p_e.jpg",
+    "price": 1800,
+    "bedrooms": 1,
+    "address": "10 Lafayette Sq, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/10-lafayette-sq-buffalo-ny-98B5Hg/",
+    "distance": 0
+  },
+  {
+    "id": "457189688",
+    "img": "https://photos.zillowstatic.com/fp/0ac62f61e68d6c8427255b312ef57d8b-p_e.jpg",
+    "price": 1600,
+    "bedrooms": 3,
+    "address": "24 Fargo Ave #2, Buffalo, NY 14201",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/24-Fargo-Ave-2-Buffalo-NY-14201/457189688_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457826362",
+    "img": "https://photos.zillowstatic.com/fp/2d18ebce55f0d77803fc0a1b5d54a8e5-p_e.jpg",
+    "price": 1100,
+    "bedrooms": 2,
+    "address": "443 E Delavan Ave UNIT 2, Buffalo, NY 14214",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/443-E-Delavan-Ave-UNIT-2-Buffalo-NY-14214/457826362_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30157945",
+    "img": "https://photos.zillowstatic.com/fp/47c498a1ccbe2d1e9fe62946a23a8714-p_e.jpg",
+    "price": 1795,
+    "bedrooms": 3,
+    "address": "71 Commonwealth Ave, Buffalo, NY 14216",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/71-Commonwealth-Ave-Buffalo-NY-14216/30157945_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2tgdpxjhedxyz",
+    "img": "https://photos.zillowstatic.com/fp/e7267b9c418b7d40b6cc0f7694b1f663-p_e.jpg",
+    "price": 1475,
+    "bedrooms": 1,
+    "address": "686 Main St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/686-main-st-buffalo-ny-5w7j8t/",
+    "distance": 0
+  },
+  {
+    "id": "457865173",
+    "img": "https://photos.zillowstatic.com/fp/39d190765af415cd4ade0ddd75d91935-p_e.jpg",
+    "price": 1750,
+    "bedrooms": 3,
+    "address": "752 Ashland Ave #1, Buffalo, NY 14222",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/752-Ashland-Ave-1-Buffalo-NY-14222/457865173_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "1hj2bwses3dc9",
+    "img": "https://photos.zillowstatic.com/fp/f3fe634795ce315c5a578267b5ffd73f-p_e.jpg",
+    "price": 1100,
+    "bedrooms": 2,
+    "address": "1395 E Delavan Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/1395-e-delavan-ave-buffalo-ny-5hL9pL/",
+    "distance": 0
+  },
+  {
+    "id": "2055840266",
+    "img": "https://photos.zillowstatic.com/fp/ec9dacb9990ab5f751158d8b8c09a518-p_e.jpg",
+    "price": 1500,
+    "bedrooms": 2,
+    "address": "447 Prospect Ave, Buffalo, NY 14201",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/447-Prospect-Ave-Buffalo-NY-14201/2055840266_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30174547",
+    "img": "https://photos.zillowstatic.com/fp/e344ee4d2834b375836aa6589992cbdb-p_e.jpg",
+    "price": 1300,
+    "bedrooms": 2,
+    "address": "23 Poultney Ave, Buffalo, NY 14215",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/23-Poultney-Ave-Buffalo-NY-14215/30174547_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457870891",
+    "img": "https://photos.zillowstatic.com/fp/ddd15532f21a04bd8fda76d96e4b607d-p_e.jpg",
+    "price": 1150,
+    "bedrooms": 2,
+    "address": "19 Ruspin Ave FLOOR 2, Buffalo, NY 14215",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/19-Ruspin-Ave-FLOOR-2-Buffalo-NY-14215/457870891_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30228947",
+    "img": "https://photos.zillowstatic.com/fp/841d5111b49678da7e4b039baf76c0dc-p_e.jpg",
+    "price": 2175,
+    "bedrooms": 2,
+    "address": "55 Gath Ter, Tonawanda, NY 14150",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/55-Gath-Ter-Tonawanda-NY-14150/30228947_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457995976",
+    "img": "https://photos.zillowstatic.com/fp/432dc05b30b023ac753bb4b8503b7995-p_e.jpg",
+    "price": 1700,
+    "bedrooms": 3,
+    "address": "492 Linden Ave #1, Buffalo, NY 14216",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/492-Linden-Ave-1-Buffalo-NY-14216/457995976_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457909163",
+    "img": "https://photos.zillowstatic.com/fp/543a50b4514c82a8d9c4d1ba67826034-p_e.jpg",
+    "price": 1500,
+    "bedrooms": 3,
+    "address": "8 Broezel Ave UNIT 2, Lancaster, NY 14086",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/8-Broezel-Ave-UNIT-2-Lancaster-NY-14086/457909163_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "441127521",
+    "img": "https://photos.zillowstatic.com/fp/554b6bdac6ba497bf46ad87b27e35477-p_e.jpg",
+    "price": 1600,
+    "bedrooms": 3,
+    "address": "61 S Ellington Ave #1, Depew, NY 14043",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/61-S-Ellington-Ave-1-Depew-NY-14043/441127521_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2057416781",
+    "img": "https://photos.zillowstatic.com/fp/c6f121a46c93f90bba80387d55883ad4-p_e.jpg",
+    "price": 1400,
+    "bedrooms": 3,
+    "address": "127 Hawley St #1, Buffalo, NY 14213",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/127-Hawley-St-1-Buffalo-NY-14213/2057416781_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "344599348",
+    "img": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=42.923980712890625,-78.85124969482422&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&signature=t7XxqGbmylofLdcP-RCRQJeSrXo=",
+    "price": 1500,
+    "bedrooms": 3,
+    "address": "70 Blaine Ave #1, Buffalo, NY 14208",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/70-Blaine-Ave-1-Buffalo-NY-14208/344599348_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "3x3be0et4b8br",
+    "img": "https://photos.zillowstatic.com/fp/56990d47ef0ff4587323755aac13760f-p_e.jpg",
+    "price": 1250,
+    "bedrooms": 1,
+    "address": "158 Park St, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/building/42.90135,-78.87633_ll/",
+    "distance": 0
+  },
+  {
+    "id": "457723508",
+    "img": "https://photos.zillowstatic.com/fp/2df87ff419a77fdd4d3ea44fffc8da02-p_e.jpg",
+    "price": 1650,
+    "bedrooms": 2,
+    "address": "28 Mead St UNIT 2, North Tonawanda, NY 14120",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/28-Mead-St-UNIT-2-North-Tonawanda-NY-14120/457723508_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457968877",
+    "img": "https://photos.zillowstatic.com/fp/48dfbc456c35b3a94227d2c57fe3614f-p_e.jpg",
+    "price": 900,
+    "bedrooms": 1,
+    "address": "767 Prospect Ave UNIT 2, Buffalo, NY 14213",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/767-Prospect-Ave-UNIT-2-Buffalo-NY-14213/457968877_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "5d2a5ay6s6564",
+    "img": "https://photos.zillowstatic.com/fp/dc6a1bcd1aabede48cca38dff44cc6be-p_e.jpg",
+    "price": 1095,
+    "bedrooms": 1,
+    "address": "25 Johnson Park, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/25-johnson-park-buffalo-ny-BsDdsP/",
+    "distance": 0
+  },
+  {
+    "id": "457417667",
+    "img": "https://photos.zillowstatic.com/fp/886b1a528f393bec64e43208537cd9e7-p_e.jpg",
+    "price": 2200,
+    "bedrooms": 3,
+    "address": "247 Robert Dr #1, North Tonawanda, NY 14120",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/247-Robert-Dr-1-North-Tonawanda-NY-14120/457417667_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457444344",
+    "img": "https://photos.zillowstatic.com/fp/a7c95c30f92b89346f7405168f7a4d07-p_e.jpg",
+    "price": 1800,
+    "bedrooms": 2,
+    "address": "456 W Ferry St #1, Buffalo, NY 14213",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/456-W-Ferry-St-1-Buffalo-NY-14213/457444344_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "r82x48n827bz",
+    "img": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=42.925655364990234,-78.81620788574219&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&signature=rOroc00OI9-fXDg8XhNbsTvD7IY=",
+    "price": 1100,
+    "bedrooms": 2,
+    "address": "44 Schreck Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/44-schreck-ave-buffalo-ny-98BgN7/",
+    "distance": 0
+  },
+  {
+    "id": "132880553",
+    "img": "https://photos.zillowstatic.com/fp/c0d0f76431f2dc43d9a7cbd5ce96f289-p_e.jpg",
+    "price": 1600,
+    "bedrooms": 2,
+    "address": "535 Main St, Buffalo, NY 14203",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/535-Main-St-Buffalo-NY-14203/132880553_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "351928376",
+    "img": "https://photos.zillowstatic.com/fp/3ada29d381ac279b4c85e9b3d4c834c5-p_e.jpg",
+    "price": 1450,
+    "bedrooms": 2,
+    "address": "304 Nassau Ave #2, Buffalo, NY 14217",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/304-Nassau-Ave-2-Buffalo-NY-14217/351928376_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "456718940",
+    "img": "https://photos.zillowstatic.com/fp/906dd891099acdbb17bb1108718c5006-p_e.jpg",
+    "price": 1450,
+    "bedrooms": 2,
+    "address": "207 Tonawanda Creek Rd #2, Buffalo, NY 14228",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/207-Tonawanda-Creek-Rd-2-Buffalo-NY-14228/456718940_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2058922507",
+    "img": "https://photos.zillowstatic.com/fp/ea00137bd421d6fd618177615d00f56f-p_e.jpg",
+    "price": 1000,
+    "bedrooms": 1,
+    "address": "115 Massachusetts Ave #2, Buffalo, NY 14213",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/115-Massachusetts-Ave-2-Buffalo-NY-14213/2058922507_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "132898298",
+    "img": "https://photos.zillowstatic.com/fp/c001b3ea9d7fef97365831e25ddc207a-p_e.jpg",
+    "price": 1500,
+    "bedrooms": 3,
+    "address": "2342 Seneca St, Buffalo, NY 14210",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/2342-Seneca-St-Buffalo-NY-14210/132898298_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "544yaur9ub6cx",
+    "img": "https://photos.zillowstatic.com/fp/8e93cd52dbb54fa999fb674e505681f7-p_e.jpg",
+    "price": 1375,
+    "bedrooms": 3,
+    "address": "137 Laird Ave, Buffalo, NY",
+    "pet": true,
+    "link": "https://www.zillow.com//b/137-laird-ave-buffalo-ny-Cj6kPZ/",
+    "distance": 0
+  },
+  {
+    "id": "2067560548",
+    "img": "https://photos.zillowstatic.com/fp/6d2ac2b62310b1a92285d9b878839ee0-p_e.jpg",
+    "price": 2875,
+    "bedrooms": 3,
+    "address": "175 Lexington Ave #2, Buffalo, NY 14222",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/175-Lexington-Ave-2-Buffalo-NY-14222/2067560548_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "30158133",
+    "img": "https://photos.zillowstatic.com/fp/53e243be5370f16dbf046f14d4a3fefa-p_e.jpg",
+    "price": 1850,
+    "bedrooms": 3,
+    "address": "62 Norwalk Ave, Buffalo, NY 14216",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/62-Norwalk-Ave-Buffalo-NY-14216/30158133_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2055881317",
+    "img": "https://photos.zillowstatic.com/fp/2789deaf9655dfbd3c62542d6c8f9b9b-p_e.jpg",
+    "price": 1500,
+    "bedrooms": 2,
+    "address": "1113 West Ave APT 3, Buffalo, NY 14213",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/1113-West-Ave-APT-3-Buffalo-NY-14213/2055881317_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "457613089",
+    "img": "https://photos.zillowstatic.com/fp/83cff9e6db52760f43b631c069461f8c-p_e.jpg",
+    "price": 1695,
+    "bedrooms": 3,
+    "address": "157 Saranac Ave UNIT 1, Buffalo, NY 14216",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/157-Saranac-Ave-UNIT-1-Buffalo-NY-14216/457613089_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2080976491",
+    "img": "https://photos.zillowstatic.com/fp/38cd3c068e7d0e5aa2fba057355c91a4-p_e.jpg",
+    "price": 2000,
+    "bedrooms": 3,
+    "address": "159 Huntington Ave #2, Buffalo, NY 14214",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/159-Huntington-Ave-2-Buffalo-NY-14214/2080976491_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2095370963",
+    "img": "https://photos.zillowstatic.com/fp/ae59eb8e52d1d89bc1bda6a74301367d-p_e.jpg",
+    "price": 1800,
+    "bedrooms": 2,
+    "address": "444 Norwood Ave APT 1, Buffalo, NY 14222",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/444-Norwood-Ave-APT-1-Buffalo-NY-14222/2095370963_zpid/",
+    "distance": 0
+  },
+  {
+    "id": "2059109838",
+    "img": "https://photos.zillowstatic.com/fp/182fb01b1cec4a68a1db0b9b7633e632-p_e.jpg",
+    "price": 1050,
+    "bedrooms": 2,
+    "address": "61 Dupont St #2, Buffalo, NY 14208",
+    "pet": true,
+    "link": "https://www.zillow.com//homedetails/61-Dupont-St-2-Buffalo-NY-14208/2059109838_zpid/",
+    "distance": 0
   }
 ]
