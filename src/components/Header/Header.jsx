@@ -1,16 +1,14 @@
-import icon from "../../asset/airbnbLogo.svg";
 import MainForm from "./Form/MainForm";
 import { useSelector } from "react-redux";
 import { useLocation } from "react-router";
 import UserDashboard from "./UserDashboard";
 import AuthenticationModal from "./AuthenticationModal";
 
-function Header({ headerRef }) {
+function Header({ headerRef, onSearch }) {
   const location = useLocation();
 
   const isHouseDetailPage = location.pathname.includes("/house/");
   const isWishListPage = location.pathname.includes("/wishlist");
-  const isTripsPage = location.pathname.includes("trips");
   const isSignInPage = location.pathname.includes("/login");
   const isProfilePage = location.pathname.includes("/account-settings");
 
@@ -22,7 +20,6 @@ function Header({ headerRef }) {
     startScroll,
     minimizeHeader,
     isWishListPage,
-    isTripsPage,
     isSignInPage,
     isProfilePage,
   });
@@ -34,7 +31,7 @@ function Header({ headerRef }) {
     >
       <div
         className={`grid grid-cols-${
-          isWishListPage || isTripsPage || isSignInPage || isProfilePage
+          isWishListPage || isSignInPage || isProfilePage
             ? "2"
             : "3"
         } ${
@@ -45,7 +42,7 @@ function Header({ headerRef }) {
       >
         <LogoSection />
 
-        {!isTripsPage && !isSignInPage && !isWishListPage && !isProfilePage && (
+        { !isSignInPage && !isWishListPage && !isProfilePage && (
           <CenterButtons
             startScroll={startScroll}
             minimizeHeader={minimizeHeader}
@@ -59,8 +56,8 @@ function Header({ headerRef }) {
         <AuthenticationModal />
       </div>
 
-      {!isWishListPage && !isSignInPage && !isTripsPage && !isProfilePage && (
-        <MainFormSection headerRef={headerRef} />
+      {!isWishListPage && !isSignInPage && !isProfilePage && (
+        <MainFormSection headerRef={headerRef} onSearch={onSearch} />
       )}
     </div>
   );
@@ -106,16 +103,18 @@ function CenterButtons({ startScroll, minimizeHeader }) {
 
 
 // Renders the main form component if it's not on specific pages
-function MainFormSection({ headerRef }) {
+// NOW RECEIVES AND PASSES onSearch callback
+function MainFormSection({ headerRef, onSearch }) {
   return (
     <div className="w-full 1smd:w-auto hidden 1xz:flex 1smd:block items-center justify-start 1smd:pl-0 pl-[16rem]">
       {/* Outer pill/border wrapper */}
       <div className="flex items-center justify-center rounded-full border border-gray-200 p-1 bg-white">
-        <MainForm headerRef={headerRef} />
+        <MainForm headerRef={headerRef} onSearch={onSearch} />
       </div>
     </div>
   );
 }
+
 // Helper Functions
 
 /**
@@ -125,7 +124,6 @@ function generateAfterClass({
   startScroll,
   minimizeHeader,
   isWishListPage,
-  isTripsPage,
   isSignInPage,
   isProfilePage,
 }) {

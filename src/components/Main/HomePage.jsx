@@ -5,6 +5,7 @@ import { SpeedInsights } from "@vercel/speed-insights/react";
 
 import Header from "../Header/Header";
 import Footer from "../Footer/Footer";
+import MainForm from "../Header/Form/MainForm"; // import directly here
 import "../../input.css";
 
 const Home = () => {
@@ -14,67 +15,64 @@ const Home = () => {
   const [listings, setListings] = useState([]);
   const [visibleCount, setVisibleCount] = useState(9);
   const [isLoading, setIsLoading] = useState(true);
-  
 
-  // Fetch property data
+  // Fetch all listings initially
   useEffect(() => {
     const fetchProperties = async () => {
       try {
         const res = await fetch("http://127.0.0.1:5000/properties");
         const data = await res.json();
-
-        // Normalize each item to consistent keys we use in the UI
-        const normalized = (data || []).map((item, idx) => {
-          const image =
-            item.img ||
-            item.image ||
-            item.image_url ||
-            item.img_url ||
-            item.photo ||
-            "/placeholder.jpg";
-
-          // Title: prefer `name` or first part of address
-          const title =
-            item.name ||
-            item.title ||
-            (item.address ? item.address.split(",")[0] : `Property ${idx + 1}`);
-
-          return {
-            id: item.id ?? `p-${idx}`,
-            title,
-            image,
-            price: item.price ?? item.rent ?? item.monthly ?? "N/A",
-            bedrooms: item.bedrooms ?? item.bedroom ?? null,
-            address: item.address ?? "",
-            link: item.link ?? item.url ?? "#",
-          };
-        });
-
-        // optional: remove duplicates by id
-        const unique = [];
-        const seen = new Set();
-        for (const it of normalized) {
-          if (!seen.has(it.id)) {
-            unique.push(it);
-            seen.add(it.id);
-          }
-        }
-
-        setListings(unique);
+        setListings(normalizeListings(data));
       } catch (err) {
         console.error("Failed to fetch properties:", err);
       } finally {
         setIsLoading(false);
       }
     };
-
     fetchProperties();
   }, []);
 
-  const handleShowMore = () => setVisibleCount((p) => p + 9);
+  // Normalize data shape
+  const normalizeListings = (data) => {
+    return (data || []).map((item, idx) => {
+      const image =
+        item.img ||
+        item.image ||
+        item.image_url ||
+        item.img_url ||
+        item.photo ||
+        "/placeholder.jpg";
+
+      const title =
+        item.name ||
+        item.title ||
+        (item.address ? item.address.split(",")[0] : `Property ${idx + 1}`);
+
+      return {
+        id: item.id ?? `p-${idx}`,
+        title,
+        image,
+        price: item.price ?? item.rent ?? item.monthly ?? "N/A",
+        bedrooms: item.bedrooms ?? item.bedroom ?? null,
+        address: item.address ?? "",
+        link: item.link ?? item.url ?? "#",
+      };
+    });
+  };
+
+  // Handle "Show More"
+  const handleShowMore = () => setVisibleCount((prev) => prev + 9);
+
+  // Handle search results from MainForm
+  const handleSearch = (data) => {
+    console.log("🏠 HomePage: handleSearch called with", data.length, "results");
+    setListings(normalizeListings(data));
+    setVisibleCount(9); // reset view count
+  };
+
   const visibleListings = listings.slice(0, visibleCount);
 
-  // Header animation classes (keeps the behavior you had)
+  // Header animations
   const getHeaderClasses = () => {
     const base =
       "fixed transition-all duration-300 ease-in-out bg-white w-full flex items-start justify-center top-0";
@@ -91,15 +89,18 @@ const Home = () => {
 
   return (
     <div className="flex flex-col items-center justify-center relative bg-white">
-      {/* Header */}
+      {/* Header - ONLY CHANGE: Added onSearch prop */}
       <div ref={headerRef} id="header" className={getHeaderClasses()}>
-        <Header headerRef={headerRef} />
+        <Header headerRef={headerRef} onSearch={handleSearch} />
       </div>
 
-      {/* Listings Section */}
-      <div className="w-full flex flex-col items-center justify-center mt-[7rem] 2xl:mt-[14rem] 1sm:mt-[13rem] px-4">
+      {/* Listings Section - MainForm removed, only in Header now */}
+      {/* Add top margin to prevent hiding under fixed header */}
+      <div className="w-full flex flex-col items-center justify-center px-4 mt-44">
         {isLoading ? (
-          <p className="text-gray-500 text-center mt-20">Loading properties...</p>
+          <p className="text-gray-500 text-center mt-20">
+            Loading properties...
+          </p>
         ) : visibleListings.length > 0 ? (
           <>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 max-w-6xl w-full">
@@ -130,15 +131,14 @@ const Home = () => {
                       {item.title}
                     </h3>
 
-                    <p className="text-gray-500 text-sm mt-1 truncate">
-                      {item.address}
+                    <p className="text-gray-500 text-sm mt-1">
+                      {item.distance ? `Distance: ${item.distance}` : item.address}
                     </p>
-
+                    
                     <div className="mt-3 flex items-center justify-between">
                       <div className="text-gray-800 font-semibold">
                         ${item.price}
                       </div>
-
                       <div className="text-sm text-gray-600">
                         {item.bedrooms !== null ? `${item.bedrooms} bd` : ""}
                       </div>
@@ -163,7 +163,7 @@ const Home = () => {
               <div className="flex justify-center w-full">
                 <button
                   onClick={handleShowMore}
-                  className="mt-8 mb-12 px-6 py-2 bg-gray-200 rounded-xl hover:bg-gray-300 text-gray-700 font-medium transition"
+                  className="mt-8 mb-12 px-6 py-2 bg-gray-200 rounded hover:bg-gray-300 text-gray-700 font-medium transition"
                 >
                   Show More
                 </button>
@@ -171,7 +171,9 @@ const Home = () => {
             )}
           </>
         ) : (
-          <p className="text-gray-500 text-center mt-20">No properties found.</p>
+          <p className="text-gray-500 text-center mt-20">
+            No properties found.
+          </p>
         )}
       </div>
 

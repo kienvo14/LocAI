@@ -2,29 +2,27 @@
 import React, { useState } from "react";
 import searchIcon from "../../../asset/Icons_svg/search-icon.svg";
 
+/**
+ * Props:
+ *  - onSearch(data: array)  => called with filtered properties returned by backend
+ */
 const MainForm = ({ onSearch }) => {
   const [form, setForm] = useState({
     schoolAddress: "",
-    priceRange: [0, 1000],
-    maxCommuteMinutes: 30,
+    priceRange: [0, 2000],
+    maxCommuteMinutes: 10,
     hasCar: false,
     petsAllowed: false,
     publicTransport: false,
+    use_network: false,
   });
 
   const handleChange = (e) => {
     const { name, value, type, checked } = e.target;
-
     if (name === "minPrice") {
-      setForm((prev) => ({
-        ...prev,
-        priceRange: [Number(value), prev.priceRange[1]],
-      }));
+      setForm((prev) => ({ ...prev, priceRange: [Number(value || 0), prev.priceRange[1]] }));
     } else if (name === "maxPrice") {
-      setForm((prev) => ({
-        ...prev,
-        priceRange: [prev.priceRange[0], Number(value)],
-      }));
+      setForm((prev) => ({ ...prev, priceRange: [prev.priceRange[0], Number(value || 0)] }));
     } else if (type === "checkbox") {
       setForm((prev) => ({ ...prev, [name]: checked }));
     } else {
@@ -34,20 +32,39 @@ const MainForm = ({ onSearch }) => {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
+    console.log("🔍 MainForm: Search submitted with filters:", form);
+    console.log("🔍 MainForm: onSearch callback exists?", !!onSearch);
+    
     try {
       const res = await fetch("http://127.0.0.1:5000/properties", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(form),
+        body: JSON.stringify({
+          schoolAddress: form.schoolAddress,
+          priceRange: form.priceRange,
+          maxCommuteMinutes: form.maxCommuteMinutes,
+          hasCar: form.hasCar,
+          petsAllowed: form.petsAllowed,
+          publicTransport: form.publicTransport,
+          use_network: form.use_network,
+        }),
       });
-
+      
       if (!res.ok) throw new Error("Network response was not ok");
-
+      
       const data = await res.json();
-      console.log("Filtered properties:", data);
-      onSearch && onSearch(data); // send data to parent if onSearch is provided
+      console.log("✅ MainForm: Received", data.length, "results from backend");
+      
+      // pass filtered results to parent
+      if (onSearch) {
+        console.log("✅ MainForm: Calling onSearch callback with", data.length, "results");
+        onSearch(data);
+      } else {
+        console.error("❌ MainForm: onSearch callback is missing!");
+      }
     } catch (err) {
-      console.error("Error fetching filtered properties:", err);
+      console.error("❌ MainForm: Search error:", err);
+      alert("Search failed — see console.");
     }
   };
 
@@ -60,30 +77,24 @@ const MainForm = ({ onSearch }) => {
   return (
     <form
       onSubmit={handleSubmit}
-      className="flex items-center justify-center max-w-4xl mx-auto space-x-2"
+      className="flex flex-wrap items-center justify-center max-w-4xl mx-auto space-x-2 space-y-2"
     >
-      {/* School Name */}
       <div className="flex flex-col items-center group">
-        <label className="text-gray-500 text-xs mb-1 group-hover:text-gray-700">
-          School Name
-        </label>
+        <label className="text-gray-500 text-xs mb-1">School Name</label>
         <input
           type="text"
           name="schoolAddress"
-          placeholder="School address"
+          placeholder="School Name"
           value={form.schoolAddress}
           onChange={handleChange}
-          className="flex-1 px-4 py-2 focus:outline-none focus:bg-gray-100 placeholder-gray-400 rounded-md hover:bg-gray-100 transition-colors duration-150"
+          className="flex-1 w-40 px-2 py-2 focus:outline-none focus:bg-gray-100 placeholder-gray-400 rounded-md hover:bg-gray-100 transition-colors duration-150"
         />
       </div>
 
       <div className="w-px bg-gray-300 h-6 mx-2" />
 
-      {/* Price Range */}
       <div className="flex flex-col items-center group">
-        <label className="text-gray-500 text-xs mb-1 group-hover:text-gray-700">
-          Price Range
-        </label>
+        <label className="text-gray-500 text-xs mb-1">Price Range Per Person</label>
         <div className="flex items-center rounded-md overflow-hidden hover:bg-gray-100 transition-colors duration-150">
           <input
             type="number"
@@ -91,7 +102,7 @@ const MainForm = ({ onSearch }) => {
             placeholder="Min"
             value={form.priceRange[0]}
             onChange={handleChange}
-            className="w-20 px-2 py-2 focus:outline-none placeholder-gray-400"
+            className="w-16 px-2 py-2 focus:outline-none placeholder-gray-400"
           />
           <span className="px-1 text-gray-500">-</span>
           <input
@@ -100,32 +111,28 @@ const MainForm = ({ onSearch }) => {
             placeholder="Max"
             value={form.priceRange[1]}
             onChange={handleChange}
-            className="w-20 px-2 py-2 focus:outline-none placeholder-gray-400"
+            className="w-16 px-2 py-2 focus:outline-none placeholder-gray-400"
           />
         </div>
       </div>
 
       <div className="w-px bg-gray-300 h-6 mx-2" />
 
-      {/* Distance */}
       <div className="flex flex-col items-center group">
-        <label className="text-gray-500 text-xs mb-1 group-hover:text-gray-700">
-          Distance (Miles)
-        </label>
+        <label className="text-gray-500 text-xs mb-1">Distance (Miles)</label>
         <input
           type="number"
           name="maxCommuteMinutes"
           placeholder="Max Distance"
           value={form.maxCommuteMinutes}
           onChange={handleChange}
-          className="w-24 px-2 py-2 focus:outline-none focus:bg-gray-100 placeholder-gray-400 rounded-md hover:bg-gray-100 transition-colors duration-150"
+          className="w-20 px-2 py-2 focus:outline-none focus:bg-gray-100 placeholder-gray-400 rounded-md hover:bg-gray-100 transition-colors duration-150"
         />
       </div>
 
       <div className="w-px bg-gray-300 h-6 mx-2" />
 
-      {/* Boolean Options */}
-      <div className="flex items-center space-x-4">
+      <div className="flex items-center space-x-2">
         {booleanOptions.map((opt) => (
           <label
             key={opt.name}
@@ -143,7 +150,6 @@ const MainForm = ({ onSearch }) => {
         ))}
       </div>
 
-      {/* Search Button */}
       <button
         type="submit"
         className="bg-blue-500 p-3 rounded-full ml-2 flex items-center justify-center hover:bg-blue-600 transition-colors duration-150"

@@ -150,7 +150,7 @@ const AuthButtons = ({ auth }) => (
     </button>
     <button
       onClick={() => {
-        auth.setEmail("rajat@airbnb.com");
+        auth.setEmail("dinhkien@buffalo.edu");
         auth.setPassword("guestuser");
         auth.setSignIn(true);
       }}
