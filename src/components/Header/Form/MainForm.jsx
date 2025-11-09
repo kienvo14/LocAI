@@ -1,7 +1,8 @@
+// src/components/Main/MainForm.jsx
 import React, { useState } from "react";
 import searchIcon from "../../../asset/Icons_svg/search-icon.svg";
 
-const MainForm = () => {
+const MainForm = ({ onSearch }) => {
   const [form, setForm] = useState({
     schoolAddress: "",
     priceRange: [0, 1000],
@@ -15,9 +16,15 @@ const MainForm = () => {
     const { name, value, type, checked } = e.target;
 
     if (name === "minPrice") {
-      setForm((prev) => ({ ...prev, priceRange: [Number(value), prev.priceRange[1]] }));
+      setForm((prev) => ({
+        ...prev,
+        priceRange: [Number(value), prev.priceRange[1]],
+      }));
     } else if (name === "maxPrice") {
-      setForm((prev) => ({ ...prev, priceRange: [prev.priceRange[0], Number(value)] }));
+      setForm((prev) => ({
+        ...prev,
+        priceRange: [prev.priceRange[0], Number(value)],
+      }));
     } else if (type === "checkbox") {
       setForm((prev) => ({ ...prev, [name]: checked }));
     } else {
@@ -25,10 +32,23 @@ const MainForm = () => {
     }
   };
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
-    console.log("Form submitted:", form);
-    alert(JSON.stringify(form, null, 2));
+    try {
+      const res = await fetch("http://127.0.0.1:5000/properties", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(form),
+      });
+
+      if (!res.ok) throw new Error("Network response was not ok");
+
+      const data = await res.json();
+      console.log("Filtered properties:", data);
+      onSearch && onSearch(data); // send data to parent if onSearch is provided
+    } catch (err) {
+      console.error("Error fetching filtered properties:", err);
+    }
   };
 
   const booleanOptions = [
@@ -44,7 +64,9 @@ const MainForm = () => {
     >
       {/* School Name */}
       <div className="flex flex-col items-center group">
-        <label className="text-gray-500 text-xs mb-1 group-hover:text-gray-700">School Name</label>
+        <label className="text-gray-500 text-xs mb-1 group-hover:text-gray-700">
+          School Name
+        </label>
         <input
           type="text"
           name="schoolAddress"
@@ -59,7 +81,9 @@ const MainForm = () => {
 
       {/* Price Range */}
       <div className="flex flex-col items-center group">
-        <label className="text-gray-500 text-xs mb-1 group-hover:text-gray-700">Price Range</label>
+        <label className="text-gray-500 text-xs mb-1 group-hover:text-gray-700">
+          Price Range
+        </label>
         <div className="flex items-center rounded-md overflow-hidden hover:bg-gray-100 transition-colors duration-150">
           <input
             type="number"
@@ -85,7 +109,9 @@ const MainForm = () => {
 
       {/* Distance */}
       <div className="flex flex-col items-center group">
-        <label className="text-gray-500 text-xs mb-1 group-hover:text-gray-700">Distance (Miles)</label>
+        <label className="text-gray-500 text-xs mb-1 group-hover:text-gray-700">
+          Distance (Miles)
+        </label>
         <input
           type="number"
           name="maxCommuteMinutes"
@@ -117,7 +143,7 @@ const MainForm = () => {
         ))}
       </div>
 
-      {/* Search Button with Icon */}
+      {/* Search Button */}
       <button
         type="submit"
         className="bg-blue-500 p-3 rounded-full ml-2 flex items-center justify-center hover:bg-blue-600 transition-colors duration-150"
