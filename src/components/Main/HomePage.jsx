@@ -94,13 +94,9 @@ const Home = () => {
         <Header headerRef={headerRef} onSearch={handleSearch} />
       </div>
 
-      {/* MainForm — now visible in homepage, NOT inside Header */}
-      <div className="w-full flex justify-center mt-[8rem] mb-6 px-4">
-        <MainForm onSearch={handleSearch} />
-      </div>
-
-      {/* Listings Section */}
-      <div className="w-full flex flex-col items-center justify-center px-4">
+      {/* Listings Section - MainForm removed, only in Header now */}
+      {/* Add top margin to prevent hiding under fixed header */}
+      <div className="w-full flex flex-col items-center justify-center px-4 mt-44">
         {isLoading ? (
           <p className="text-gray-500 text-center mt-20">
             Loading properties...

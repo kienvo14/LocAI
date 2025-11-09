@@ -84,10 +84,10 @@ const MainForm = ({ onSearch }) => {
         <input
           type="text"
           name="schoolAddress"
-          placeholder="UB (ignored - always UB)"
+          placeholder="School Name"
           value={form.schoolAddress}
           onChange={handleChange}
-          className="flex-1 px-4 py-2 focus:outline-none focus:bg-gray-100 placeholder-gray-400 rounded-md hover:bg-gray-100 transition-colors duration-150"
+          className="flex-1 w-40 px-2 py-2 focus:outline-none focus:bg-gray-100 placeholder-gray-400 rounded-md hover:bg-gray-100 transition-colors duration-150"
         />
       </div>
 
@@ -102,7 +102,7 @@ const MainForm = ({ onSearch }) => {
             placeholder="Min"
             value={form.priceRange[0]}
             onChange={handleChange}
-            className="w-20 px-2 py-2 focus:outline-none placeholder-gray-400"
+            className="w-16 px-2 py-2 focus:outline-none placeholder-gray-400"
           />
           <span className="px-1 text-gray-500">-</span>
           <input
@@ -111,7 +111,7 @@ const MainForm = ({ onSearch }) => {
             placeholder="Max"
             value={form.priceRange[1]}
             onChange={handleChange}
-            className="w-20 px-2 py-2 focus:outline-none placeholder-gray-400"
+            className="w-16 px-2 py-2 focus:outline-none placeholder-gray-400"
           />
         </div>
       </div>
@@ -126,13 +126,13 @@ const MainForm = ({ onSearch }) => {
           placeholder="Max Distance"
           value={form.maxCommuteMinutes}
           onChange={handleChange}
-          className="w-24 px-2 py-2 focus:outline-none focus:bg-gray-100 placeholder-gray-400 rounded-md hover:bg-gray-100 transition-colors duration-150"
+          className="w-20 px-2 py-2 focus:outline-none focus:bg-gray-100 placeholder-gray-400 rounded-md hover:bg-gray-100 transition-colors duration-150"
         />
       </div>
 
       <div className="w-px bg-gray-300 h-6 mx-2" />
 
-      <div className="flex items-center space-x-4">
+      <div className="flex items-center space-x-2">
         {booleanOptions.map((opt) => (
           <label
             key={opt.name}
