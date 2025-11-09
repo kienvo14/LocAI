@@ -55,22 +55,11 @@ const UserDmodal = ({ isOpen }) => {
       {userData ? (
         <div>
           <div className="w-full flex mt-2 flex-col justify-between">
-            <MenuItem text="Messages" />
-            <MenuItem text="Notification" />
-            <MenuItem text="Trips" to="/trips" isLink />
             <MenuItem text="Wishlist" to="/wishlist" isLink />
-          </div>
-          <div className="w-full py-[0.5px] my-2 z-30 bg-grey-light-50"></div>
-          <div>
-            <MenuItem text="Manage Listings"></MenuItem>
-            <MenuItem text="Refer a host"></MenuItem>
             <MenuItem text="Account"></MenuItem>
-          </div>
-          <div className="w-full py-[0.5px] my-2 z-30 bg-grey-light-50"></div>
-          <div className="mb-2">
             <MenuItem text="Help center"></MenuItem>
             <MenuItem text="Log out" onClick={getUserLogout} />
-          </div>
+          </div>          
         </div>
       ) : (
         <>
@@ -83,11 +72,6 @@ const UserDmodal = ({ isOpen }) => {
               text="Log in"
               onClick={() => dispatch(setShowLogin(true))}
             ></MenuItem>
-          </div>
-          <div className="w-full py-[0.5px] z-30 bg-grey-light-50"></div>
-          <div className="w-full flex mb-2 mt-2 flex-col justify-between">
-            <MenuItem text="Airbnb your home"></MenuItem>
-            <MenuItem text="Help center"></MenuItem>
           </div>
         </>
       )}

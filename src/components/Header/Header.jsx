@@ -1,4 +1,3 @@
-import icon from "../../asset/airbnbLogo.svg";
 import MainForm from "./Form/MainForm";
 import { useSelector } from "react-redux";
 import { useLocation } from "react-router";
@@ -10,7 +9,6 @@ function Header({ headerRef }) {
 
   const isHouseDetailPage = location.pathname.includes("/house/");
   const isWishListPage = location.pathname.includes("/wishlist");
-  const isTripsPage = location.pathname.includes("trips");
   const isSignInPage = location.pathname.includes("/login");
   const isProfilePage = location.pathname.includes("/account-settings");
 
@@ -22,7 +20,6 @@ function Header({ headerRef }) {
     startScroll,
     minimizeHeader,
     isWishListPage,
-    isTripsPage,
     isSignInPage,
     isProfilePage,
   });
@@ -34,7 +31,7 @@ function Header({ headerRef }) {
     >
       <div
         className={`grid grid-cols-${
-          isWishListPage || isTripsPage || isSignInPage || isProfilePage
+          isWishListPage || isSignInPage || isProfilePage
             ? "2"
             : "3"
         } ${
@@ -45,7 +42,7 @@ function Header({ headerRef }) {
       >
         <LogoSection />
 
-        {!isTripsPage && !isSignInPage && !isWishListPage && !isProfilePage && (
+        { !isSignInPage && !isWishListPage && !isProfilePage && (
           <CenterButtons
             startScroll={startScroll}
             minimizeHeader={minimizeHeader}
@@ -59,7 +56,7 @@ function Header({ headerRef }) {
         <AuthenticationModal />
       </div>
 
-      {!isWishListPage && !isSignInPage && !isTripsPage && !isProfilePage && (
+      {!isWishListPage && !isSignInPage && !isProfilePage && (
         <MainFormSection headerRef={headerRef} />
       )}
     </div>
@@ -125,7 +122,6 @@ function generateAfterClass({
   startScroll,
   minimizeHeader,
   isWishListPage,
-  isTripsPage,
   isSignInPage,
   isProfilePage,
 }) {
