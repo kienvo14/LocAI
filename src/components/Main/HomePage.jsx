@@ -131,10 +131,10 @@ const Home = () => {
                       {item.title}
                     </h3>
 
-                    <p className="text-gray-500 text-sm mt-1 truncate">
-                      {item.address}
+                    <p className="text-gray-500 text-sm mt-1">
+                      {item.distance ? `Distance: ${item.distance}` : item.address}
                     </p>
-
+                    
                     <div className="mt-3 flex items-center justify-between">
                       <div className="text-gray-800 font-semibold">
                         ${item.price}
