@@ -72,7 +72,7 @@ function LogoSection() {
     <div className="w-8">
       <a href="/">
         <div className="1xz:flex hidden h-20 items-center">
-          <img className="mr-2 h-36 " src={icon} alt="Airbnb Logo" />
+          <img className=" h-10 " src="https://www.buffalo.edu/content/www/brand/identity/university-logo-and-marks/jcr:content/par/image_13.img.418.auto.q65.png/1460123040155.png" alt="Airbnb Logo" />
           <h1 className="text-2xl 1lg:flex-center hidden leading-8 text-deepblue text-start font-semibold" style={{ color: "#1277e1" }}>
             LocAI
           </h1>
@@ -95,10 +95,10 @@ function CenterButtons({ startScroll, minimizeHeader }) {
       className={`flex h-20 transition-transform duration-[0.3s] ease-in-out ${translateClasses} justify-center items-center`}
     >
       <button className=" hidden 1smd:block  px-4 py-2 rounded-md font-medium">
-        Stays
+        Rent For College Students
       </button>
       <p className="h-[2.5rem] 1smd:flex items-center hidden justify-center hover:bg-gray-100 hover:text-slate-600 rounded-full text-center w-[8rem] text-grey font-light">
-        Experiences
+        After College
       </p>
     </div>
   );

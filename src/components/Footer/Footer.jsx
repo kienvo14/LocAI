@@ -13,26 +13,26 @@ const Footer = () => {
     >
       <div className=" flex-col 1md:flex-row flex">
         <span className="text-sm text-nowrap font-light">
-          © 2024 Airbnb, Inc
+          © 2025 UB Hacking
         </span>
         <div className="flex items-center ">
           <span className="mx-2 hidden 1md:flex items-center justify-center">
             <span className="w-[2px] h-[2px] bg-current rounded-full"></span>
           </span>
-          <span className="text-sm font-light">Privacy</span>
+          <span className="text-sm font-light">Bob Nguyen</span>
           <span className="mx-2 flex items-center justify-center">
             <span className="w-[2px] h-[2px] bg-current rounded-full"></span>
           </span>
-          <span className="text-sm font-light">Terms</span>
+          <span className="text-sm font-light">Khoa Nguyen</span>
           <span className="mx-2 flex items-center justify-center">
             <span className="w-[2px] h-[2px] bg-current rounded-full"></span>
           </span>
-          <span className="text-sm font-light">Sitemap</span>
+          <span className="text-sm font-light">Kien Vo</span>
           <span className="mx-2 flex items-center justify-center">
             <span className="w-[2px] h-[2px] bg-current rounded-full"></span>
           </span>
           <span className="text-sm text-nowrap font-light">
-            Company details
+            Bach Pham
           </span>
         </div>
       </div>

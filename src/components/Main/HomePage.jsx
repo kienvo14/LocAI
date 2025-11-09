@@ -163,7 +163,7 @@ const Home = () => {
               <div className="flex justify-center w-full">
                 <button
                   onClick={handleShowMore}
-                  className="mt-8 mb-12 px-6 py-2 bg-gray-200 rounded-2xl hover:bg-gray-300 text-gray-700 font-medium transition"
+                  className="mt-8 mb-12 px-6 py-2 bg-gray-200 rounded-xl hover:bg-gray-300 text-gray-700 font-medium transition"
                 >
                   Show More
                 </button>
