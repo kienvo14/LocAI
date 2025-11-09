@@ -14,6 +14,7 @@ const Home = () => {
   const [listings, setListings] = useState([]);
   const [visibleCount, setVisibleCount] = useState(9);
   const [isLoading, setIsLoading] = useState(true);
+  
 
   // Fetch property data
   useEffect(() => {
@@ -162,7 +163,7 @@ const Home = () => {
               <div className="flex justify-center w-full">
                 <button
                   onClick={handleShowMore}
-                  className="mt-8 mb-12 px-6 py-2 bg-gray-200 rounded-lg hover:bg-gray-300 text-gray-700 font-medium transition"
+                  className="mt-8 mb-12 px-6 py-2 bg-gray-200 rounded-2xl hover:bg-gray-300 text-gray-700 font-medium transition"
                 >
                   Show More
                 </button>

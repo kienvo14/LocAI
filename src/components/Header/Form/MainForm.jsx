@@ -1,28 +1,23 @@
 import React, { useState } from "react";
+import searchIcon from "../../../asset/Icons_svg/search-icon.svg";
 
 const MainForm = () => {
   const [form, setForm] = useState({
     schoolAddress: "",
     priceRange: [0, 1000],
-    petsAllowed: false,
-    hasCar: false,
     maxCommuteMinutes: 30,
-    commuteMethod: "walk",
+    hasCar: false,
+    petsAllowed: false,
+    publicTransport: false,
   });
 
   const handleChange = (e) => {
     const { name, value, type, checked } = e.target;
 
     if (name === "minPrice") {
-      setForm((prev) => ({
-        ...prev,
-        priceRange: [Number(value), prev.priceRange[1]],
-      }));
+      setForm((prev) => ({ ...prev, priceRange: [Number(value), prev.priceRange[1]] }));
     } else if (name === "maxPrice") {
-      setForm((prev) => ({
-        ...prev,
-        priceRange: [prev.priceRange[0], Number(value)],
-      }));
+      setForm((prev) => ({ ...prev, priceRange: [prev.priceRange[0], Number(value)] }));
     } else if (type === "checkbox") {
       setForm((prev) => ({ ...prev, [name]: checked }));
     } else {
@@ -36,80 +31,98 @@ const MainForm = () => {
     alert(JSON.stringify(form, null, 2));
   };
 
+  const booleanOptions = [
+    { name: "hasCar", label: "Has Car" },
+    { name: "petsAllowed", label: "Pets Allowed" },
+    { name: "publicTransport", label: "Public Transport" },
+  ];
+
   return (
     <form
       onSubmit={handleSubmit}
-      className="bg-white p-4 rounded shadow-md max-w-xl mx-auto space-y-4"
+      className="flex items-center justify-center max-w-4xl mx-auto space-x-2"
     >
-      <h2 className="text-lg font-semibold">User Preferences</h2>
-
-      {/* School Address */}
-      <input
-        type="text"
-        name="schoolAddress"
-        placeholder="School address"
-        value={form.schoolAddress}
-        onChange={handleChange}
-        className="w-full border p-2 rounded"
-      />
-
-      {/* Price Range */}
-      <div className="flex space-x-2">
+      {/* School Name */}
+      <div className="flex flex-col items-center group">
+        <label className="text-gray-500 text-xs mb-1 group-hover:text-gray-700">School Name</label>
         <input
-          type="number"
-          name="minPrice"
-          placeholder="Min Price"
-          value={form.priceRange[0]}
+          type="text"
+          name="schoolAddress"
+          placeholder="School address"
+          value={form.schoolAddress}
           onChange={handleChange}
-          className="w-1/2 border p-2 rounded"
-        />
-        <input
-          type="number"
-          name="maxPrice"
-          placeholder="Max Price"
-          value={form.priceRange[1]}
-          onChange={handleChange}
-          className="w-1/2 border p-2 rounded"
+          className="flex-1 px-4 py-2 focus:outline-none focus:bg-gray-100 placeholder-gray-400 rounded-md hover:bg-gray-100 transition-colors duration-150"
         />
       </div>
 
-      {/* Pets Allowed */}
-      <label className="flex items-center space-x-2">
+      <div className="w-px bg-gray-300 h-6 mx-2" />
+
+      {/* Price Range */}
+      <div className="flex flex-col items-center group">
+        <label className="text-gray-500 text-xs mb-1 group-hover:text-gray-700">Price Range</label>
+        <div className="flex items-center rounded-md overflow-hidden hover:bg-gray-100 transition-colors duration-150">
+          <input
+            type="number"
+            name="minPrice"
+            placeholder="Min"
+            value={form.priceRange[0]}
+            onChange={handleChange}
+            className="w-20 px-2 py-2 focus:outline-none placeholder-gray-400"
+          />
+          <span className="px-1 text-gray-500">-</span>
+          <input
+            type="number"
+            name="maxPrice"
+            placeholder="Max"
+            value={form.priceRange[1]}
+            onChange={handleChange}
+            className="w-20 px-2 py-2 focus:outline-none placeholder-gray-400"
+          />
+        </div>
+      </div>
+
+      <div className="w-px bg-gray-300 h-6 mx-2" />
+
+      {/* Distance */}
+      <div className="flex flex-col items-center group">
+        <label className="text-gray-500 text-xs mb-1 group-hover:text-gray-700">Distance (Miles)</label>
         <input
-          type="checkbox"
-          name="petsAllowed"
-          checked={form.petsAllowed}
+          type="number"
+          name="maxCommuteMinutes"
+          placeholder="Max Distance"
+          value={form.maxCommuteMinutes}
           onChange={handleChange}
+          className="w-24 px-2 py-2 focus:outline-none focus:bg-gray-100 placeholder-gray-400 rounded-md hover:bg-gray-100 transition-colors duration-150"
         />
-        <span>Pets Allowed</span>
-      </label>
+      </div>
 
-      {/* Has Car */}
-      <label className="flex items-center space-x-2">
-        <input
-          type="checkbox"
-          name="hasCar"
-          checked={form.hasCar}
-          onChange={handleChange}
-        />
-        <span>Has Car</span>
-      </label>
+      <div className="w-px bg-gray-300 h-6 mx-2" />
 
-      {/* Max Commute Minutes */}
-      <input
-        type="number"
-        name="maxCommuteMinutes"
-        placeholder="Max Commute Miles"
-        value={form.maxCommuteMinutes}
-        onChange={handleChange}
-        className="w-full border p-2 rounded"
-      />
+      {/* Boolean Options */}
+      <div className="flex items-center space-x-4">
+        {booleanOptions.map((opt) => (
+          <label
+            key={opt.name}
+            className="flex items-center space-x-1 text-gray-500 text-xs px-2 py-1 rounded-md hover:bg-gray-100 cursor-pointer transition-colors duration-150"
+          >
+            <input
+              type="checkbox"
+              name={opt.name}
+              checked={form[opt.name]}
+              onChange={handleChange}
+              className="accent-blue-500"
+            />
+            <span>{opt.label}</span>
+          </label>
+        ))}
+      </div>
 
+      {/* Search Button with Icon */}
       <button
         type="submit"
-        className="w-full bg-blue-500 text-white p-2 rounded hover:bg-blue-600"
+        className="bg-blue-500 p-3 rounded-full ml-2 flex items-center justify-center hover:bg-blue-600 transition-colors duration-150"
       >
-        Save Preferences
+        <img src={searchIcon} alt="Search" className="w-5 h-5" />
       </button>
     </form>
   );

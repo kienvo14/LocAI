@@ -30,7 +30,7 @@ function Header({ headerRef }) {
   return (
     <div
       id="header"
-      className={`w-full py-2 1xz:py-0 relative bg-white flex flex-col 1smd:items-center items-start justify-center ${afterClass}`}
+      className={`w-full py-2 1xz:py-0 relative flex flex-col 1smd:items-center items-start justify-center ${afterClass}`}
     >
       <div
         className={`grid grid-cols-${
@@ -109,11 +109,13 @@ function CenterButtons({ startScroll, minimizeHeader }) {
 function MainFormSection({ headerRef }) {
   return (
     <div className="w-full 1smd:w-auto hidden 1xz:flex 1smd:block items-center justify-start 1smd:pl-0 pl-[16rem]">
-      <MainForm headerRef={headerRef} />
+      {/* Outer pill/border wrapper */}
+      <div className="flex items-center justify-center rounded-full border border-gray-200 p-1 bg-white">
+        <MainForm headerRef={headerRef} />
+      </div>
     </div>
   );
 }
-
 // Helper Functions
 
 /**
@@ -127,19 +129,8 @@ function generateAfterClass({
   isSignInPage,
   isProfilePage,
 }) {
-  const transitionClasses = minimizeHeader
-    ? "1md:after:translate-y-[6rem] after:opacity-0"
-    : "1md:after:translate-y-[-0.2rem] 1sm:after:translate-y-[-0.2rem] after:opacity-100";
-
-  return `after:content-[''] after:hidden after:1xz:block  ${
-    !startScroll ||
-    isWishListPage ||
-    isTripsPage ||
-    isSignInPage ||
-    isProfilePage
-      ? `${transitionClasses}`
-      : "1md:after:translate-y-[5.5rem] 1sm:after:translate-y-[8.2rem]"
-  } after:transition-transform after:duration-[0.3s] after:ease-in-out after:w-full after:bg-grey-dim after:z-50 after:h-[1px]`;
+  return ''; // no after pseudo-element
 }
+
 
 export default Header;
